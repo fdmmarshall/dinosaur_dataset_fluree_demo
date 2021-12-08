@@ -17,7 +17,5 @@
     "url": "https://github.com/fdmmarshall/dinosaur_dataset_fluree_demo/issues"
   },
   "homepage": "https://github.com/fdmmarshall/dinosaur_dataset_fluree_demo#readme",
-  "dependencies": {
-    "csvtojson": "^2.0.10"
-  }
+  "dependencies": {}
 }
