@@ -23,5 +23,10 @@
         "id": "_collection",
         "name": "period",
         "doc": "A collection of dinosaurs with all relevent information."
+    },
+    {
+        "id": "_collection",
+        "name": "taxonomy_details",
+        "doc": "A collection of dinosaurs with all relevent information."
     }
 ]
