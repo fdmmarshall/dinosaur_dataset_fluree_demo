@@ -1,1 +1,27 @@
-[{},{},{},{},{}]
+[
+    {
+        "id": "_collection",
+        "name": "dinos",
+        "doc": "A collection of dinosaurs with all relevent information."
+    },
+    {
+        "id": "_collection",
+        "name": "diet",
+        "doc": "A collection of dinosaurs with all relevent information."
+    },
+    {
+        "id": "_collection",
+        "name": "type",
+        "doc": "A collection of dinosaurs with all relevent information."
+    },
+    {
+        "id": "_collection",
+        "name": "country",
+        "doc": "A collection of dinosaurs with all relevent information."
+    },
+    {
+        "id": "_collection",
+        "name": "period",
+        "doc": "A collection of dinosaurs with all relevent information."
+    }
+]
