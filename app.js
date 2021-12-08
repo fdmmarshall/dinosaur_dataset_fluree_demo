@@ -1,3 +1,5 @@
+//converts csv to json format
+
 // Node packages for file system
 var fs = require('fs');
 var path = require('path');
