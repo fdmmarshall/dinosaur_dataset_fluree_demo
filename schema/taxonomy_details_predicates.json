@@ -1,0 +1,23 @@
+[
+    {
+        "id": "_predicate",
+        "name": "taxonomy_details/taxonomy",
+        "doc": "The classification of dinosaur.",
+        "type": "string"
+    },
+    {
+        "id": "_predicate",
+        "name": "taxonomy_details/named_by",
+        "doc": "The scientist/s who named the dinosaur.",
+        "type": "string",
+        "unique": "true",
+        "fullText": "true"
+    },
+    {
+        "id": "_predicate",
+        "name": "taxonomy_details/species",
+        "doc": "The species of dinosaur.",
+        "type": "string",
+        "fullText": "true"
+    }
+]

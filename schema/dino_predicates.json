@@ -9,6 +9,13 @@
     },
     {
         "id": "_predicate",
+        "name": "english-translation",
+        "doc": "The english language translation of the dinosaur's name.",
+        "type": "string",
+        "unique": "true"
+    },
+    {
+        "id": "_predicate",
         "name": "diet-type",
         "doc": "The diet type a specific dinosaur had.",
         "type": "ref",
@@ -44,31 +51,8 @@
     },
     {
         "id": "_predicate",
-        "name": "taxonomy",
-        "doc": "The classification of dinosaur.",
-        "type": "string"
-    },
-    {
-        "id": "_predicate",
-        "name": "named_by",
-        "doc": "The scientist/s who named the dinosaur.",
-        "type": "string",
-        "unique": "true",
-        "fullText": "true"
-    },
-    {
-        "id": "_predicate",
-        "name": "dinosaur-name",
-        "doc": "the formal name given to the dinosaur",
-        "type": "string",
-        "unique": "true",
-        "fullText": "true"
-    },
-    {
-        "id": "_predicate",
-        "name": "species",
-        "doc": "The species of dinosaur.",
-        "type": "string",
-        "fullText": "true"
+        "name": "link",
+        "doc": "the URI to the dinosaurs info page.",
+        "type": "uri"
     }
 ]
