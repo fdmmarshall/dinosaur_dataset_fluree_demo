@@ -7,26 +7,26 @@
     {
         "id": "_collection",
         "name": "diet",
-        "doc": "A collection of dinosaurs with all relevent information."
+        "doc": "A collection of diet information specific to each dinosaur."
     },
     {
         "id": "_collection",
         "name": "type",
-        "doc": "A collection of dinosaurs with all relevent information."
+        "doc": "A collection of dinosaur types with relevent information."
     },
     {
         "id": "_collection",
-        "name": "country",
-        "doc": "A collection of dinosaurs with all relevent information."
+        "name": "location",
+        "doc": "A collection of locations where dinosaurs have been found."
     },
     {
         "id": "_collection",
         "name": "period",
-        "doc": "A collection of dinosaurs with all relevent information."
+        "doc": "A collection of time the periods when specific dinosaurs lived."
     },
     {
         "id": "_collection",
         "name": "taxonomy_details",
-        "doc": "A collection of dinosaurs with all relevent information."
+        "doc": "A collection of taxonomy details for each dinosaur."
     }
 ]
