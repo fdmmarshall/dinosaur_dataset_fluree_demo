@@ -40,14 +40,15 @@
         "id": "_predicate",
         "name": "dino-type",
         "doc": "The type of dinosaur.",
-        "type": "string",
-        "fullText": "true"
+        "type": "ref",
+        "restrictCollection": "type"
     },
     {
         "id": "_predicate",
         "name": "length",
         "doc": "The length of the dinosaur displayed in meters.",
-        "type": "string"
+        "type": "ref",
+        "restrictCollection": "type"
     },
     {
         "id": "_predicate",
