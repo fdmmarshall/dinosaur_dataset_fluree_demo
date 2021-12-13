@@ -6,11 +6,6 @@
     },
     {
         "id": "_collection",
-        "name": "diet",
-        "doc": "A collection of diet information specific to each dinosaur."
-    },
-    {
-        "id": "_collection",
         "name": "type",
         "doc": "A collection of dinosaur types with relevent information."
     },
@@ -21,7 +16,7 @@
     },
     {
         "id": "_collection",
-        "name": "taxonomy_details",
+        "name": "taxonomyDetails",
         "doc": "A collection of taxonomy details for each dinosaur."
     }
 ]
