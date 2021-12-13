@@ -1,7 +1,7 @@
 [
     {
         "id": "_predicate",
-        "name": "period/period-name",
+        "name": "period/periodName",
         "doc": "The formal name given to the dinosaur.",
         "type": "string",
         "unique": "true",
@@ -15,7 +15,7 @@
     },
     {
         "id": "_predicate",
-        "name": "period/dinosaur-location",
+        "name": "period/dinosaurLocation",
         "doc": "The diet type a specific dinosaur had.",
         "type": "string",
         "multi": "true"

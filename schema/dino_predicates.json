@@ -1,7 +1,7 @@
 [
     {
         "id": "_predicate",
-        "name": "dino/dinosaur-name",
+        "name": "dino/dinosaurName",
         "doc": "The formal name given to the dinosaur.",
         "type": "string",
         "unique": "true",
@@ -9,14 +9,14 @@
     },
     {
         "id": "_predicate",
-        "name": "dino/english-translation",
+        "name": "dino/englishTranslation",
         "doc": "The english language translation of the dinosaur's name.",
         "type": "string",
         "unique": "true"
     },
     {
         "id": "_predicate",
-        "name": "dino/diet-type",
+        "name": "dino/dietType",
         "doc": "The diet type a specific dinosaur had.",
         "type": "ref",
         "restrictCollection": "type"
@@ -30,7 +30,7 @@
     },
     {
         "id": "_predicate",
-        "name": "dino/lived_in",
+        "name": "dino/livedIn",
         "doc": "The region in which the dinosaur lived in.",
         "type": "ref",
         "restrictCollection": "country",
@@ -38,7 +38,7 @@
     },
     {
         "id": "_predicate",
-        "name": "dino/dino-type",
+        "name": "dino/dinoType",
         "doc": "The type of dinosaur.",
         "type": "ref",
         "restrictCollection": "type"
