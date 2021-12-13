@@ -1,0 +1,24 @@
+[
+    {
+        "id": "_predicate",
+        "name": "type/dinosaur-type",
+        "doc": "The formal name given to the dinosaur.",
+        "type": "string",
+        "unique": "true",
+        "fullText": "true"
+    },
+    {
+        "id": "_predicate",
+        "name": "type/species",
+        "doc": "The english language translation of the dinosaur's name.",
+        "type": "string",
+        "unique": "true",
+        "fullText": "true"
+    },
+    {
+        "id": "_predicate",
+        "name": "type/length",
+        "doc": "The diet type a specific dinosaur had.",
+        "type": "string"
+    }
+]

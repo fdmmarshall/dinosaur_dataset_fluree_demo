@@ -17,7 +17,7 @@
         "id": "_predicate",
         "name": "taxonomy_details/species",
         "doc": "The species of dinosaur.",
-        "type": "string",
-        "fullText": "true"
+        "type": "ref",
+        "restrictCollection": "type"
     }
 ]

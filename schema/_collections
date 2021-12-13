@@ -16,11 +16,6 @@
     },
     {
         "id": "_collection",
-        "name": "location",
-        "doc": "A collection of locations where dinosaurs have been found."
-    },
-    {
-        "id": "_collection",
         "name": "period",
         "doc": "A collection of time the periods when specific dinosaurs lived."
     },
