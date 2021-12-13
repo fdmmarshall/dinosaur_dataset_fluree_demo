@@ -4,12 +4,20 @@
         "name": "Aardonyx",
         "english-translation": "Earth-claw",
         "diet-type": "herbivorous",
-        "period": "Early Jurassic 199-189 million years ago",
-        "lived_in": "South Africa",
+        "period": {
+            "id": "period",
+            "period-name": "Early Jurassic",
+            "years": "199-189 million years ago",
+            "location": "South Africa"
+        },
+        "lived_in": [
+            "period/location",
+            "South Africa"
+        ],
         "dino-type": "sauropod",
         "length": "8.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria",
-        "named_by": "Yates Bonnan, Neveling Chinsamy, and Blackbeard 2010 (2009)",
+        "named_by": "Yates Bonnan Neveling Chinsamy and Blackbeard 2010 (2009)",
         "species": "celestae",
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aardonyx.html"
     },
@@ -18,8 +26,16 @@
         "name": "Abelisaurus",
         "english-translation": "Abel's lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "large theropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae",
@@ -32,8 +48,16 @@
         "name": "Achelousaurus",
         "english-translation": "Achelous lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 83-70 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "83-70 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
@@ -46,8 +70,16 @@
         "name": "Achillobator",
         "english-translation": "Achilles hero",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 99-84 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "99-84 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -60,8 +92,16 @@
         "name": "Acrocanthosaurus",
         "english-translation": "high-spined lizard",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 115-105 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "115-105 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
@@ -74,8 +114,16 @@
         "name": "Aegyptosaurus",
         "english-translation": "Egyptian lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 98-93 million years ago",
-        "lived_in": "Egypt",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "98-93 million years ago",
+            "location": "Egypt"
+        },
+        "lived_in": [
+            "period/location",
+            "Egypt"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -88,8 +136,16 @@
         "name": "Afrovenator",
         "english-translation": "African hunter",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 132-121 million years ago",
-        "lived_in": "Niger",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "132-121 million years ago",
+            "location": "Niger"
+        },
+        "lived_in": [
+            "period/location",
+            "Niger"
+        ],
         "dino-type": "large theropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
@@ -102,8 +158,16 @@
         "name": "Agilisaurus",
         "english-translation": "Agile lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 169-159 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "169-159 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "1.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -116,8 +180,16 @@
         "name": "Alamosaurus",
         "english-translation": "Alamo lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 70-65 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "70-65 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "21.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
@@ -130,8 +202,16 @@
         "name": "Albertaceratops",
         "english-translation": "Alberta horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 80-75 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "80-75 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia",
@@ -144,8 +224,16 @@
         "name": "Albertosaurus",
         "english-translation": "Alberta lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago",
+            "location": "Canada"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "large theropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
@@ -158,8 +246,16 @@
         "name": "Alectrosaurus",
         "english-translation": "Eagle lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 90-70 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "90-70 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
@@ -172,8 +268,16 @@
         "name": "Alioramus",
         "english-translation": "Other (evolutionary) branch",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
@@ -186,8 +290,16 @@
         "name": "Allosaurus",
         "english-translation": "Other lizard",
         "diet-type": "carnivorous",
-        "period": "Late Jurassic 156-144 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "156-144 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
@@ -200,8 +312,16 @@
         "name": "Alvarezsaurus",
         "english-translation": "Alvarez's lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 89-85 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "89-85 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
@@ -214,8 +334,16 @@
         "name": "Amargasaurus",
         "english-translation": "Amarga lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 132-127 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "132-127 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
@@ -228,8 +356,16 @@
         "name": "Ammosaurus",
         "english-translation": "Sand lizard",
         "diet-type": "herbivorous",
-        "period": "Early Jurassic 195-180 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Early Jurassic",
+            "years": "195-180 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
@@ -242,8 +378,16 @@
         "name": "Ampelosaurus",
         "english-translation": "Vineyard lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
-        "lived_in": "France",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago",
+            "location": "France"
+        },
+        "lived_in": [
+            "period/location",
+            "France"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
@@ -256,8 +400,16 @@
         "name": "Amygdalodon",
         "english-translation": "Almond tooth",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 177-169 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "177-169 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -270,8 +422,16 @@
         "name": "Anchiceratops",
         "english-translation": "Near horned lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago",
+            "location": "Canada"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
@@ -284,8 +444,16 @@
         "name": "Anchisaurus",
         "english-translation": "Near lizard",
         "diet-type": "herbivorous",
-        "period": "Early Jurassic 190 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Early Jurassic",
+            "years": "190 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
@@ -298,8 +466,16 @@
         "name": "Ankylosaurus",
         "english-translation": "Stiff lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 74-67 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-67 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -312,8 +488,16 @@
         "name": "Anserimimus",
         "english-translation": "Goose Mimic",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-65 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-65 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "3.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
@@ -326,8 +510,16 @@
         "name": "Antarctosaurus",
         "english-translation": "Non-northern lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 84-65 million years ago",
-        "lived_in": "Uruguay",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-65 million years ago",
+            "location": "Uruguay"
+        },
+        "lived_in": [
+            "period/location",
+            "Uruguay"
+        ],
         "dino-type": "sauropod",
         "length": "18.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
@@ -340,8 +532,16 @@
         "name": "Apatosaurus",
         "english-translation": "Deceptive lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 154-145 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "154-145 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "21.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
@@ -354,8 +554,16 @@
         "name": "Aragosaurus",
         "english-translation": "Aragón lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 132-121 million years ago",
-        "lived_in": "Spain",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "132-121 million years ago",
+            "location": "Spain"
+        },
+        "lived_in": [
+            "period/location",
+            "Spain"
+        ],
         "dino-type": "sauropod",
         "length": "18.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -368,8 +576,16 @@
         "name": "Aralosaurus",
         "english-translation": "Aral lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 94-84 million years ago",
-        "lived_in": "Kazakhstan",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "94-84 million years ago",
+            "location": "Kazakhstan"
+        },
+        "lived_in": [
+            "period/location",
+            "Kazakhstan"
+        ],
         "dino-type": "euornithopod",
         "length": "8.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -382,8 +598,16 @@
         "name": "Archaeoceratops",
         "english-translation": "Ancient horned face",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "ceratopsian",
         "length": "1.3m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
@@ -396,8 +620,16 @@
         "name": "Archaeopteryx",
         "english-translation": "Ancient wing",
         "diet-type": "carnivorous",
-        "period": "Late Jurassic 147 million years ago",
-        "lived_in": "Germany",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "147 million years ago",
+            "location": "Germany"
+        },
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "small theropod",
         "length": "0.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae",
@@ -410,8 +642,16 @@
         "name": "Archaeornithomimus",
         "english-translation": "Ancient bird mimic",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 95-70 million years ago",
-        "lived_in": "Uzbekistan",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "95-70 million years ago",
+            "location": "Uzbekistan"
+        },
+        "lived_in": [
+            "period/location",
+            "Uzbekistan"
+        ],
         "dino-type": "small theropod",
         "length": "3.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
@@ -424,8 +664,16 @@
         "name": "Argentinosaurus",
         "english-translation": "Argentina lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 90 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "90 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "35.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -438,8 +686,16 @@
         "name": "Arrhinoceratops",
         "english-translation": "Without-nose horn face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 72-67 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "72-67 million years ago",
+            "location": "Canada"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
@@ -452,8 +708,16 @@
         "name": "Atlascopcosaurus",
         "english-translation": "Atlas Copco lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-97 million years ago",
-        "lived_in": "Australia",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-97 million years ago",
+            "loca": "Australia"
+        },
+        "lived_in": [
+            "period/location",
+            "Australia"
+        ],
         "dino-type": "euornithopod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -466,8 +730,16 @@
         "name": "Aucasaurus",
         "english-translation": "Auca lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "large theropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
@@ -480,8 +752,16 @@
         "name": "Austrosaurus",
         "english-translation": "South lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 112-99 million years ago",
-        "lived_in": "Australia",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "112-99 million years ago",
+            "location": "Australia"
+        },
+        "lived_in": [
+            "period/location",
+            "Australia"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -494,8 +774,16 @@
         "name": "Avaceratops",
         "english-translation": "Ava's horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 80-75 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "80-75 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "2.3m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
@@ -508,8 +796,16 @@
         "name": "Avimimus",
         "english-translation": "Bird mimic",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 80-75 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "80-75 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae",
@@ -522,8 +818,16 @@
         "name": "Bactrosaurus",
         "english-translation": "Club spined lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
@@ -536,8 +840,16 @@
         "name": "Bagaceratops",
         "english-translation": "Smalled-horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 85-80 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "85-80 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "ceratopsian",
         "length": "1.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae",
@@ -550,8 +862,16 @@
         "name": "Bambiraptor",
         "english-translation": "Bambi plunderer",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -564,8 +884,16 @@
         "name": "Barapasaurus",
         "english-translation": "Big leg lizard",
         "diet-type": "herbivorous",
-        "period": "Early Jurassic 185-170 million years ago",
-        "lived_in": "India",
+        "period": {
+            "id": "period",
+            "period-name": "Early Jurassic",
+            "years": "185-170 million years ago",
+            "location": "India"
+        },
+        "lived_in": [
+            "period/location",
+            "India"
+        ],
         "dino-type": "sauropod",
         "length": "14.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
@@ -578,8 +906,16 @@
         "name": "Barosaurus",
         "english-translation": "Heavy lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-145 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-145 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "24.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
@@ -592,8 +928,16 @@
         "name": "Baryonyx",
         "english-translation": "Heavy claw",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 125 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125 million years ago",
+            "location": "United Kingdom"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
@@ -606,8 +950,15 @@
         "name": "Becklespinax",
         "english-translation": "Beckles' spinax",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 142-132 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "142-132 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
@@ -620,8 +971,16 @@
         "name": "Beipiaosaurus",
         "english-translation": "Beipiao lizard",
         "diet-type": "omnivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea",
@@ -634,8 +993,16 @@
         "name": "Bellusaurus",
         "english-translation": "Fine lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 180-159 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "180-159 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
@@ -648,8 +1015,16 @@
         "name": "Borogovia",
         "english-translation": "Borogove",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-65 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-65 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
@@ -662,8 +1037,16 @@
         "name": "Brachiosaurus",
         "english-translation": "Arm lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-140 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-140 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "30.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
@@ -676,8 +1059,16 @@
         "name": "Brachylophosaurus",
         "english-translation": "Short-crested lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 89-88 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "89-88 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -690,8 +1081,16 @@
         "name": "Brachytrachelopan",
         "english-translation": "Short-necked Pan (shepard god)",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 150 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "150 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
@@ -704,8 +1103,16 @@
         "name": "Buitreraptor",
         "english-translation": "Buitrera 'vulture roost' plunderer",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 99-90 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "99-90 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "small theropod",
         "length": "1.3m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae",
@@ -718,8 +1125,16 @@
         "name": "Camarasaurus",
         "english-translation": "Chambered lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 150-140 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "150-140 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "23.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
@@ -732,8 +1147,16 @@
         "name": "Camptosaurus",
         "english-translation": "Bent lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-145 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-145 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia",
@@ -746,8 +1169,16 @@
         "name": "Carcharodontosaurus",
         "english-translation": "Carcharodon lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 98-94 million years ago",
-        "lived_in": "North Africa",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "98-94 million years ago",
+            "location": "North Africa"
+        },
+        "lived_in": [
+            "period/location",
+            "North Africa"
+        ],
         "dino-type": "large theropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
@@ -760,8 +1191,16 @@
         "name": "Carnotaurus",
         "english-translation": "Carnivorous bull",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 70 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "70 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "large theropod",
         "length": "7.6m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
@@ -774,8 +1213,16 @@
         "name": "Caudipteryx",
         "english-translation": "Tail feather",
         "diet-type": "omnivorous",
-        "period": "Early Cretaceous 125-122 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125-122 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae",
@@ -788,8 +1235,16 @@
         "name": "Cedarpelta",
         "english-translation": "Cedar (Mountain Formation) shield",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 142-127 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "142-127 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "10.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -802,8 +1257,16 @@
         "name": "Centrosaurus",
         "english-translation": "Sharp pointed lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago",
+            "location": "Canada"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
@@ -816,8 +1279,16 @@
         "name": "Ceratosaurus",
         "english-translation": "Horned lizard",
         "diet-type": "carnivorous",
-        "period": "Late Jurassic 153-148 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "153-148 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
@@ -830,8 +1301,16 @@
         "name": "Cetiosauriscus",
         "english-translation": "Like whale lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 175-160 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "175-160 million years ago",
+            "location": "United Kingdom"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea",
@@ -844,8 +1323,16 @@
         "name": "Cetiosaurus",
         "english-translation": "Whale lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 170-160 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "170-160 million years ago",
+            "location": "United Kingdom"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "sauropod",
         "length": "18.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
@@ -858,8 +1345,16 @@
         "name": "Chaoyangsaurus",
         "english-translation": "Chaoyang lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 152-145 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "152-145 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "ceratopsian",
         "length": "1.1m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
@@ -872,8 +1367,16 @@
         "name": "Chasmosaurus",
         "english-translation": "Chasm lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago",
+            "location": "Canada"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "ceratopsian",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
@@ -886,8 +1389,16 @@
         "name": "Chindesaurus",
         "english-translation": "Chinde lizard",
         "diet-type": "carnivorous",
-        "period": "Late Triassic 227-210 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Triassic",
+            "years": "227-210 million years ago",
+            "location": "USA"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Herrerasauridae",
@@ -900,8 +1411,16 @@
         "name": "Chinshakiangosaurus",
         "english-translation": "Chinshaking lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 159-142 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "159-142 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "11.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
@@ -914,8 +1433,16 @@
         "name": "Chirostenotes",
         "english-translation": "Narrow-lizard",
         "diet-type": "omnivorous",
-        "period": "Late Jurassic 79-67 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "79-67 million years ago",
+            "location": "Canada"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "small theropod",
         "length": "1.7m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
@@ -928,8 +1455,16 @@
         "name": "Chubutisaurus",
         "english-translation": "Chubut 'province' lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 112-99 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "112-99 million years ago",
+            "location": "Argentina"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "23.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -942,8 +1477,16 @@
         "name": "Chungkingosaurus",
         "english-translation": "Chongqing lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 159-142 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "159-142 million years ago",
+            "location": "China"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
@@ -956,8 +1499,16 @@
         "name": "Citipati",
         "english-translation": "Lord of the funeral pyre",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 81-75 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "81-75 million years ago",
+            "location": "Mongolia"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "2.1m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
@@ -970,8 +1521,16 @@
         "name": "Coelophysis",
         "english-translation": "Hollow form",
         "diet-type": "carnivorous",
-        "period": "Late Triassic 225-190 million years ago",
-        "lived_in": "Zimbabwe",
+        "period": {
+            "id": "period",
+            "period-name": "Late Triassic",
+            "years": "225-190 million years ago",
+            "location": "Zimbabwe"
+        },
+        "lived_in": [
+            "period/location",
+            "Zimbabwe"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
@@ -984,8 +1543,15 @@
         "name": "Coelurus",
         "english-translation": "Hollow tail",
         "diet-type": "carnivorous",
-        "period": "Late Jurassic 155-145 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-145 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "1.8m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
@@ -999,7 +1565,10 @@
         "english-translation": "Los Colorados lizard",
         "diet-type": "omnivorous",
         "period": "Late Triassic 221-210 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
@@ -1013,7 +1582,10 @@
         "english-translation": "Pretty jaw",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 145-140 million years ago",
-        "lived_in": "Germany",
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "small theropod",
         "length": "0.65m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
@@ -1027,7 +1599,10 @@
         "english-translation": "Conch thief",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 81-76 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
@@ -1040,8 +1615,15 @@
         "name": "Confuciusornis",
         "english-translation": "Confucius bird",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "0.25m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae",
@@ -1054,8 +1636,15 @@
         "name": "Corythosaurus",
         "english-translation": "Corinthian helmet lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
@@ -1083,7 +1672,10 @@
         "english-translation": "Pointed tail",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-150 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae",
@@ -1096,8 +1688,15 @@
         "name": "Daspletosaurus",
         "english-translation": "Frightful lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "large theropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
@@ -1111,7 +1710,10 @@
         "english-translation": "Datou lizard",
         "diet-type": "herbivorous",
         "period": "Mid Jurassic 170 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
@@ -1125,7 +1727,10 @@
         "english-translation": "Terrible hand",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 70-66 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
@@ -1139,7 +1744,10 @@
         "english-translation": "Terrible claw",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 120-110 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -1180,8 +1788,15 @@
         "name": "Dilophosaurus",
         "english-translation": "Two-ridged lizard",
         "diet-type": "carnivorous",
-        "period": "Early Jurassic 190 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Early Jurassic",
+            "years": "190 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae",
@@ -1194,8 +1809,15 @@
         "name": "Diplodocus",
         "english-translation": "Double beam",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-145 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-145 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "26.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
@@ -1208,8 +1830,15 @@
         "name": "Dromaeosaurus",
         "english-translation": "running lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "1.8m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -1222,8 +1851,15 @@
         "name": "Dromiceiomimus",
         "english-translation": "Emu mimic",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "large theropod",
         "length": "3.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
@@ -1236,8 +1872,15 @@
         "name": "Dryosaurus",
         "english-translation": "Oak lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-140 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-140 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
@@ -1250,8 +1893,15 @@
         "name": "Dryptosaurus",
         "english-translation": "Tearing lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-65 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "6.4m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
@@ -1278,8 +1928,15 @@
         "name": "Edmontonia",
         "english-translation": "Of Edmonton",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
@@ -1293,7 +1950,10 @@
         "english-translation": "Edmonton lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 76-65 million years ago",
-        "lived_in": "Canada",
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "euornithopod",
         "length": "13.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -1307,7 +1967,10 @@
         "english-translation": "Bison lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 74 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
@@ -1335,7 +1998,10 @@
         "english-translation": "EMAU (Ernst-Moritz-Arndt-Universität) lizard",
         "diet-type": "herbivorous",
         "period": "Mid Jurassic 190-180 million years ago",
-        "lived_in": "Germany",
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "2.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora",
@@ -1349,7 +2015,10 @@
         "english-translation": "Dawn lambeosaurine",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 99-94 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -1363,7 +2032,10 @@
         "english-translation": "Early plunderer",
         "diet-type": "carnivorous",
         "period": "Late Triassic 228 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda",
@@ -1376,8 +2048,15 @@
         "name": "Eotyrannus",
         "english-translation": "Dawn tyrant",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
@@ -1391,7 +2070,10 @@
         "english-translation": "unknown",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 127-99 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -1405,7 +2087,10 @@
         "english-translation": "Erketu = Tengri (a Mongolian creator-god)",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -1419,7 +2104,10 @@
         "english-translation": "Erlik's lizard",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 99-89 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "3.4m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
@@ -1433,7 +2121,10 @@
         "english-translation": "1 marsh foot",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -1447,7 +2138,10 @@
         "english-translation": "Well-armoured head",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 76-70 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -1461,7 +2155,10 @@
         "english-translation": "Europe lizard",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-151 million years ago",
-        "lived_in": "Germany",
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "sauropod",
         "length": "6.2m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
@@ -1475,7 +2172,10 @@
         "english-translation": "Well-curved vertebra",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 165 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
@@ -1488,7 +2188,11 @@
         "name": "Fukuiraptor",
         "english-translation": "Fukui plunderer",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
         "lived_in": "Japan",
         "dino-type": "large theropod",
         "length": "4.2m",
@@ -1502,7 +2206,11 @@
         "name": "Fukuisaurus",
         "english-translation": "Fukui lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
         "lived_in": "Japan",
         "dino-type": "euornithopod",
         "length": "4.7m",
@@ -1516,8 +2224,15 @@
         "name": "Gallimimus",
         "english-translation": "Chicken mimic",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
@@ -1531,7 +2246,10 @@
         "english-translation": "Gargoyle lizard",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
@@ -1545,7 +2263,10 @@
         "english-translation": "Garuda mimic",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 99-89 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "4.7m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
@@ -1558,8 +2279,15 @@
         "name": "Gasosaurus",
         "english-translation": "Gas lizard",
         "diet-type": "carnivorous",
-        "period": "Mid Jurassic 170-160 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "170-160 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
@@ -1573,7 +2301,10 @@
         "english-translation": "Gasparini's lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 86-71 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "euornithopod",
         "length": "0.8m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -1586,8 +2317,15 @@
         "name": "Gastonia",
         "english-translation": "[Robert] Gaston",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 142-127 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "142-127 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.6m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
@@ -1601,7 +2339,10 @@
         "english-translation": "Giant southern lizard",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 112-90 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "large theropod",
         "length": "12.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
@@ -1615,7 +2356,10 @@
         "english-translation": "Gilmore's lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 76-70 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
@@ -1642,8 +2386,15 @@
         "name": "Gobisaurus",
         "english-translation": "Gobi lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -1670,8 +2421,15 @@
         "name": "Goyocephale",
         "english-translation": "Decorated head",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 81-75 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "81-75 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala",
@@ -1684,8 +2442,15 @@
         "name": "Graciliceratops",
         "english-translation": "Gracile horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 99-84 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "99-84 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "ceratopsian",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
@@ -1699,7 +2464,10 @@
         "english-translation": "Hook-nosed lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 86-71 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -1727,7 +2495,10 @@
         "english-translation": "Crowned dragon",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 159-154 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
@@ -1741,7 +2512,10 @@
         "english-translation": "Big lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 78-74 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -1769,7 +2543,10 @@
         "english-translation": "Simple-spined lizard",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "21.5m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
@@ -1782,8 +2559,15 @@
         "name": "Harpymimus",
         "english-translation": "Harpy mimic",
         "diet-type": "omnivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
@@ -1797,7 +2581,10 @@
         "english-translation": "Herrera's lizard",
         "diet-type": "carnivorous",
         "period": "Late Triassic 228 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "small theropod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Herrerasauridae",
@@ -1811,7 +2598,10 @@
         "english-translation": "Western lizard",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
@@ -1825,7 +2615,10 @@
         "english-translation": "Different-teeth lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 205 million years ago",
-        "lived_in": "South Africa",
+        "lived_in": [
+            "period/location",
+            "South Africa"
+        ],
         "dino-type": "euornithopod",
         "length": "1.2m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
@@ -1839,7 +2632,10 @@
         "english-translation": "From [the city of] Heyuan",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 72-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
@@ -1853,7 +2649,10 @@
         "english-translation": "Level head",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 72-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "euornithopod",
         "length": "1.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea",
@@ -1866,8 +2665,15 @@
         "name": "Huayangosaurus",
         "english-translation": "Huayang lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 170-160 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "170-160 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae",
@@ -1881,7 +2687,10 @@
         "english-translation": "Woodland lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 150-135 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
@@ -1894,8 +2703,15 @@
         "name": "Hypacrosaurus",
         "english-translation": "Near-topmost lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 70 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "70 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
@@ -1908,8 +2724,15 @@
         "name": "Hypsilophodon",
         "english-translation": "High-ridge tooth",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 125 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "euornithopod",
         "length": "2.3m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae",
@@ -1923,7 +2746,10 @@
         "english-translation": "Iguana tooth",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 140-110 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "euornithopod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -1936,8 +2762,15 @@
         "name": "Indosuchus",
         "english-translation": "Indian crocodile",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
-        "lived_in": "India",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "India"
+        ],
         "dino-type": "large theropod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
@@ -1950,7 +2783,11 @@
         "name": "Irritator",
         "english-translation": "Irritator",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 112-99 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "112-99 million years ago"
+        },
         "lived_in": "Brazil",
         "dino-type": "large theropod",
         "length": "6.5m",
@@ -1964,8 +2801,15 @@
         "name": "Isisaurus",
         "english-translation": "ISI (Indian Statistical Institute) lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
-        "lived_in": "India",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "India"
+        ],
         "dino-type": "sauropod",
         "length": "unknown",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
@@ -1992,8 +2836,15 @@
         "name": "Jaxartosaurus",
         "english-translation": "Jaxartes [River] lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 94-84 million years ago",
-        "lived_in": "Kazakhstan",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "94-84 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Kazakhstan"
+        ],
         "dino-type": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
@@ -2007,7 +2858,10 @@
         "english-translation": "Jingshan lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 205-190 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
@@ -2020,8 +2874,15 @@
         "name": "Jinzhousaurus",
         "english-translation": "Jinzhou lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -2035,7 +2896,10 @@
         "english-translation": "Jobar (mythical animal)",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 132-94 million years ago",
-        "lived_in": "Niger",
+        "lived_in": [
+            "period/location",
+            "Niger"
+        ],
         "dino-type": "sauropod",
         "length": "21.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
@@ -2049,7 +2913,10 @@
         "english-translation": "Jura (Bavarian mountains) hunter",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 154-151 million years ago",
-        "lived_in": "Germany",
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "small theropod",
         "length": "0.8m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
@@ -2076,8 +2943,15 @@
         "name": "Khaan",
         "english-translation": "Ruler",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 81-75 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "81-75 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.8m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
@@ -2091,7 +2965,10 @@
         "english-translation": "Kota lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 205-180 million years ago",
-        "lived_in": "India",
+        "lived_in": [
+            "period/location",
+            "India"
+        ],
         "dino-type": "sauropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
@@ -2105,7 +2982,10 @@
         "english-translation": "Noble lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 78-74 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "8.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -2118,8 +2998,15 @@
         "name": "Lambeosaurus",
         "english-translation": "Lambe's lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
@@ -2147,7 +3034,10 @@
         "english-translation": "Leaellyn's lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 115-110 million years ago",
-        "lived_in": "Australia",
+        "lived_in": [
+            "period/location",
+            "Australia"
+        ],
         "dino-type": "euornithopod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -2161,7 +3051,10 @@
         "english-translation": "Slim horned face",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 67-65 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
@@ -2188,8 +3081,15 @@
         "name": "Liaoceratops",
         "english-translation": "Liaoning horned face",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "ceratopsian",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
@@ -2202,8 +3102,15 @@
         "name": "Ligabuesaurus",
         "english-translation": "[Dr Giancarlo] Ligabue lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "24.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -2217,7 +3124,10 @@
         "english-translation": "[for] Lilienstern",
         "diet-type": "carnivorous",
         "period": "Late Triassic 205-202 million years ago",
-        "lived_in": "Germany",
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "small theropod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda",
@@ -2230,8 +3140,15 @@
         "name": "Lophorhothon",
         "english-translation": "Crested nose",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "4.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -2259,7 +3176,10 @@
         "english-translation": "Lufeng lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 200-195 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
@@ -2273,7 +3193,10 @@
         "english-translation": "Heavy lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 121-112 million years ago",
-        "lived_in": "Niger",
+        "lived_in": [
+            "period/location",
+            "Niger"
+        ],
         "dino-type": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -2287,7 +3210,10 @@
         "english-translation": "",
         "diet-type": "herbivorous",
         "period": "Late Triassic 205-195 million years ago",
-        "lived_in": "South Africa",
+        "lived_in": [
+            "period/location",
+            "South Africa"
+        ],
         "dino-type": "euornithopod",
         "length": "1.2m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
@@ -2300,7 +3226,11 @@
         "name": "Magyarosaurus",
         "english-translation": "Wolf snout",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago"
+        },
         "lived_in": "Romania",
         "dino-type": "sauropod",
         "length": "5.0m",
@@ -2314,8 +3244,15 @@
         "name": "Maiasaura",
         "english-translation": "Good mother lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 80-75 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "80-75 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -2328,7 +3265,11 @@
         "name": "Majungasaurus",
         "english-translation": "Majunga lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago"
+        },
         "lived_in": "Madagascar",
         "dino-type": "large theropod",
         "length": "6.0m",
@@ -2356,8 +3297,15 @@
         "name": "Mamenchisaurus",
         "english-translation": "Mamenchi lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-145 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-145 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "22.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -2371,7 +3319,10 @@
         "english-translation": "Earth (Mapuche language, Patagonia) lizard",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 99-94 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "large theropod",
         "length": "13.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae",
@@ -2385,7 +3336,10 @@
         "english-translation": "[Othniel Charles] Marsh lizard",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
@@ -2398,7 +3352,11 @@
         "name": "Masiakasaurus",
         "english-translation": "Vicious lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago"
+        },
         "lived_in": "Madagascar",
         "dino-type": "small theropod",
         "length": "2.0m",
@@ -2413,7 +3371,10 @@
         "english-translation": "Massive vertebrae",
         "diet-type": "omnivorous",
         "period": "Early Jurassic 208-204 million years ago",
-        "lived_in": "Zimbabwe",
+        "lived_in": [
+            "period/location",
+            "Zimbabwe"
+        ],
         "dino-type": "sauropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
@@ -2441,7 +3402,10 @@
         "english-translation": "Big lizard",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 170-155 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
@@ -2455,7 +3419,10 @@
         "english-translation": "Black [Mountain] lizard",
         "diet-type": "omnivorous",
         "period": "Late Triassic 227-221 million years ago",
-        "lived_in": "South Africa",
+        "lived_in": [
+            "period/location",
+            "South Africa"
+        ],
         "dino-type": "sauropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
@@ -2469,7 +3436,10 @@
         "english-translation": "Moderately-spined lizard",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 159-154 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "8.2m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
@@ -2483,7 +3453,10 @@
         "english-translation": "Tiny horned",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 86-66 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "ceratopsian",
         "length": "0.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
@@ -2496,8 +3469,15 @@
         "name": "Micropachycephalosaurus",
         "english-translation": "Tiny thick-headed lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "ceratopsian",
         "length": "0.6m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
@@ -2510,8 +3490,15 @@
         "name": "Microraptor",
         "english-translation": "Tiny plunderer",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 125-122 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125-122 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "0.8m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -2525,7 +3512,10 @@
         "english-translation": "named after Minmi Crossing, Queensland",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 121-112 million years ago",
-        "lived_in": "Australia",
+        "lived_in": [
+            "period/location",
+            "Australia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
@@ -2538,8 +3528,15 @@
         "name": "Monolophosaurus",
         "english-translation": "Single-crested lizard",
         "diet-type": "carnivorous",
-        "period": "Mid Jurassic 180-159 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "180-159 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "large theropod",
         "length": "5.7m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
@@ -2553,7 +3550,10 @@
         "english-translation": "Single claw",
         "diet-type": "unknown",
         "period": "Late Cretaceous 81-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
@@ -2567,7 +3567,10 @@
         "english-translation": "Mouse lizard",
         "diet-type": "herbivorous",
         "period": "Late Triassic 221-210 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
@@ -2581,7 +3584,10 @@
         "english-translation": "Muttaburra lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 110-100 million years ago",
-        "lived_in": "Australia",
+        "lived_in": [
+            "period/location",
+            "Australia"
+        ],
         "dino-type": "euornithopod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -2594,8 +3600,15 @@
         "name": "Nanshiungosaurus",
         "english-translation": "Nanxiong lizard",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "large theropod",
         "length": "4.4m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
@@ -2609,7 +3622,10 @@
         "english-translation": "Insufficient horned face",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 67-65 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
@@ -2623,7 +3639,10 @@
         "english-translation": "Nemegt lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 72-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "sauropod",
         "length": "13.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
@@ -2636,8 +3655,15 @@
         "name": "Neovenator",
         "english-translation": "New hunter",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "large theropod",
         "length": "7.4m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
@@ -2650,8 +3676,15 @@
         "name": "Neuquenosaurus",
         "english-translation": "Neuquén lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
@@ -2664,7 +3697,11 @@
         "name": "Nigersaurus",
         "english-translation": "Niger lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
         "lived_in": "Tunisia",
         "dino-type": "sauropod",
         "length": "15.0m",
@@ -2692,8 +3729,15 @@
         "name": "Noasaurus",
         "english-translation": "Northwestern Argentina lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 84-65 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
@@ -2707,7 +3751,10 @@
         "english-translation": "Node lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 110-100 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
@@ -2721,7 +3768,10 @@
         "english-translation": "Nomingiin",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 72-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.6m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
@@ -2735,7 +3785,10 @@
         "english-translation": "Sloth-like claw",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 94-89 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "5.3m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
@@ -2749,7 +3802,10 @@
         "english-translation": "Nqweba lizard",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 159-132 million years ago",
-        "lived_in": "South Africa",
+        "lived_in": [
+            "period/location",
+            "South Africa"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
@@ -2763,7 +3819,10 @@
         "english-translation": "Omei lizard",
         "diet-type": "herbivorous",
         "period": "Mid Jurassic 169-159 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "20.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -2777,7 +3836,10 @@
         "english-translation": "Hollow-backed tail [vertebrae]",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 72-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "sauropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
@@ -2791,7 +3853,10 @@
         "english-translation": "Bird robber",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 150-144 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
@@ -2805,7 +3870,10 @@
         "english-translation": "Bird mimic",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 74-65 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
@@ -2819,7 +3887,10 @@
         "english-translation": "Mountain runner",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 74 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -2833,7 +3904,10 @@
         "english-translation": "Digging runner",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 99-94 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "2.1m",
         "taxonomy": "Dinosauria Ornithischia",
@@ -2847,7 +3921,10 @@
         "english-translation": "[for] Othniel [Marsh]",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "1.4m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -2861,7 +3938,10 @@
         "english-translation": "Brave monitor lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 115-100 million years ago",
-        "lived_in": "Niger",
+        "lived_in": [
+            "period/location",
+            "Niger"
+        ],
         "dino-type": "euornithopod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -2875,7 +3955,10 @@
         "english-translation": "Egg thief",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 85-75 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
@@ -2889,7 +3972,10 @@
         "english-translation": "Thick-headed lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 76-65 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "8.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
@@ -2902,8 +3988,15 @@
         "name": "Pachyrhinosaurus",
         "english-translation": "thick-nosed lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
@@ -2917,7 +4010,10 @@
         "english-translation": "fully-armoured lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 79-75 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
@@ -2945,7 +4041,10 @@
         "english-translation": "Tidal giant",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 99-94 million years ago",
-        "lived_in": "Egypt",
+        "lived_in": [
+            "period/location",
+            "Egypt"
+        ],
         "dino-type": "sauropod",
         "length": "28.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
@@ -2958,7 +4057,11 @@
         "name": "Parasaurolophus",
         "english-translation": "like 'Saurolophus",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
         "lived_in": "North America",
         "dino-type": "euornithopod",
         "length": "11.0m",
@@ -2972,8 +4075,15 @@
         "name": "Parksosaurus",
         "english-translation": "Park's lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "euornithopod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -2987,7 +4097,10 @@
         "english-translation": "Patagonian lizard",
         "diet-type": "herbivorous",
         "period": "Mid Jurassic 164-159 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "18.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
@@ -3000,8 +4113,15 @@
         "name": "Pelicanimimus",
         "english-translation": "Pelican mimic",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "Spain",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Spain"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
@@ -3014,8 +4134,15 @@
         "name": "Pelorosaurus",
         "english-translation": "Monstrous lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 125 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "sauropod",
         "length": "25.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
@@ -3028,8 +4155,15 @@
         "name": "Pentaceratops",
         "english-translation": "Five-horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "6.8m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
@@ -3043,7 +4177,10 @@
         "english-translation": "Piatnitzky's lizard",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 164-159 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "large theropod",
         "length": "4.2m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
@@ -3056,8 +4193,15 @@
         "name": "Pinacosaurus",
         "english-translation": "Plank lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 81-75 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "81-75 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -3085,7 +4229,10 @@
         "english-translation": "swift-footed lizard",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 195-180 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "0.9m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
@@ -3112,8 +4259,15 @@
         "name": "Polacanthus",
         "english-translation": "Many spines",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 125 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
@@ -3127,7 +4281,10 @@
         "english-translation": "Sloping head",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 80-65 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "euornithopod",
         "length": "2.4m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
@@ -3140,8 +4297,15 @@
         "name": "Probactrosaurus",
         "english-translation": "Before Bactrosaurus",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -3155,7 +4319,10 @@
         "english-translation": "Before Ceratosaurus",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 169-164 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "small theropod",
         "length": "4.1m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
@@ -3169,7 +4336,10 @@
         "english-translation": "Before Compsognathus",
         "diet-type": "carnivorous",
         "period": "Late Triassic 221-210 million years ago",
-        "lived_in": "Germany",
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
@@ -3197,7 +4367,10 @@
         "english-translation": "Before Archaeopteryx",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 122-120 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora",
@@ -3210,8 +4383,15 @@
         "name": "Protoceratops",
         "english-translation": "First horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "ceratopsian",
         "length": "1.8m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
@@ -3225,7 +4405,10 @@
         "english-translation": "First hadrosaur",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 99-94 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
@@ -3253,7 +4436,10 @@
         "english-translation": "Extraordinary lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 86-84 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "sauropod",
         "length": "23.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
@@ -3266,7 +4452,11 @@
         "name": "Rebbachisaurus",
         "english-translation": "[Ait] Rebbach lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 112-99 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "112-99 million years ago"
+        },
         "lived_in": "Morocco",
         "dino-type": "sauropod",
         "length": "20.0m",
@@ -3281,7 +4471,10 @@
         "english-translation": "Rod tooth",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 76-70 million years ago",
-        "lived_in": "Spain",
+        "lived_in": [
+            "period/location",
+            "Spain"
+        ],
         "dino-type": "euornithopod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
@@ -3294,8 +4487,15 @@
         "name": "Rhoetosaurus",
         "english-translation": "Rhoetan lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 177-169 million years ago",
-        "lived_in": "Australia",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "177-169 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Australia"
+        ],
         "dino-type": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
@@ -3309,7 +4509,10 @@
         "english-translation": "Rinchen",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 72-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "2.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
@@ -3323,7 +4526,10 @@
         "english-translation": "[La] Rioja lizard",
         "diet-type": "herbivorous/omnivorous",
         "period": "Late Triassic 221-210 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "5.15m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
@@ -3337,7 +4543,10 @@
         "english-translation": "Wrinkle face",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 95 million years ago",
-        "lived_in": "Niger",
+        "lived_in": [
+            "period/location",
+            "Niger"
+        ],
         "dino-type": "large theropod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
@@ -3351,7 +4560,10 @@
         "english-translation": "beautiful",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 80 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "6.6m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -3364,8 +4576,15 @@
         "name": "Saltasaurus",
         "english-translation": "Salta lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 70-65 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "70-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "sauropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
@@ -3379,7 +4598,10 @@
         "english-translation": "Hopping foot",
         "diet-type": "carnivorous",
         "period": "Late Triassic 221-210 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "small theropod",
         "length": "unknown",
         "taxonomy": "Dinosauria",
@@ -3393,7 +4615,10 @@
         "english-translation": "Flesh lizard",
         "diet-type": "carnivorous",
         "period": "Early Jurassic 202-195 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "small theropod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
@@ -3406,7 +4631,11 @@
         "name": "Saurolophus",
         "english-translation": "Ridged lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago"
+        },
         "lived_in": "Canada, Mongolia",
         "dino-type": "euornithopod",
         "length": "9.0m",
@@ -3421,7 +4650,10 @@
         "english-translation": "lizard shield",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 121-94 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "6.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
@@ -3435,7 +4667,10 @@
         "english-translation": "king of the lizard eaters",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
@@ -3448,8 +4683,15 @@
         "name": "Saurornithoides",
         "english-translation": "Bird-like lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 85-80 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "85-80 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
@@ -3463,7 +4705,10 @@
         "english-translation": "Limb lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 208-194 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
@@ -3477,7 +4722,10 @@
         "english-translation": "Small shield lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 205-202 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "1.2m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora",
@@ -3490,8 +4738,15 @@
         "name": "Secernosaurus",
         "english-translation": "Separated lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 71-65 million years ago",
-        "lived_in": "Argentina",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "71-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "euornithopod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
@@ -3505,7 +4760,10 @@
         "english-translation": "Segi [Canyon] lizard",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 195-180 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "1.5m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
@@ -3519,7 +4777,10 @@
         "english-translation": "Slow lizard",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 97-88 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
@@ -3532,8 +4793,15 @@
         "name": "Shamosaurus",
         "english-translation": "Desert lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 121-99 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "121-99 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -3547,7 +4815,10 @@
         "english-translation": "Named after the dancers in the Buddhist Tsam festival",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 126-142 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "0.45m",
         "taxonomy": "Dinosauria Saurischia",
@@ -3561,7 +4832,10 @@
         "english-translation": "Shantung (=Shandong) lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 78-74 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -3574,8 +4848,15 @@
         "name": "Shunosaurus",
         "english-translation": "Shuno lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 170-160 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "170-160 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -3589,7 +4870,10 @@
         "english-translation": "Bird",
         "diet-type": "omnivorous",
         "period": "Late Cretaceous 75-81 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "0.6m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
@@ -3603,7 +4887,10 @@
         "english-translation": "Forest Lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 121-112 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "4.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
@@ -3616,8 +4903,15 @@
         "name": "Sinocalliopteryx",
         "english-translation": "Chinese beautiful feather",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 125 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "125 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "2.37m",
         "taxonomy": "Dinosauria Saurischia",
@@ -3631,7 +4925,10 @@
         "english-translation": "Chinese bird lizard",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 122-120 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -3645,7 +4942,10 @@
         "english-translation": "Chinese lizard wing",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 122-120 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
@@ -3658,8 +4958,15 @@
         "name": "Sinovenator",
         "english-translation": "Chinese hunter",
         "diet-type": "carnivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
@@ -3673,7 +4980,10 @@
         "english-translation": "Chinese plunderer",
         "diet-type": "carnivorous",
         "period": "Mid Jurassic 169-142 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "large theropod",
         "length": "7.6m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
@@ -3687,7 +4997,10 @@
         "english-translation": "Sonid (area in which the type locality is) lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 89-65 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
@@ -3700,7 +5013,11 @@
         "name": "Spinosaurus",
         "english-translation": "Thorn lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 95-70 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "95-70 million years ago"
+        },
         "lived_in": "Morocco",
         "dino-type": "large theropod",
         "length": "18.0m",
@@ -3728,8 +5045,15 @@
         "name": "Stegoceras",
         "english-translation": "Horny roof",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "2.4m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
@@ -3742,8 +5066,15 @@
         "name": "Stegosaurus",
         "english-translation": "Roof lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 155-145 million years ago",
-        "lived_in": "USA",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "155-145 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
@@ -3756,8 +5087,15 @@
         "name": "Stenopelix",
         "english-translation": "Narrow pelvis",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 127-121 million years ago",
-        "lived_in": "Germany",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "127-121 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Germany"
+        ],
         "dino-type": "ceratopsian",
         "length": "1.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
@@ -3770,8 +5108,15 @@
         "name": "Struthiomimus",
         "english-translation": "Ostrich mimic",
         "diet-type": "omnivorous",
-        "period": "Late Cretaceous 76-74 million years ago",
-        "lived_in": "Canada",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "76-74 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Canada"
+        ],
         "dino-type": "small theropod",
         "length": "4.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
@@ -3785,7 +5130,10 @@
         "english-translation": "Ostrich lizard",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 83-75 million years ago",
-        "lived_in": "Spain",
+        "lived_in": [
+            "period/location",
+            "Spain"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "2.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
@@ -3813,7 +5161,10 @@
         "english-translation": "Crocodile mimic",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 121-112 million years ago",
-        "lived_in": "Niger",
+        "lived_in": [
+            "period/location",
+            "Niger"
+        ],
         "dino-type": "large theropod",
         "length": "11.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
@@ -3827,7 +5178,10 @@
         "english-translation": "Super lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 154-142 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "sauropod",
         "length": "35.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
@@ -3841,7 +5195,10 @@
         "english-translation": "Wicker tail",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 99-89 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "6.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -3855,7 +5212,10 @@
         "english-translation": "[H. C.] Tan",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 89-65 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
@@ -3868,8 +5228,15 @@
         "name": "Tarbosaurus",
         "english-translation": "Alarming lizard",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
@@ -3883,7 +5250,10 @@
         "english-translation": "Brainy one",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 75-68 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "8.5m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
@@ -3896,8 +5266,15 @@
         "name": "Telmatosaurus",
         "english-translation": "Swamp lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 84-65 million years ago",
-        "lived_in": "Spain",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-65 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Spain"
+        ],
         "dino-type": "euornithopod",
         "length": "5.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
@@ -3925,7 +5302,10 @@
         "english-translation": "Socket-toothed lizard",
         "diet-type": "omnivorous",
         "period": "Late Triassic 227-205 million years ago",
-        "lived_in": "United Kingdom",
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "sauropod",
         "length": "2.5m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
@@ -3939,7 +5319,10 @@
         "english-translation": "Scythe lizard",
         "diet-type": "unknown",
         "period": "Late Cretaceous 85-70 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "large theropod",
         "length": "unknown",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
@@ -3966,7 +5349,11 @@
         "name": "Torosaurus",
         "english-translation": "Bull lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 70-65 million years ago",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "70-65 million years ago"
+        },
         "lived_in": "North America",
         "dino-type": "ceratopsian",
         "length": "7.5m",
@@ -3981,7 +5368,10 @@
         "english-translation": "Savage lizard",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 155-144 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
@@ -3995,7 +5385,10 @@
         "english-translation": "Three-horned face",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 68-66 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
@@ -4009,7 +5402,10 @@
         "english-translation": "Wounding tooth",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 74-65 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "small theropod",
         "length": "2.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
@@ -4022,8 +5418,15 @@
         "name": "Tsagantegia",
         "english-translation": "Tsagan Teg",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 99-84 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "99-84 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
@@ -4036,8 +5439,15 @@
         "name": "Tsintaosaurus",
         "english-translation": "Qingdao lizard",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 84-71 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "84-71 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "12.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
@@ -4051,7 +5461,10 @@
         "english-translation": "Tuo River lizard",
         "diet-type": "herbivorous",
         "period": "Late Jurassic 157-154 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "7.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
@@ -4065,7 +5478,10 @@
         "english-translation": "Swelling head",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 75-72 million years ago",
-        "lived_in": "Mongolia",
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "euornithopod",
         "length": "1.4m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
@@ -4092,8 +5508,15 @@
         "name": "Udanoceratops",
         "english-translation": "Udan [Sayr] horned face",
         "diet-type": "herbivorous",
-        "period": "Late Cretaceous 81-75 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "81-75 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "ceratopsian",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
@@ -4107,7 +5530,10 @@
         "english-translation": "Half bird",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 94-86 million years ago",
-        "lived_in": "Argentina",
+        "lived_in": [
+            "period/location",
+            "Argentina"
+        ],
         "dino-type": "small theropod",
         "length": "2.4m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -4121,7 +5547,10 @@
         "english-translation": "URBAC tooth",
         "diet-type": "carnivorous",
         "period": "Late Cretaceous 95 million years ago",
-        "lived_in": "Uzbekistan",
+        "lived_in": [
+            "period/location",
+            "Uzbekistan"
+        ],
         "dino-type": "small theropod",
         "length": "1.0m",
         "taxonomy": "Dinosauria Saurischia",
@@ -4135,7 +5564,10 @@
         "english-translation": "Utah plunderer",
         "diet-type": "carnivorous",
         "period": "Early Cretaceous 112-100 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "large theropod",
         "length": "6.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -4148,8 +5580,16 @@
         "name": "Valdosaurus",
         "english-translation": "Wealden lizard",
         "diet-type": "herbivorous",
-        "period": "Early Cretaceous 142-121 million years ago",
-        "lived_in": "United Kingdom",
+        "period": {
+            "id": "period",
+            "period-name": "Early Cretaceous",
+            "years": "142-121 million years ago",
+            "location": "United Kingdom"
+        },
+        "lived_in": [
+            "period/location",
+            "United Kingdom"
+        ],
         "dino-type": "euornithopod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
@@ -4162,8 +5602,15 @@
         "name": "Velociraptor",
         "english-translation": "Quick plunderer",
         "diet-type": "carnivorous",
-        "period": "Late Cretaceous 74-70 million years ago",
-        "lived_in": "Mongolia",
+        "period": {
+            "id": "period",
+            "period-name": "Late Cretaceous",
+            "years": "74-70 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "Mongolia"
+        ],
         "dino-type": "small theropod",
         "length": "1.8m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
@@ -4177,7 +5624,10 @@
         "english-translation": "Volcano tooth",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 205-202 million years ago",
-        "lived_in": "Zimbabwe",
+        "lived_in": [
+            "period/location",
+            "Zimbabwe"
+        ],
         "dino-type": "sauropod",
         "length": "6.5m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
@@ -4191,7 +5641,10 @@
         "english-translation": "",
         "diet-type": "herbivorous",
         "period": "Mid Jurassic 169-159 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "euornithopod",
         "length": "3.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -4205,7 +5658,10 @@
         "english-translation": "Yandu lizard",
         "diet-type": "carnivorous",
         "period": "Late Jurassic 160-144 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "large theropod",
         "length": "10.0m",
         "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
@@ -4219,7 +5675,10 @@
         "english-translation": "Yimen lizard",
         "diet-type": "herbivorous",
         "period": "Early Jurassic 195-190 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
@@ -4232,8 +5691,15 @@
         "name": "Yingshanosaurus",
         "english-translation": "Mt. Ying lizard",
         "diet-type": "herbivorous",
-        "period": "Late Jurassic 159-142 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Late Jurassic",
+            "years": "159-142 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "armoured dinosaur",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
@@ -4247,7 +5713,10 @@
         "english-translation": "Hidden dragon",
         "diet-type": "herbivorous",
         "period": "Mid Jurassic 159-154 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "ceratopsian",
         "length": "1.2m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
@@ -4260,8 +5729,15 @@
         "name": "Yuanmousaurus",
         "english-translation": "Yuanmou (area where the type locality is) lizard",
         "diet-type": "herbivorous",
-        "period": "Mid Jurassic 180-159 million years ago",
-        "lived_in": "China",
+        "period": {
+            "id": "period",
+            "period-name": "Mid Jurassic",
+            "years": "180-159 million years ago"
+        },
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "17.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
@@ -4275,7 +5751,10 @@
         "english-translation": "Yunnan lizard",
         "diet-type": "omnivorous",
         "period": "Early Jurassic 205-190 million years ago",
-        "lived_in": "China",
+        "lived_in": [
+            "period/location",
+            "China"
+        ],
         "dino-type": "sauropod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
@@ -4303,7 +5782,10 @@
         "english-translation": "West wind lizard",
         "diet-type": "herbivorous",
         "period": "Early Cretaceous 120-110 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "euornithopod",
         "length": "1.8m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
@@ -4317,7 +5799,10 @@
         "english-translation": "Zuni-horned face",
         "diet-type": "herbivorous",
         "period": "Late Cretaceous 94-89 million years ago",
-        "lived_in": "USA",
+        "lived_in": [
+            "period/location",
+            "USA"
+        ],
         "dino-type": "ceratopsian",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",

@@ -17,6 +17,7 @@
         "id": "_predicate",
         "name": "period/dinosaur-location",
         "doc": "The diet type a specific dinosaur had.",
-        "type": "string"
+        "type": "string",
+        "multi": "true"
     }
 ]
