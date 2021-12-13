@@ -1,7 +1,7 @@
 [
     {
         "id": "_predicate",
-        "name": "dinosaur-name",
+        "name": "dino/dinosaur-name",
         "doc": "The formal name given to the dinosaur.",
         "type": "string",
         "unique": "true",
@@ -9,28 +9,28 @@
     },
     {
         "id": "_predicate",
-        "name": "english-translation",
+        "name": "dino/english-translation",
         "doc": "The english language translation of the dinosaur's name.",
         "type": "string",
         "unique": "true"
     },
     {
         "id": "_predicate",
-        "name": "diet-type",
+        "name": "dino/diet-type",
         "doc": "The diet type a specific dinosaur had.",
         "type": "ref",
-        "restrictCollection": "diet"
+        "restrictCollection": "type"
     },
     {
         "id": "_predicate",
-        "name": "period",
+        "name": "dino/period",
         "doc": "The period in time in which the dinosaur lived.",
         "type": "ref",
         "restrictCollection": "period"
     },
     {
         "id": "_predicate",
-        "name": "lived_in",
+        "name": "dino/lived_in",
         "doc": "The region in which the dinosaur lived in.",
         "type": "ref",
         "restrictCollection": "country",
@@ -38,21 +38,21 @@
     },
     {
         "id": "_predicate",
-        "name": "dino-type",
+        "name": "dino/dino-type",
         "doc": "The type of dinosaur.",
         "type": "ref",
         "restrictCollection": "type"
     },
     {
         "id": "_predicate",
-        "name": "length",
+        "name": "dino/length",
         "doc": "The length of the dinosaur displayed in meters.",
         "type": "ref",
         "restrictCollection": "type"
     },
     {
         "id": "_predicate",
-        "name": "link",
+        "name": "dino/link",
         "doc": "the URI to the dinosaurs info page.",
         "type": "uri"
     }

@@ -2,7 +2,7 @@
     {
         "id": "_predicate",
         "name": "type/dinosaur-type",
-        "doc": "The formal name given to the dinosaur.",
+        "doc": "The type of dinosaur.",
         "type": "string",
         "unique": "true",
         "fullText": "true"
@@ -10,7 +10,7 @@
     {
         "id": "_predicate",
         "name": "type/species",
-        "doc": "The english language translation of the dinosaur's name.",
+        "doc": "The type of species the dinosaur was.",
         "type": "string",
         "unique": "true",
         "fullText": "true"
@@ -18,7 +18,14 @@
     {
         "id": "_predicate",
         "name": "type/length",
-        "doc": "The diet type a specific dinosaur had.",
+        "doc": "The length the dinosaur measured in meters.",
         "type": "string"
+    },
+    {
+        "id": "_predicate",
+        "name": "type/diet",
+        "doc": "The diet type a specific dinosaur had.",
+        "type": "string",
+        "fullText": "true"
     }
 ]
