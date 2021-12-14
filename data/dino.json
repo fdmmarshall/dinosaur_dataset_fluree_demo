@@ -8,7 +8,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "199-189 million years ago",
-            "location": "South Africa"
+            "location": [
+                "South Africa"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -30,7 +32,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -52,7 +56,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "83-70 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -74,7 +80,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-84 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -96,7 +104,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "115-105 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -118,7 +128,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "98-93 million years ago",
-            "location": "Egypt"
+            "location": [
+                "Egypt"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -140,7 +152,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "132-121 million years ago",
-            "location": "Niger"
+            "location": [
+                "Niger"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -162,7 +176,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "169-159 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -184,7 +200,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "70-65 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -206,7 +224,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "80-75 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -228,7 +248,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -250,7 +272,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "90-70 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -272,7 +296,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "71-65 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -294,7 +320,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "156-144 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -316,7 +344,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "89-85 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -338,7 +368,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "132-127 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -360,7 +392,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "195-180 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -382,7 +416,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "71-65 million years ago",
-            "location": "France"
+            "location": [
+                "France"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -404,7 +440,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "177-169 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -426,7 +464,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -448,7 +488,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "190 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -470,7 +512,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-67 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -492,7 +536,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-65 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -514,7 +560,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-65 million years ago",
-            "location": "Uruguay"
+            "location": [
+                "Uruguay"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -536,7 +584,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-145 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -558,7 +608,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "132-121 million years ago",
-            "location": "Spain"
+            "location": [
+                "Spain"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -580,7 +632,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "94-84 million years ago",
-            "location": "Kazakhstan"
+            "location": [
+                "Kazakhstan"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -602,7 +656,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -624,7 +680,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "147 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -646,7 +704,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "95-70 million years ago",
-            "location": "Uzbekistan"
+            "location": [
+                "Uzbekistan"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -668,7 +728,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "90 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -690,7 +752,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "72-67 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -734,7 +798,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -756,7 +822,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "112-99 million years ago",
-            "location": "Australia"
+            "location": [
+                "Australia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -778,7 +846,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "80-75 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -800,7 +870,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "80-75 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -822,7 +894,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -844,7 +918,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "85-80 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -866,7 +942,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -888,7 +966,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "185-170 million years ago",
-            "location": "India"
+            "location": [
+                "India"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -910,7 +990,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -932,7 +1014,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "125 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -953,7 +1037,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "142-132 million years ago"
+            "years": "142-132 million years ago",
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -975,7 +1062,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -997,7 +1086,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "180-159 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1019,7 +1110,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-65 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1041,7 +1134,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-140 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1063,7 +1158,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "89-88 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1085,7 +1182,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "150 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1107,7 +1206,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-90 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1129,7 +1230,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "150-140 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1151,7 +1254,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1173,7 +1278,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "98-94 million years ago",
-            "location": "North Africa"
+            "location": [
+                "North Africa"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1195,7 +1302,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "70 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1217,7 +1326,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "125-122 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1239,7 +1350,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "142-127 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1261,7 +1374,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1283,7 +1398,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "153-148 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1305,7 +1422,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "175-160 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1327,7 +1446,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "170-160 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1349,7 +1470,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "152-145 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1371,7 +1494,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1393,7 +1518,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "227-210 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1415,7 +1542,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "159-142 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1437,7 +1566,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "79-67 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1459,7 +1590,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "112-99 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1481,7 +1614,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "159-142 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1503,7 +1638,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "81-75 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1525,7 +1662,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "225-190 million years ago",
-            "location": "Zimbabwe"
+            "location": [
+                "Zimbabwe"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1547,7 +1686,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1569,7 +1710,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "221-210 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1591,7 +1734,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "145-140 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1613,7 +1758,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "81-76 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1635,7 +1782,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1657,7 +1806,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1701,7 +1852,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-150 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1723,7 +1876,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1745,7 +1900,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "170 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1767,7 +1924,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "70-66 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1789,7 +1948,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "120-110 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1811,11 +1972,15 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-94 million years ago",
-            "location": "Morocco"
+            "location": [
+                "Morocco"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Morocco"
+            [
+                "period/location",
+                "Morocco"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "8.1m",
@@ -1833,7 +1998,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "150-135 million years ago",
-            "location": "Tanzania"
+            "location": [
+                "Tanzania"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1855,7 +2022,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "190 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1877,7 +2046,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1899,7 +2070,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1921,7 +2094,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1943,7 +2118,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-140 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1965,7 +2142,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-65 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -1987,7 +2166,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "169-164 million years ago",
-            "location": "France"
+            "location": [
+                "France"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2009,7 +2190,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2031,7 +2214,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-65 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2053,7 +2238,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2075,7 +2262,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-151 million years ago",
-            "location": "Tanzania"
+            "location": [
+                "Tanzania"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2097,7 +2286,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "190-180 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2119,7 +2310,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-94 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2141,7 +2334,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "228 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2162,7 +2357,9 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2184,7 +2381,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-99 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2205,7 +2404,9 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2227,7 +2428,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-89 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2249,7 +2452,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2271,7 +2476,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-70 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2293,7 +2500,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-151 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2315,7 +2524,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "165 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2337,7 +2548,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "Japan"
+            "location": [
+                "Japan"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2359,7 +2572,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "Japan"
+            "location": [
+                "Japan"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2381,7 +2596,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2403,7 +2620,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2425,7 +2644,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-89 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2447,7 +2668,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "170-160 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2469,7 +2692,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "86-71 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2491,7 +2716,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "142-127 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2513,7 +2740,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "112-90 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2535,7 +2764,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-70 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2557,7 +2788,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "Tanzania"
+            "location": [
+                "Tanzania"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2579,7 +2812,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2601,7 +2836,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "80-73 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2623,7 +2860,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "81-75 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2645,7 +2884,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-84 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2667,7 +2908,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "86-71 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2689,7 +2932,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "221-210 million years ago",
-            "location": "Brazil"
+            "location": [
+                "Brazil"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2711,7 +2956,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "159-154 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2733,7 +2980,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "78-74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2753,7 +3002,9 @@
         "dietType": "omnivorous",
         "period": {
             "id": "period",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2775,7 +3026,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2797,7 +3050,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2819,7 +3074,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "228 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2841,7 +3098,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2863,7 +3122,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "250 million years ago",
-            "location": "South Africa"
+            "location": [
+                "South Africa"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2885,7 +3146,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "72-68 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2907,7 +3170,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "72-68 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2929,7 +3194,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "170-160 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2951,7 +3218,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "150-135 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2973,7 +3242,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "70 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -2995,7 +3266,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "125 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3017,7 +3290,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "140-110 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3039,7 +3314,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "71-65 million years ago",
-            "location": "India"
+            "location": [
+                "India"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3061,7 +3338,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "112-99 million years ago",
-            "location": "Brazil"
+            "location": [
+                "Brazil"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3083,7 +3362,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "71-65 million years ago",
-            "location": "India"
+            "location": [
+                "India"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3105,7 +3386,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-151 million years ago",
-            "location": "Tanzania"
+            "location": [
+                "Tanzania"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3127,7 +3410,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "94-84 million years ago",
-            "location": "Kazakhstan"
+            "location": [
+                "Kazakhstan"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3149,7 +3434,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "205-190 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3171,7 +3458,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3193,7 +3482,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "132-94 million years ago",
-            "location": "Niger"
+            "location": [
+                "Niger"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3215,7 +3506,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-151 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3237,7 +3530,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-150 million years ago",
-            "location": "Tanzania"
+            "location": [
+                "Tanzania"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3259,7 +3554,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "81-75 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3281,7 +3578,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "205-180 million years ago",
-            "location": "India"
+            "location": [
+                "India"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3303,7 +3602,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "78-74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3325,7 +3626,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3347,7 +3650,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "169-164 million years ago",
-            "location": "Madagascar"
+            "location": [
+                "Madagascar"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3369,7 +3674,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "115-110 million years ago",
-            "location": "Australia"
+            "location": [
+                "Australia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3390,7 +3697,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "67-65 million years ago"
+            "years": "67-65 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3412,11 +3722,15 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "213-200 million years ago",
-            "location": "Lesotho"
+            "location": [
+                "Lesotho"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Lesotho"
+            [
+                "period/location",
+                "Lesotho"
+            ]
         ],
         "dinoType": "1.0m",
         "length": "unknown",
@@ -3434,7 +3748,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3456,7 +3772,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3478,7 +3796,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "205-202 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3500,7 +3820,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3522,7 +3844,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "203-196 million years ago",
-            "location": "France"
+            "location": [
+                "France"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3544,7 +3868,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "200-195 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3566,7 +3892,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-112 million years ago",
-            "location": "Niger"
+            "location": [
+                "Niger"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3588,7 +3916,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "205-195 million years ago",
-            "location": "South Africa"
+            "location": [
+                "South Africa"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3610,7 +3940,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "71-65 million years ago",
-            "location": "Romania"
+            "location": [
+                "Romania"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3632,7 +3964,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "80-75 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3654,7 +3988,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
-            "location": "Madagascar"
+            "location": [
+                "Madagascar"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3698,7 +4034,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3720,7 +4058,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-94 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3742,7 +4082,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3764,7 +4106,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
-            "location": "Madagascar"
+            "location": [
+                "Madagascar"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3786,7 +4130,9 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "208-204 million years ago",
-            "location": "Zimbabwe"
+            "location": [
+                "Zimbabwe"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3808,7 +4154,9 @@
             "id": "period",
             "periodName": "late Cretaceous",
             "years": "80 million years ago",
-            "location": "Brazil"
+            "location": [
+                "Brazil"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3830,7 +4178,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "170-155 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3851,7 +4201,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Triassic",
-            "years": "227-221 million years ago"
+            "years": "227-221 million years ago",
+            "location": [
+                "South Africa"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3872,7 +4225,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Jurassic",
-            "years": "159-154 million years ago"
+            "years": "159-154 million years ago",
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3890,7 +4246,14 @@
         "name": "Microceratus",
         "englishTranslation": "Tiny horned",
         "dietType": "herbivorous",
-        "period": "Late Cretaceous 86-66 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "86-66 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -3910,7 +4273,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "84-71 million years ago"
+            "years": "84-71 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3931,7 +4297,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "125-122 million years ago"
+            "years": "125-122 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3952,7 +4321,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "121-112 million years ago"
+            "years": "121-112 million years ago",
+            "location": [
+                "Australia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3973,7 +4345,10 @@
         "period": {
             "id": "period",
             "periodName": "Mid Jurassic",
-            "years": "180-159 million years ago"
+            "years": "180-159 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -3991,7 +4366,14 @@
         "name": "Mononykus",
         "englishTranslation": "Single claw",
         "dietType": "unknown",
-        "period": "Late Cretaceous 81-68 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "81-68 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -4011,7 +4393,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Triassic",
-            "years": "221-210 million years ago"
+            "years": "221-210 million years ago",
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4029,7 +4414,14 @@
         "name": "Muttaburrasaurus",
         "englishTranslation": "Muttaburra lizard",
         "dietType": "herbivorous",
-        "period": "Early Cretaceous 110-100 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Cretaceous",
+            "years": "110-100 million years ago",
+            "location": [
+                "Australia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Australia"
@@ -4049,7 +4441,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "84-71 million years ago"
+            "years": "84-71 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4070,7 +4465,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "67-65 million years ago"
+            "years": "67-65 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4091,7 +4489,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "72-68 million years ago"
+            "years": "72-68 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4112,7 +4513,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "127-121 million years ago"
+            "years": "127-121 million years ago",
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4133,7 +4537,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "71-65 million years ago"
+            "years": "71-65 million years ago",
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4154,9 +4561,17 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "121-99 million years ago"
+            "years": "121-99 million years ago",
+            "location": [
+                "Tunisia"
+            ]
         },
-        "livedIn": "Tunisia",
+        "livedIn": [
+            [
+                "period/location",
+                "Tunisia"
+            ]
+        ],
         "dinoType": "sauropod",
         "length": "15.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
@@ -4169,8 +4584,18 @@
         "name": "Nipponosaurus",
         "englishTranslation": "Japanese lizard",
         "dietType": "herbivorous",
-        "period": "Late Cretaceous 89-84 million years ago",
-        "livedIn": "Russia",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "89-84 million years ago",
+            "location": [
+                "Russia"
+            ]
+        },
+        "livedIn": [
+            "period/location",
+            "Russia"
+        ],
         "dinoType": "euornithopod",
         "length": "unknown",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
@@ -4186,11 +4611,16 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "84-65 million years ago"
+            "years": "84-65 million years ago",
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -4204,7 +4634,14 @@
         "name": "Nodosaurus",
         "englishTranslation": "Node lizard",
         "dietType": "herbivorous",
-        "period": "Early Cretaceous 110-100 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Cretaceous",
+            "years": "110-100 million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
@@ -4224,7 +4661,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "72-68 million years ago"
+            "years": "72-68 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4242,7 +4682,14 @@
         "name": "Nothronychus",
         "englishTranslation": "Sloth-like claw",
         "dietType": "omnivorous",
-        "period": "Late Cretaceous 94-89 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "94-89  million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
@@ -4259,7 +4706,14 @@
         "name": "Nqwebasaurus",
         "englishTranslation": "Nqweba lizard",
         "dietType": "carnivorous",
-        "period": "Mid Jurassic 159-132 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Mid Jurassic",
+            "years": "159-132  million years ago",
+            "location": [
+                "South Africa"
+            ]
+        },
         "livedIn": [
             "period/location",
             "South Africa"
@@ -4276,7 +4730,14 @@
         "name": "Omeisaurus",
         "englishTranslation": "Omei lizard",
         "dietType": "herbivorous",
-        "period": "Mid Jurassic 169-159 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Mid Jurassic",
+            "years": "169-159 million years ago",
+            "location": [
+                "China"
+            ]
+        },
         "livedIn": [
             "period/location",
             "China"
@@ -4296,7 +4757,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "72-68 million years ago"
+            "years": "72-68 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4314,7 +4778,14 @@
         "name": "Ornitholestes",
         "englishTranslation": "Bird robber",
         "dietType": "carnivorous",
-        "period": "Late Jurassic 150-144 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Jurassic",
+            "years": "150-144  million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
@@ -4335,7 +4806,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-65 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4357,7 +4830,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4379,7 +4854,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-94 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4401,7 +4878,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4423,7 +4902,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "115-100 million years ago",
-            "location": "Niger"
+            "location": [
+                "Niger"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4445,7 +4926,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "85-75 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4467,7 +4950,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-65 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4489,7 +4974,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4511,7 +4998,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "79-75 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4532,7 +5021,9 @@
         "period": {
             "id": "period",
             "periodName": "Late Jurassic",
-            "location": "Wales"
+            "location": [
+                "Wales"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4554,7 +5045,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-94 million years ago",
-            "location": "Egypt"
+            "location": [
+                "Egypt"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4576,7 +5069,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4598,7 +5093,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4620,7 +5117,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "164-159 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4642,7 +5141,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "Spain"
+            "location": [
+                "Spain"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4664,7 +5165,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "125 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4686,7 +5189,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4708,7 +5213,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "164-159 million years ago",
-            "location": "Argentina"
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4730,7 +5237,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "81-75 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4752,9 +5261,26 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "210 million years ago",
-            "location": "Late Triassic 210 million years ago"
+            "location": [
+                "Switzerland",
+                "Germany",
+                "France"
+            ]
         },
-        "livedIn": "Switzerland, Germany, France",
+        "livedIn": [
+            [
+                "period/location",
+                "Switzerland"
+            ],
+            [
+                "period/location",
+                "Germany"
+            ],
+            [
+                "period/location",
+                "France"
+            ]
+        ],
         "dinoType": "sauropod",
         "length": "7.0m",
         "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
@@ -4771,7 +5297,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "195-180 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4793,7 +5321,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "169-164 million years ago",
-            "location": "France"
+            "location": [
+                "France"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4815,7 +5345,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "125 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4837,7 +5369,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "80-65 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4859,7 +5393,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4881,7 +5417,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "169-164 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4903,7 +5441,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "221-210 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4925,7 +5465,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "77-75 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4946,7 +5488,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "122-120 million years ago"
+            "years": "122-120 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4967,7 +5512,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "74-70 million years ago"
+            "years": "74-70 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -4988,7 +5536,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "99-94 million years ago"
+            "years": "99-94 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5006,8 +5557,18 @@
         "name": "Psittacosaurus",
         "englishTranslation": "Parrot lizard",
         "dietType": "herbivorous",
-        "period": "Early Cretaceous 120-100 million years ago",
-        "livedIn": "Russia",
+        "period": {
+            "id": "period",
+            "periodName": "Early Cretaceous",
+            "years": "120-100 million years ago",
+            "location": [
+                "Russia"
+            ]
+        },
+        "livedIn": [
+            "period/location",
+            "Russia"
+        ],
         "dinoType": "ceratopsian",
         "length": "2.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae",
@@ -5020,7 +5581,14 @@
         "name": "quaesitosaurus",
         "englishTranslation": "Extraordinary lizard",
         "dietType": "herbivorous",
-        "period": "Late Cretaceous 86-84 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "86-84 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -5040,11 +5608,16 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "112-99 million years ago"
+            "years": "112-99 million years ago",
+            "location": [
+                "Morocco"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Morocco"
+            [
+                "period/location",
+                "Morocco"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "20.0m",
@@ -5061,7 +5634,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "76-70 million years ago"
+            "years": "76-70 million years ago",
+            "location": [
+                "Spain"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5082,7 +5658,10 @@
         "period": {
             "id": "period",
             "periodName": "Mid Jurassic",
-            "years": "177-169 million years ago"
+            "years": "177-169 million years ago",
+            "location": [
+                "Australia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5103,7 +5682,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "72-68 million years ago"
+            "years": "72-68 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5124,7 +5706,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Triassic",
-            "years": "221-210 million years ago"
+            "years": "221-210 million years ago",
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5142,7 +5727,14 @@
         "name": "Rugops",
         "englishTranslation": "Wrinkle face",
         "dietType": "carnivorous",
-        "period": "Late Cretaceous 95 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "95 million years ago",
+            "location": [
+                "Niger"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Niger"
@@ -5162,7 +5754,10 @@
         "period": {
             "id": "period",
             "periodName": "late Cretaceous",
-            "years": "80 million years ago"
+            "years": "80 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5183,7 +5778,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "70-65 million years ago"
+            "years": "70-65 million years ago",
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5204,7 +5802,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Triassic",
-            "years": "221-210 million years ago"
+            "years": "221-210 million years ago",
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5222,7 +5823,14 @@
         "name": "Sarcosaurus",
         "englishTranslation": "Flesh lizard",
         "dietType": "carnivorous",
-        "period": "Early Jurassic 202-195 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Triassic",
+            "years": "202-195 million years ago",
+            "location": [
+                "United Kingdom"
+            ]
+        },
         "livedIn": [
             "period/location",
             "United Kingdom"
@@ -5242,9 +5850,22 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "74-70 million years ago"
+            "years": "74-70 million years ago",
+            "location": [
+                "Canada",
+                "Mongolia"
+            ]
         },
-        "livedIn": "Canada, Mongolia",
+        "livedIn": [
+            [
+                "period/location",
+                "Canada"
+            ],
+            [
+                "period/location",
+                "Mongolia"
+            ]
+        ],
         "dinoType": "euornithopod",
         "length": "9.0m",
         "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
@@ -5257,7 +5878,14 @@
         "name": "Sauropelta",
         "englishTranslation": "lizard shield",
         "dietType": "herbivorous",
-        "period": "Early Cretaceous 121-94 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Cretaceous",
+            "years": "121-94 million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
@@ -5277,7 +5905,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Jurassic",
-            "years": "154-142 million years ago"
+            "years": "154-142 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5298,7 +5929,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "85-80 million years ago"
+            "years": "85-80 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5316,7 +5950,14 @@
         "name": "Scelidosaurus",
         "englishTranslation": "Limb lizard",
         "dietType": "herbivorous",
-        "period": "Early Jurassic 208-194 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Jurassic",
+            "years": "208-194 million years ago",
+            "location": [
+                "United Kingdom"
+            ]
+        },
         "livedIn": [
             "period/location",
             "United Kingdom"
@@ -5333,7 +5974,14 @@
         "name": "Scutellosaurus",
         "englishTranslation": "Small shield lizard",
         "dietType": "herbivorous",
-        "period": "Early Jurassic 205-202 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Jurassic",
+            "years": "205-202 million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
@@ -5353,7 +6001,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "71-65 million years ago"
+            "years": "71-65 million years ago",
+            "location": [
+                "Argentina"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5374,7 +6025,10 @@
         "period": {
             "id": "period",
             "periodName": "Mid Jurassic",
-            "years": "195-180 million years ago"
+            "years": "195-180 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5392,7 +6046,14 @@
         "name": "Segnosaurus",
         "englishTranslation": "Slow lizard",
         "dietType": "carnivorous",
-        "period": "Late Cretaceous 97-88 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "97-98 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -5412,7 +6073,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "121-99 million years ago"
+            "years": "121-99 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5430,7 +6094,14 @@
         "name": "Shanag",
         "englishTranslation": "Named after the dancers in the Buddhist Tsam festival",
         "dietType": "carnivorous",
-        "period": "Early Cretaceous 126-142 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Cretaceous",
+            "years": "126-142 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -5450,7 +6121,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "78-74 million years ago"
+            "years": "78-74 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5471,7 +6145,10 @@
         "period": {
             "id": "period",
             "periodName": "Mid Jurassic",
-            "years": "170-160 million years ago"
+            "years": "170-160 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5489,7 +6166,14 @@
         "name": "Shuvuuia",
         "englishTranslation": "Bird",
         "dietType": "omnivorous",
-        "period": "Late Cretaceous 75-81 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "75-81 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -5509,7 +6193,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "121-112 million years ago"
+            "years": "121-112 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5530,7 +6217,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "125 million years ago"
+            "years": "125 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5552,7 +6242,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "122-120 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5574,7 +6266,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "122-120 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5596,7 +6290,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5618,7 +6314,9 @@
             "id": "period",
             "periodName": "Mid Jurassic",
             "years": "169-142 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5640,7 +6338,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "89-65 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5662,11 +6362,15 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "95-70 million years ago",
-            "location": "Morocco"
+            "location": [
+                "Morocco"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Morocco"
+            [
+                "period/location",
+                "Morocco"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "18.0m",
@@ -5684,7 +6388,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "227-221 million years ago",
-            "location": "Brazil"
+            "location": [
+                "Brazil"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5706,7 +6412,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5728,7 +6436,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5750,7 +6460,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
-            "location": "Germany"
+            "location": [
+                "Germany"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5772,7 +6484,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
-            "location": "Canada"
+            "location": [
+                "Canada"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5794,7 +6508,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "83-75 million years ago",
-            "location": "Spain"
+            "location": [
+                "Spain"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5816,7 +6532,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-70 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5838,7 +6556,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-112 million years ago",
-            "location": "Niger"
+            "location": [
+                "Niger"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5860,7 +6580,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "154-142 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5882,7 +6604,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "99-89 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5904,7 +6628,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "89-65 million years ago",
-            "location": "China"
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5926,7 +6652,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5948,7 +6676,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "75-68 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5970,7 +6700,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "84-65 million years ago",
-            "location": "Spain"
+            "location": [
+                "Spain"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -5992,7 +6724,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "120-110 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6014,7 +6748,9 @@
             "id": "period",
             "periodName": "Late Triassic",
             "years": "227-205 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6036,7 +6772,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "85-70 million years ago",
-            "location": "Mongolia"
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6058,7 +6796,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "76-67 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6080,7 +6820,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "70-65 million years ago",
-            "location": "North America"
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6102,7 +6844,9 @@
             "id": "period",
             "periodName": "Late Jurassic",
             "years": "155-144 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6124,7 +6868,9 @@
             "id": "period",
             "periodName": "Late Cretaceous",
             "years": "68-66 million years ago",
-            "location": "USA"
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6145,7 +6891,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "74-65 million years ago"
+            "years": "74-65 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6166,7 +6915,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "99-84 million years ago"
+            "years": "99-84 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6187,7 +6939,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "84-71 million years ago"
+            "years": "84-71 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6205,7 +6960,14 @@
         "name": "Tuojiangosaurus",
         "englishTranslation": "Tuo River lizard",
         "dietType": "herbivorous",
-        "period": "Late Jurassic 157-154 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Jurassic",
+            "years": "157-154 million years ago",
+            "location": [
+                "China"
+            ]
+        },
         "livedIn": [
             "period/location",
             "China"
@@ -6222,7 +6984,14 @@
         "name": "Tylocephale",
         "englishTranslation": "Swelling head",
         "dietType": "herbivorous",
-        "period": "Late Cretaceous 75-72 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "75-72 million years ago",
+            "location": [
+                "Mongolia"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Mongolia"
@@ -6242,7 +7011,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "68-66 million years ago"
+            "years": "68-66 million years ago",
+            "location": [
+                "North America"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6263,7 +7035,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "81-75 million years ago"
+            "years": "81-75 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6281,7 +7056,14 @@
         "name": "Unenlagia",
         "englishTranslation": "Half bird",
         "dietType": "carnivorous",
-        "period": "Late Cretaceous 94-86 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "94-86 million years ago",
+            "location": [
+                "Argentina"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Argentina"
@@ -6298,7 +7080,14 @@
         "name": "Urbacodon",
         "englishTranslation": "URBAC tooth",
         "dietType": "carnivorous",
-        "period": "Late Cretaceous 95 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "95 million years ago",
+            "location": [
+                "Uzbekistan"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Uzbekistan"
@@ -6315,7 +7104,14 @@
         "name": "Utahraptor",
         "englishTranslation": "Utah plunderer",
         "dietType": "carnivorous",
-        "period": "Early Cretaceous 112-100 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Cretaceous",
+            "years": "112-100 million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
@@ -6336,7 +7132,9 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "142-121 million years ago",
-            "location": "United Kingdom"
+            "location": [
+                "United Kingdom"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6357,7 +7155,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Cretaceous",
-            "years": "74-70 million years ago"
+            "years": "74-70 million years ago",
+            "location": [
+                "Mongolia"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6375,7 +7176,14 @@
         "name": "Vulcanodon",
         "englishTranslation": "Volcano tooth",
         "dietType": "herbivorous",
-        "period": "Early Jurassic 205-202 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Jurassic",
+            "years": "205-202 million years ago",
+            "location": [
+                "Zimbabwe"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Zimbabwe"
@@ -6392,7 +7200,14 @@
         "name": "Yandusaurus",
         "englishTranslation": "",
         "dietType": "herbivorous",
-        "period": "Mid Jurassic 169-159 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Mid Jurassic",
+            "years": "169-159 million years ago",
+            "location": [
+                "China"
+            ]
+        },
         "livedIn": [
             "period/location",
             "China"
@@ -6409,7 +7224,14 @@
         "name": "Yangchuanosaurus",
         "englishTranslation": "Yandu lizard",
         "dietType": "carnivorous",
-        "period": "Late Jurassic 160-144 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Jurassic",
+            "years": "160-144  million years ago",
+            "location": [
+                "China"
+            ]
+        },
         "livedIn": [
             "period/location",
             "China"
@@ -6426,7 +7248,14 @@
         "name": "Yimenosaurus",
         "englishTranslation": "Yimen lizard",
         "dietType": "herbivorous",
-        "period": "Early Jurassic 195-190 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Early Jurassic",
+            "years": "195-190  million years ago",
+            "location": [
+                "China"
+            ]
+        },
         "livedIn": [
             "period/location",
             "China"
@@ -6446,7 +7275,10 @@
         "period": {
             "id": "period",
             "periodName": "Late Jurassic",
-            "years": "159-142 million years ago"
+            "years": "159-142 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6464,7 +7296,14 @@
         "name": "Yinlong",
         "englishTranslation": "Hidden dragon",
         "dietType": "herbivorous",
-        "period": "Mid Jurassic 159-154 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Mid Jurassic",
+            "years": "159-154  million years ago",
+            "location": [
+                "China"
+            ]
+        },
         "livedIn": [
             "period/location",
             "China"
@@ -6484,7 +7323,10 @@
         "period": {
             "id": "period",
             "periodName": "Mid Jurassic",
-            "years": "180-159 million years ago"
+            "years": "180-159 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6505,7 +7347,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Jurassic",
-            "years": "205-190 million years ago"
+            "years": "205-190 million years ago",
+            "location": [
+                "China"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6523,7 +7368,14 @@
         "name": "Zalmoxes",
         "englishTranslation": "Zalmoxes (Dacian deity)",
         "dietType": "herbivorous",
-        "period": "Late Cretaceous 69 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "69  million years ago",
+            "location": [
+                "Romania"
+            ]
+        },
         "livedIn": [
             "period/location",
             "Romania"
@@ -6543,7 +7395,10 @@
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
-            "years": "120-110 million years ago"
+            "years": "120-110 million years ago",
+            "location": [
+                "USA"
+            ]
         },
         "livedIn": [
             "period/location",
@@ -6561,7 +7416,14 @@
         "name": "Zuniceratops",
         "englishTranslation": "Zuni-horned face",
         "dietType": "herbivorous",
-        "period": "Late Cretaceous 94-89 million years ago",
+        "period": {
+            "id": "period",
+            "periodName": "Late Cretaceous",
+            "years": "94-89  million years ago",
+            "location": [
+                "USA"
+            ]
+        },
         "livedIn": [
             "period/location",
             "USA"
