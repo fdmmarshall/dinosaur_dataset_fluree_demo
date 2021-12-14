@@ -13,8 +13,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "South Africa"
+            [
+                "period/location",
+                "South Africa"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "8.0m",
@@ -37,8 +39,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "9.0m",
@@ -61,8 +65,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.0m",
@@ -85,8 +91,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.0m",
@@ -109,8 +117,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "12.0m",
@@ -133,8 +143,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Egypt"
+            [
+                "period/location",
+                "Egypt"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -157,8 +169,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Niger"
+            [
+                "period/location",
+                "Niger"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "9.0m",
@@ -181,8 +195,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.5m",
@@ -205,8 +221,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "21.0m",
@@ -229,8 +247,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "7.0m",
@@ -253,8 +273,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "9.0m",
@@ -277,8 +299,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.0m",
@@ -301,8 +325,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -325,8 +351,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "12.0m",
@@ -349,8 +377,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -373,8 +403,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "12.0m",
@@ -397,8 +429,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "5.0m",
@@ -421,8 +455,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "France"
+            [
+                "period/location",
+                "France"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -445,8 +481,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -469,8 +507,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.0m",
@@ -493,8 +533,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "2.0m",
@@ -517,8 +559,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "7.0m",
@@ -541,8 +585,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "3.5m",
@@ -565,8 +611,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Uruguay"
+            [
+                "period/location",
+                "Uruguay"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "18.0m",
@@ -589,8 +637,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "21.0m",
@@ -613,8 +663,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Spain"
+            [
+                "period/location",
+                "Spain"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "18.0m",
@@ -637,8 +689,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Kazakhstan"
+            [
+                "period/location",
+                "Kazakhstan"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "8.0m",
@@ -661,8 +715,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "1.3m",
@@ -685,8 +741,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.5m",
@@ -709,8 +767,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Uzbekistan"
+            [
+                "period/location",
+                "Uzbekistan"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.5m",
@@ -733,8 +793,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "35.0m",
@@ -757,8 +819,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.0m",
@@ -776,11 +840,15 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-97 million years ago",
-            "loca": "Australia"
+            "location": [
+                "Australia"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Australia"
+            [
+                "period/location",
+                "Australia"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -803,8 +871,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.0m",
@@ -827,8 +897,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Australia"
+            [
+                "period/location",
+                "Australia"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -851,8 +923,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "2.3m",
@@ -875,8 +949,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.5m",
@@ -899,8 +975,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "6.0m",
@@ -923,8 +1001,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "1.0m",
@@ -947,8 +1027,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -971,8 +1053,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "India"
+            [
+                "period/location",
+                "India"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "14.0m",
@@ -995,8 +1079,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "24.0m",
@@ -1019,8 +1105,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "10.0m",
@@ -1043,8 +1131,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.0m",
@@ -1067,8 +1157,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -1091,8 +1183,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "5.0m",
@@ -1115,8 +1209,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.5m",
@@ -1139,8 +1235,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "30.0m",
@@ -1163,8 +1261,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "7.0m",
@@ -1187,8 +1287,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "10.0m",
@@ -1211,8 +1313,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.3m",
@@ -1235,8 +1339,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "23.0m",
@@ -1259,8 +1365,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "5.0m",
@@ -1283,8 +1391,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North Africa"
+            [
+                "period/location",
+                "North Africa"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "15.0m",
@@ -1307,8 +1417,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "7.6m",
@@ -1331,8 +1443,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -1355,8 +1469,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "10.0m",
@@ -1379,8 +1495,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.0m",
@@ -1403,8 +1521,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -1427,8 +1547,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -1451,8 +1573,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "18.0m",
@@ -1475,8 +1599,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "1.1m",
@@ -1499,8 +1625,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "5.0m",
@@ -1523,8 +1651,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "4.0m",
@@ -1547,8 +1677,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "11.0m",
@@ -1571,8 +1703,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.7m",
@@ -1595,8 +1729,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "23.0m",
@@ -1619,8 +1755,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.0m",
@@ -1643,8 +1781,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.1m",
@@ -1667,8 +1807,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Zimbabwe"
+            [
+                "period/location",
+                "Zimbabwe"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -1691,8 +1833,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.8m",
@@ -1715,8 +1859,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "4.0m",
@@ -1739,8 +1885,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.65m",
@@ -1763,8 +1911,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.5m",
@@ -1787,8 +1937,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.25m",
@@ -1811,8 +1963,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "10.0m",
@@ -1830,11 +1984,15 @@
             "id": "period",
             "periodName": "Early Jurassic",
             "years": "170 million years ago",
-            "location": "Antarctica"
+            "location": [
+                "Antarctica"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Antarctica"
+            [
+                "period/location",
+                "Antarctica"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "8.0m",
@@ -1857,8 +2015,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "6.0m",
@@ -1881,8 +2041,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "9.0m",
@@ -1905,8 +2067,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -1929,8 +2093,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "10.0m",
@@ -1953,8 +2119,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.0m",
@@ -2003,8 +2171,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Tanzania"
+            [
+                "period/location",
+                "Tanzania"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "20.0m",
@@ -2027,8 +2197,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -2051,8 +2223,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "26.0m",
@@ -2075,8 +2249,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.8m",
@@ -2099,8 +2275,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "3.5m",
@@ -2123,8 +2301,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "4.0m",
@@ -2147,8 +2327,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.4m",
@@ -2171,8 +2353,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "France"
+            [
+                "period/location",
+                "France"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "unknown",
@@ -2195,8 +2379,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.0m",
@@ -2219,8 +2405,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "13.0m",
@@ -2243,8 +2431,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.0m",
@@ -2267,8 +2457,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Tanzania"
+            [
+                "period/location",
+                "Tanzania"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.2m",
@@ -2291,8 +2483,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "2.0m",
@@ -2315,8 +2509,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "unknown",
@@ -2339,8 +2535,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -2362,8 +2560,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.0m",
@@ -2386,8 +2586,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "unknown",
@@ -2409,8 +2611,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -2433,8 +2637,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.4m",
@@ -2457,8 +2663,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "10.0m",
@@ -2481,8 +2689,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "7.0m",
@@ -2505,8 +2715,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "6.2m",
@@ -2529,8 +2741,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "7.0m",
@@ -2601,8 +2815,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -2625,8 +2841,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.0m",
@@ -2649,8 +2867,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "4.7m",
@@ -2673,8 +2893,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "4.0m",
@@ -2697,8 +2919,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "0.8m",
@@ -2721,8 +2945,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.6m",
@@ -2745,8 +2971,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "12.5m",
@@ -2769,8 +2997,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "6.0m",
@@ -2793,8 +3023,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Tanzania"
+            [
+                "period/location",
+                "Tanzania"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "23.0m",
@@ -2817,8 +3049,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "5.0m",
@@ -2841,8 +3075,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "8.6m",
@@ -2865,8 +3101,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "2.0m",
@@ -2889,8 +3127,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "unknown",
@@ -2913,8 +3153,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "10.0m",
@@ -2937,8 +3179,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Brazil"
+            [
+                "period/location",
+                "Brazil"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.8m",
@@ -2961,8 +3205,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.0m",
@@ -2985,8 +3231,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "9.0m",
@@ -3007,8 +3255,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.0m",
@@ -3031,8 +3281,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "21.5m",
@@ -3055,8 +3307,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -3079,8 +3333,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.0m",
@@ -3103,8 +3359,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "6.0m",
@@ -3127,8 +3385,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "South Africa"
+            [
+                "period/location",
+                "South Africa"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.2m",
@@ -3151,8 +3411,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -3175,8 +3437,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.5m",
@@ -3199,8 +3463,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.5m",
@@ -3223,8 +3489,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "5.0m",
@@ -3247,8 +3515,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "9.0m",
@@ -3271,8 +3541,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "2.3m",
@@ -3295,8 +3567,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "10.0m",
@@ -3319,8 +3593,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "India"
+            [
+                "period/location",
+                "India"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "7.0m",
@@ -3343,8 +3619,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Brazil"
+            [
+                "period/location",
+                "Brazil"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.5m",
@@ -3367,8 +3645,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "India"
+            [
+                "period/location",
+                "India"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "unknown",
@@ -3391,8 +3671,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Tanzania"
+            [
+                "period/location",
+                "Tanzania"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "20.0m",
@@ -3415,8 +3697,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Kazakhstan"
+            [
+                "period/location",
+                "Kazakhstan"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "9.0m",
@@ -3439,8 +3723,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "5.0m",
@@ -3463,8 +3749,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "unknown",
@@ -3487,8 +3775,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Niger"
+            [
+                "period/location",
+                "Niger"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "21.0m",
@@ -3511,8 +3801,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.8m",
@@ -3535,8 +3827,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Tanzania"
+            [
+                "period/location",
+                "Tanzania"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "5.0m",
@@ -3559,8 +3853,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.8m",
@@ -3583,8 +3879,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "India"
+            [
+                "period/location",
+                "India"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "9.0m",
@@ -3607,8 +3905,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "8.0m",
@@ -3631,8 +3931,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "9.0m",
@@ -3655,8 +3957,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Madagascar"
+            [
+                "period/location",
+                "Madagascar"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "unknown",
@@ -3679,8 +3983,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Australia"
+            [
+                "period/location",
+                "Australia"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "2.0m",
@@ -3703,8 +4009,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "3.0m",
@@ -3753,8 +4061,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "unknown",
@@ -3777,8 +4087,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "24.0m",
@@ -3801,8 +4113,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "5.0m",
@@ -3825,8 +4139,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "4.5m",
@@ -3849,8 +4165,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "France"
+            [
+                "period/location",
+                "France"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.2m",
@@ -3873,8 +4191,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "6.0m",
@@ -3897,8 +4217,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Niger"
+            [
+                "period/location",
+                "Niger"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "9.0m",
@@ -3921,8 +4243,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "South Africa"
+            [
+                "period/location",
+                "South Africa"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.2m",
@@ -3945,8 +4269,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Romania"
+            [
+                "period/location",
+                "Romania"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "5.0m",
@@ -3969,8 +4295,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "9.0m",
@@ -3993,8 +4321,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Madagascar"
+            [
+                "period/location",
+                "Madagascar"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -4012,11 +4342,15 @@
             "id": "period",
             "periodName": "Early Cretaceous",
             "years": "121-112 million years ago",
-            "location": "Malawi"
+            "location": [
+                "Malawi"
+            ]
         },
         "livedIn": [
-            "period/location",
-            "Malawi"
+            [
+                "period/location",
+                "Malawi"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "9.0m",
@@ -4039,8 +4373,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "22.0m",
@@ -4063,8 +4399,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "13.0m",
@@ -4087,8 +4425,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -4111,8 +4451,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Madagascar"
+            [
+                "period/location",
+                "Madagascar"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -4135,8 +4477,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Zimbabwe"
+            [
+                "period/location",
+                "Zimbabwe"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "4.0m",
@@ -4159,8 +4503,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Brazil"
+            [
+                "period/location",
+                "Brazil"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "13.0m",
@@ -4183,8 +4529,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "9.0m",
@@ -4207,8 +4555,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "South Africa"
+            [
+                "period/location",
+                "South Africa"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "12.0m",
@@ -4231,8 +4581,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "8.2m",
@@ -4255,8 +4607,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "0.5m",
@@ -4279,8 +4633,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "0.6m",
@@ -4303,8 +4659,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.8m",
@@ -4327,8 +4685,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Australia"
+            [
+                "period/location",
+                "Australia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "3.0m",
@@ -4351,8 +4711,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.7m",
@@ -4375,8 +4737,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -4399,8 +4763,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "3.0m",
@@ -4423,8 +4789,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Australia"
+            [
+                "period/location",
+                "Australia"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "7.0m",
@@ -4447,8 +4815,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "4.4m",
@@ -4471,8 +4841,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "7.0m",
@@ -4495,8 +4867,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "13.0m",
@@ -4519,8 +4893,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "7.4m",
@@ -4543,8 +4919,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "10.0m",
@@ -4643,8 +5021,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "5.0m",
@@ -4667,8 +5047,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.6m",
@@ -4691,8 +5073,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "5.3m",
@@ -4715,8 +5099,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "South Africa"
+            [
+                "period/location",
+                "South Africa"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -4739,8 +5125,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "20.0m",
@@ -4763,8 +5151,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "12.0m",
@@ -4787,8 +5177,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -4811,8 +5203,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "4.0m",
@@ -4835,8 +5229,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "2.0m",
@@ -4859,8 +5255,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "2.1m",
@@ -4883,8 +5281,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.4m",
@@ -4907,8 +5307,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Niger"
+            [
+                "period/location",
+                "Niger"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "7.0m",
@@ -4931,8 +5333,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -4955,8 +5359,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "8.0m",
@@ -4979,8 +5385,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.0m",
@@ -5003,8 +5411,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "7.0m",
@@ -5026,8 +5436,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Wales"
+            [
+                "period/location",
+                "Wales"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -5050,8 +5462,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Egypt"
+            [
+                "period/location",
+                "Egypt"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "28.0m",
@@ -5074,8 +5488,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "11.0m",
@@ -5098,8 +5514,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -5122,8 +5540,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "18.0m",
@@ -5146,8 +5566,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Spain"
+            [
+                "period/location",
+                "Spain"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -5170,8 +5592,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "25.0m",
@@ -5194,8 +5618,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "6.8m",
@@ -5218,8 +5644,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "4.2m",
@@ -5242,8 +5670,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "5.0m",
@@ -5302,8 +5732,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.9m",
@@ -5326,8 +5758,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "France"
+            [
+                "period/location",
+                "France"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "9.0m",
@@ -5350,8 +5784,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "5.0m",
@@ -5374,8 +5810,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "2.4m",
@@ -5398,8 +5836,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "6.0m",
@@ -5422,8 +5862,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "4.1m",
@@ -5446,8 +5888,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -5470,8 +5914,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "7.6m",
@@ -5494,8 +5940,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -5518,8 +5966,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "1.8m",
@@ -5542,8 +5992,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "6.0m",
@@ -5590,8 +6042,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "23.0m",
@@ -5640,8 +6094,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Spain"
+            [
+                "period/location",
+                "Spain"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "4.0m",
@@ -5664,8 +6120,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Australia"
+            [
+                "period/location",
+                "Australia"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "15.0m",
@@ -5688,8 +6146,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.5m",
@@ -5712,8 +6172,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "5.15m",
@@ -5736,8 +6198,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Niger"
+            [
+                "period/location",
+                "Niger"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "7.0m",
@@ -5760,8 +6224,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "6.6m",
@@ -5784,8 +6250,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "12.0m",
@@ -5808,8 +6276,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "unknown",
@@ -5832,8 +6302,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.0m",
@@ -5887,8 +6359,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "6.5m",
@@ -5911,8 +6385,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "12.0m",
@@ -5935,8 +6411,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "3.0m",
@@ -5959,8 +6437,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.0m",
@@ -5983,8 +6463,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "1.2m",
@@ -6007,8 +6489,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -6031,8 +6515,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.5m",
@@ -6055,8 +6541,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "4.0m",
@@ -6079,8 +6567,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "unknown",
@@ -6103,8 +6593,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.45m",
@@ -6127,8 +6619,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "15.0m",
@@ -6151,8 +6645,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "10.0m",
@@ -6175,8 +6671,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "0.6m",
@@ -6199,8 +6697,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "4.0m",
@@ -6223,8 +6723,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.37m",
@@ -6247,8 +6749,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -6271,8 +6775,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -6295,8 +6801,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -6319,8 +6827,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "7.6m",
@@ -6343,8 +6853,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "9.0m",
@@ -6393,8 +6905,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Brazil"
+            [
+                "period/location",
+                "Brazil"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "2.0m",
@@ -6417,8 +6931,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "2.4m",
@@ -6441,8 +6957,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "9.0m",
@@ -6465,8 +6983,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Germany"
+            [
+                "period/location",
+                "Germany"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "1.5m",
@@ -6489,8 +7009,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Canada"
+            [
+                "period/location",
+                "Canada"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "4.0m",
@@ -6513,8 +7035,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Spain"
+            [
+                "period/location",
+                "Spain"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "2.5m",
@@ -6537,8 +7061,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "5.5m",
@@ -6561,8 +7087,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Niger"
+            [
+                "period/location",
+                "Niger"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "11.0m",
@@ -6585,8 +7113,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "35.0m",
@@ -6609,8 +7139,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "6.0m",
@@ -6633,8 +7165,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "unknown",
@@ -6657,8 +7191,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "10.0m",
@@ -6681,8 +7217,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "8.5m",
@@ -6705,8 +7243,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Spain"
+            [
+                "period/location",
+                "Spain"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "5.0m",
@@ -6729,8 +7269,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "7.0m",
@@ -6753,8 +7295,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "2.5m",
@@ -6777,8 +7321,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "unknown",
@@ -6801,8 +7347,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.5m",
@@ -6825,8 +7373,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "7.5m",
@@ -6849,8 +7399,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "10.0m",
@@ -6873,8 +7425,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "9.0m",
@@ -6897,8 +7451,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.0m",
@@ -6921,8 +7477,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "unknown",
@@ -6945,8 +7503,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "12.0m",
@@ -6969,8 +7529,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "7.0m",
@@ -6993,8 +7555,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.4m",
@@ -7017,8 +7581,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "North America"
+            [
+                "period/location",
+                "North America"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "12.0m",
@@ -7041,8 +7607,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "unknown",
@@ -7065,8 +7633,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Argentina"
+            [
+                "period/location",
+                "Argentina"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "2.4m",
@@ -7089,8 +7659,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Uzbekistan"
+            [
+                "period/location",
+                "Uzbekistan"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.0m",
@@ -7113,8 +7685,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "6.0m",
@@ -7137,8 +7711,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "United Kingdom"
+            [
+                "period/location",
+                "United Kingdom"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -7161,8 +7737,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Mongolia"
+            [
+                "period/location",
+                "Mongolia"
+            ]
         ],
         "dinoType": "small theropod",
         "length": "1.8m",
@@ -7185,8 +7763,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Zimbabwe"
+            [
+                "period/location",
+                "Zimbabwe"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "6.5m",
@@ -7209,8 +7789,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -7233,8 +7815,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "large theropod",
         "length": "10.0m",
@@ -7257,8 +7841,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "9.0m",
@@ -7281,8 +7867,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "armoured dinosaur",
         "length": "unknown",
@@ -7305,8 +7893,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "1.2m",
@@ -7329,8 +7919,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "17.0m",
@@ -7353,8 +7945,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "China"
+            [
+                "period/location",
+                "China"
+            ]
         ],
         "dinoType": "sauropod",
         "length": "7.0m",
@@ -7377,8 +7971,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "Romania"
+            [
+                "period/location",
+                "Romania"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "3.0m",
@@ -7401,8 +7997,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "euornithopod",
         "length": "1.8m",
@@ -7425,8 +8023,10 @@
             ]
         },
         "livedIn": [
-            "period/location",
-            "USA"
+            [
+                "period/location",
+                "USA"
+            ]
         ],
         "dinoType": "ceratopsian",
         "length": "unknown",
