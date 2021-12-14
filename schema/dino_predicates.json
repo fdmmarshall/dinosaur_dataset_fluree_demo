@@ -34,7 +34,8 @@
         "doc": "The region in which the dinosaur lived in.",
         "type": "ref",
         "restrictCollection": "country",
-        "fullText": "true"
+        "fullText": "true",
+        "multi": "true"
     },
     {
         "id": "_predicate",
