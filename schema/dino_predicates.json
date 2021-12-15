@@ -16,13 +16,6 @@
     },
     {
         "id": "_predicate",
-        "name": "dino/dietType",
-        "doc": "The diet type a specific dinosaur had.",
-        "type": "ref",
-        "restrictCollection": "type"
-    },
-    {
-        "id": "_predicate",
         "name": "dino/period",
         "doc": "The period in time in which the dinosaur lived.",
         "type": "ref",
@@ -46,10 +39,10 @@
     },
     {
         "id": "_predicate",
-        "name": "dino/length",
-        "doc": "The length of the dinosaur displayed in meters.",
+        "name": "dino/taxonomy",
+        "doc": "The taxonomy of the specific dinosaur.",
         "type": "ref",
-        "restrictCollection": "type"
+        "restrictCollection": "taxonomyDetails"
     },
     {
         "id": "_predicate",
