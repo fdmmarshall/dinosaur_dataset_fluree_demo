@@ -59,8 +59,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae",
-        "namedBy": "Bonaparte and Novas (1985)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae",
+            "namedBy": "Bonaparte and Novas (1985)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html"
     },
     {
@@ -88,8 +90,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-        "namedBy": "Sampson  (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "namedBy": "Sampson  (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/achelousaurus.html"
     },
     {
@@ -117,8 +121,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Perle Norell and Clark (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Perle Norell and Clark (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/achillobator.html"
     },
     {
@@ -146,8 +152,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-        "namedBy": "Stovall and Langston (1950)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "namedBy": "Stovall and Langston (1950)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html"
     },
     {
@@ -175,8 +183,10 @@
                 "Egypt"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Stromer (1932)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Stromer (1932)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aegyptosaurus.html"
     },
     {
@@ -204,8 +214,10 @@
                 "Niger"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-        "namedBy": "Sereno Wilson Larsson Dutheil and Sues (1944)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "namedBy": "Sereno Wilson Larsson Dutheil and Sues (1944)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/afrovenator.html"
     },
     {
@@ -233,8 +245,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Peng (1990)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Peng (1990)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/agilisaurus.html"
     },
     {
@@ -262,8 +276,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "Gilmore (1922)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "Gilmore (1922)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html"
     },
     {
@@ -291,8 +307,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia",
-        "namedBy": "Ryan 2007",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia",
+            "namedBy": "Ryan 2007"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/albertaceratops.html"
     },
     {
@@ -320,8 +338,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
-        "namedBy": "Lamb (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
+            "namedBy": "Lamb (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html"
     },
     {
@@ -349,8 +369,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-        "namedBy": "Gilmore (1933)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "namedBy": "Gilmore (1933)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alectrosaurus.html"
     },
     {
@@ -379,8 +401,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-        "namedBy": "Kurzanov (1976)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "namedBy": "Kurzanov (1976)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alioramus.html"
     },
     {
@@ -408,8 +432,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
-        "namedBy": "Marsh (1877)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
+            "namedBy": "Marsh (1877)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
     },
     {
@@ -437,8 +463,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
-        "namedBy": "Bonaparte (1991)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
+            "namedBy": "Bonaparte (1991)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alvarezsaurus.html"
     },
     {
@@ -466,8 +494,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
-        "namedBy": "Salgado and Bonaparte (1991)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
+            "namedBy": "Salgado and Bonaparte (1991)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/amargasaurus.html"
     },
     {
@@ -495,8 +525,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
-        "namedBy": "Marsh (1891)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
+            "namedBy": "Marsh (1891)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ammosaurus.html"
     },
     {
@@ -524,8 +556,10 @@
                 "France"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "Le Loeuff (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "Le Loeuff (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ampelosaurus.html"
     },
     {
@@ -553,8 +587,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Cabrera (1947)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Cabrera (1947)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/amygdalodon.html"
     },
     {
@@ -582,8 +618,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "Brown (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "Brown (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/anchiceratops.html"
     },
     {
@@ -611,8 +649,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
-        "namedBy": "Marsh (1885)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
+            "namedBy": "Marsh (1885)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/anchisaurus.html"
     },
     {
@@ -640,8 +680,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Brown (1908)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Brown (1908)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
     },
     {
@@ -669,8 +711,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-        "namedBy": "Barsbold (1988)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "namedBy": "Barsbold (1988)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/anserimimus.html"
     },
     {
@@ -698,8 +742,10 @@
                 "Uruguay"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "von Huene (1929)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "von Huene (1929)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/antarctosaurus.html"
     },
     {
@@ -727,8 +773,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-        "namedBy": "Marsh (1877)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "namedBy": "Marsh (1877)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
     },
     {
@@ -756,8 +804,10 @@
                 "Spain"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Sanz Buscalioni Casanovas and Sanafé (1987)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Sanz Buscalioni Casanovas and Sanafé (1987)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aragosaurus.html"
     },
     {
@@ -785,8 +835,10 @@
                 "Kazakhstan"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Rozhdestvensky (1968)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Rozhdestvensky (1968)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aralosaurus.html"
     },
     {
@@ -814,8 +866,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-        "namedBy": "Dong and Azuma (1987)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "namedBy": "Dong and Azuma (1987)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/archaeoceratops.html"
     },
     {
@@ -843,8 +897,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae",
-        "namedBy": "Mayer (1861)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae",
+            "namedBy": "Mayer (1861)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
     },
     {
@@ -872,8 +928,10 @@
                 "Uzbekistan"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-        "namedBy": "Russell (1972)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "namedBy": "Russell (1972)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/archaeornithomimus.html"
     },
     {
@@ -901,8 +959,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Bonaparte and Coria (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Bonaparte and Coria (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html"
     },
     {
@@ -930,8 +990,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "Parks (1925)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "Parks (1925)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/arrhinoceratops.html"
     },
     {
@@ -959,8 +1021,10 @@
                 "Australia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Rich and Rich (1989)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Rich and Rich (1989)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/atlascopcosaurus.html"
     },
     {
@@ -988,8 +1052,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
-        "namedBy": "Coria Chiappe and Dingus (2002)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
+            "namedBy": "Coria Chiappe and Dingus (2002)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aucasaurus.html"
     },
     {
@@ -1017,8 +1083,10 @@
                 "Australia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Longman (1933)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Longman (1933)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/austrosaurus.html"
     },
     {
@@ -1046,8 +1114,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-        "namedBy": "Dodson (1986)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "namedBy": "Dodson (1986)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html"
     },
     {
@@ -1075,8 +1145,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae",
-        "namedBy": "Kurzanov (1981)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae",
+            "namedBy": "Kurzanov (1981)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/avimimus.html"
     },
     {
@@ -1104,8 +1176,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-        "namedBy": "Gilmore (1933)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "namedBy": "Gilmore (1933)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bactrosaurus.html"
     },
     {
@@ -1133,8 +1207,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae",
-        "namedBy": "Maryanska and Osmolska (1975)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae",
+            "namedBy": "Maryanska and Osmolska (1975)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html"
     },
     {
@@ -1162,8 +1238,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Burnham Derstler Currie Bakker Zhou and Ostrom (2000)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Burnham Derstler Currie Bakker Zhou and Ostrom (2000)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html"
     },
     {
@@ -1191,8 +1269,10 @@
                 "India"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
-        "namedBy": "Jain Kutty Roy-Chowdhury and Chatterjee (1975)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
+            "namedBy": "Jain Kutty Roy-Chowdhury and Chatterjee (1975)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/barapasaurus.html"
     },
     {
@@ -1220,8 +1300,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-        "namedBy": "Marsh (1890)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "namedBy": "Marsh (1890)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/barosaurus.html"
     },
     {
@@ -1249,8 +1331,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
-        "namedBy": "Charig and Milner (1987)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
+            "namedBy": "Charig and Milner (1987)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
     },
     {
@@ -1278,8 +1362,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
-        "namedBy": "Paul (1988)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
+            "namedBy": "Paul (1988)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/becklespinax.html"
     },
     {
@@ -1307,8 +1393,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea",
-        "namedBy": "Xu Tang and Wang (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea",
+            "namedBy": "Xu Tang and Wang (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/beipiaosaurus.html"
     },
     {
@@ -1336,8 +1424,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
-        "namedBy": "Dong and Azuma (1990)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
+            "namedBy": "Dong and Azuma (1990)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bellusaurus.html"
     },
     {
@@ -1365,8 +1455,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-        "namedBy": "Osmólska (1987)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "namedBy": "Osmólska (1987)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/borogovia.html"
     },
     {
@@ -1394,8 +1486,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
-        "namedBy": "Riggs (1903)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
+            "namedBy": "Riggs (1903)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
     },
     {
@@ -1423,8 +1517,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "C. M. Sternberg (1953)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "C. M. Sternberg (1953)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/brachylophosaurus.html"
     },
     {
@@ -1452,8 +1548,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
-        "namedBy": "Rauhut Remes Fechner Cladera and Puerta (2005)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
+            "namedBy": "Rauhut Remes Fechner Cladera and Puerta (2005)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/brachytrachelopan.html"
     },
     {
@@ -1481,8 +1579,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae",
-        "namedBy": "Makovicky Apesteguía &amp; Agnolin (2005)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae",
+            "namedBy": "Makovicky Apesteguía &amp; Agnolin (2005)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/buitreraptor.html"
     },
     {
@@ -1510,8 +1610,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
-        "namedBy": "Cope (1877)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
+            "namedBy": "Cope (1877)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html"
     },
     {
@@ -1539,8 +1641,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia",
-        "namedBy": "Marsh (1885)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia",
+            "namedBy": "Marsh (1885)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html"
     },
     {
@@ -1568,8 +1672,10 @@
                 "North Africa"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-        "namedBy": "Stromer (1931)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "namedBy": "Stromer (1931)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html"
     },
     {
@@ -1597,8 +1703,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
-        "namedBy": "Bonaparte (1985)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
+            "namedBy": "Bonaparte (1985)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html"
     },
     {
@@ -1626,8 +1734,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae",
-        "namedBy": "Ji Currie Norell and Ji. (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae",
+            "namedBy": "Ji Currie Norell and Ji. (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html"
     },
     {
@@ -1655,8 +1765,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Carpenter Kirkland Burge and Bird (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Carpenter Kirkland Burge and Bird (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cedarpelta.html"
     },
     {
@@ -1683,8 +1795,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-        "namedBy": "apertus",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "namedBy": "apertus"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html"
     },
     {
@@ -1712,8 +1826,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
-        "namedBy": "Marsh (1884)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
+            "namedBy": "Marsh (1884)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
     },
     {
@@ -1741,8 +1857,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea",
-        "namedBy": "von Huene (1927)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea",
+            "namedBy": "von Huene (1927)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cetiosauriscus.html"
     },
     {
@@ -1770,8 +1888,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
-        "namedBy": "Phillips (1871)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
+            "namedBy": "Phillips (1871)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html"
     },
     {
@@ -1799,8 +1919,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-        "namedBy": "Zhao Cheng and Xu (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "namedBy": "Zhao Cheng and Xu (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chaoyangsaurus.html"
     },
     {
@@ -1827,8 +1949,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "belli",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "belli"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html"
     },
     {
@@ -1856,8 +1980,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Herrerasauridae",
-        "namedBy": "Long and Murry (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Herrerasauridae",
+            "namedBy": "Long and Murry (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chindesaurus.html"
     },
     {
@@ -1885,8 +2011,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-        "namedBy": "Yeh (1975)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "namedBy": "Yeh (1975)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chinshakiangosaurus.html"
     },
     {
@@ -1914,8 +2042,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
-        "namedBy": "Gilmore (1924)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
+            "namedBy": "Gilmore (1924)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chirostenotes.html"
     },
     {
@@ -1943,8 +2073,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Corro (1974)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Corro (1974)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chubutisaurus.html"
     },
     {
@@ -1972,8 +2104,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-        "namedBy": "Dong Zhou and Zhang (1983)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "namedBy": "Dong Zhou and Zhang (1983)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chungkingosaurus.html"
     },
     {
@@ -2001,8 +2135,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
-        "namedBy": "Clark Norell and Barsbold (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
+            "namedBy": "Clark Norell and Barsbold (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/citipati.html"
     },
     {
@@ -2029,8 +2165,10 @@
                 "Zimbabwe"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
-        "namedBy": "bauri",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
+            "namedBy": "bauri"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
     },
     {
@@ -2058,8 +2196,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-        "namedBy": "Marsh (1879)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "namedBy": "Marsh (1879)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coelurus.html"
     },
     {
@@ -2087,8 +2227,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-        "namedBy": "Bonaparte (1978)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "namedBy": "Bonaparte (1978)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coloradisaurus.html"
     },
     {
@@ -2116,8 +2258,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
-        "namedBy": "Wagner (1859)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
+            "namedBy": "Wagner (1859)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html"
     },
     {
@@ -2145,8 +2289,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
-        "namedBy": "Barsbold (1986)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
+            "namedBy": "Barsbold (1986)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/conchoraptor.html"
     },
     {
@@ -2174,8 +2320,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae",
-        "namedBy": "Hou Zhou Gu and Zhang (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae",
+            "namedBy": "Hou Zhou Gu and Zhang (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/confuciusornis.html"
     },
     {
@@ -2203,8 +2351,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Brown (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Brown (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html"
     },
     {
@@ -2232,8 +2382,10 @@
                 "Antarctica"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
-        "namedBy": "Hammer and Hickerson (1994)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
+            "namedBy": "Hammer and Hickerson (1994)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html"
     },
     {
@@ -2261,8 +2413,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae",
-        "namedBy": "Lucas (1902)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae",
+            "namedBy": "Lucas (1902)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html"
     },
     {
@@ -2290,8 +2444,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
-        "namedBy": "Russell (1970)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
+            "namedBy": "Russell (1970)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html"
     },
     {
@@ -2319,8 +2475,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-        "namedBy": "Dong and Tang (1984)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "namedBy": "Dong and Tang (1984)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/datousaurus.html"
     },
     {
@@ -2348,8 +2506,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-        "namedBy": "Osmólska and Roniewicz (1970)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "namedBy": "Osmólska and Roniewicz (1970)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/deinocheirus.html"
     },
     {
@@ -2377,8 +2537,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Ostrom (1969)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Ostrom (1969)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html"
     },
     {
@@ -2406,8 +2568,10 @@
                 "Morocco"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-        "namedBy": "Sereno Duthiel Iarochene Larsson Lyon Magwene Sidor Varricchio and Wilson (1996)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "namedBy": "Sereno Duthiel Iarochene Larsson Lyon Magwene Sidor Varricchio and Wilson (1996)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/deltadromeus.html"
     },
     {
@@ -2435,8 +2599,10 @@
                 "Tanzania"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
-        "namedBy": "Janensch (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
+            "namedBy": "Janensch (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html"
     },
     {
@@ -2463,8 +2629,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae",
-        "namedBy": "wetherilli",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae",
+            "namedBy": "wetherilli"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
     },
     {
@@ -2492,8 +2660,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-        "namedBy": "Marsh (1878)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "namedBy": "Marsh (1878)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
     },
     {
@@ -2521,8 +2691,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Matthew and Brown (1922)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Matthew and Brown (1922)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dromaeosaurus.html"
     },
     {
@@ -2550,8 +2722,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-        "namedBy": "Parks (1926)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "namedBy": "Parks (1926)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dromiceiomimus.html"
     },
     {
@@ -2579,8 +2753,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
-        "namedBy": "Marsh (1894)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
+            "namedBy": "Marsh (1894)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dryosaurus.html"
     },
     {
@@ -2608,8 +2784,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-        "namedBy": "Cope (1866)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "namedBy": "Cope (1866)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dryptosaurus.html"
     },
     {
@@ -2636,8 +2814,10 @@
                 "France"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-        "namedBy": "Allain (2005)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "namedBy": "Allain (2005)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dubreuillosaurus.html"
     },
     {
@@ -2665,8 +2845,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-        "namedBy": "Sternberg (1928)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "namedBy": "Sternberg (1928)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html"
     },
     {
@@ -2694,8 +2876,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Lambe (1917)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Lambe (1917)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html"
     },
     {
@@ -2723,8 +2907,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-        "namedBy": "Sampson  (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "namedBy": "Sampson  (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/einiosaurus.html"
     },
     {
@@ -2752,8 +2938,10 @@
                 "Tanzania"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
-        "namedBy": "Janensch (1920)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
+            "namedBy": "Janensch (1920)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/elaphrosaurus.html"
     },
     {
@@ -2781,8 +2969,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora",
-        "namedBy": "Haubold (1991)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora",
+            "namedBy": "Haubold (1991)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/emausaurus.html"
     },
     {
@@ -2809,8 +2999,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Kirkland (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Kirkland (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eolambia.html"
     },
     {
@@ -2838,8 +3030,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda",
-        "namedBy": "Sereno Forster Rogers and Monetta (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda",
+            "namedBy": "Sereno Forster Rogers and Monetta (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html"
     },
     {
@@ -2866,8 +3060,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-        "namedBy": "Hutt Naish Martill Barker and Newberry (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "namedBy": "Hutt Naish Martill Barker and Newberry (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eotyrannus.html"
     },
     {
@@ -2894,8 +3090,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "You Luo Shubin Witmer Tang and Tang (2003)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "You Luo Shubin Witmer Tang and Tang (2003)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/equijubus.html"
     },
     {
@@ -2922,8 +3120,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Ksepka and Norell (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Ksepka and Norell (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/erketu.html"
     },
     {
@@ -2951,8 +3151,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-        "namedBy": "Perle vide Barsbold and Perle (1980)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "namedBy": "Perle vide Barsbold and Perle (1980)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/erlikosaurus.html"
     },
     {
@@ -2980,8 +3182,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Wiman (1929)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Wiman (1929)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/euhelopus.html"
     },
     {
@@ -3009,7 +3213,9 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/euoplocephalus.html"
     },
     {
@@ -3037,8 +3243,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
-        "namedBy": "Sander Mateus Laven and Knötschke (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
+            "namedBy": "Sander Mateus Laven and Knötschke (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/europasaurus.html"
     },
     {
@@ -3066,8 +3274,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-        "namedBy": "Walker (1964)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "namedBy": "Walker (1964)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eustreptospondylus.html"
     },
     {
@@ -3094,8 +3304,10 @@
             "period/location",
             "Japan"
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
-        "namedBy": "Azuma and Currie (2000)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
+            "namedBy": "Azuma and Currie (2000)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/fukuiraptor.html"
     },
     {
@@ -3121,8 +3333,10 @@
             "period/location",
             "Japan"
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Kobayashi and Azuma (2003)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Kobayashi and Azuma (2003)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/fukuisaurus.html"
     },
     {
@@ -3150,8 +3364,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-        "namedBy": "Osmólska Roniewicz and Barsbold (1972)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "namedBy": "Osmólska Roniewicz and Barsbold (1972)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gallimimus.html"
     },
     {
@@ -3179,8 +3395,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-        "namedBy": "Carpenter Miles and Cloward (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "namedBy": "Carpenter Miles and Cloward (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gargoyleosaurus.html"
     },
     {
@@ -3208,8 +3426,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-        "namedBy": "Barsbold (1981)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "namedBy": "Barsbold (1981)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/garudimimus.html"
     },
     {
@@ -3237,8 +3457,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
-        "namedBy": "Dong and Tang (1985)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
+            "namedBy": "Dong and Tang (1985)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gasosaurus.html"
     },
     {
@@ -3266,8 +3488,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Coria and Salgado (1996)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Coria and Salgado (1996)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gasparinisaura.html"
     },
     {
@@ -3296,8 +3520,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-        "namedBy": "Kirkland (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "namedBy": "Kirkland (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html"
     },
     {
@@ -3325,8 +3551,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-        "namedBy": "Coria and Salgado (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "namedBy": "Coria and Salgado (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html"
     },
     {
@@ -3354,8 +3582,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-        "namedBy": "Brett-Surman (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "namedBy": "Brett-Surman (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gilmoreosaurus.html"
     },
     {
@@ -3383,8 +3613,10 @@
                 "Tanzania"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
-        "namedBy": "Janensch (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
+            "namedBy": "Janensch (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html"
     },
     {
@@ -3412,8 +3644,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Vickaryous Russell Currie and Zhao (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Vickaryous Russell Currie and Zhao (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gobisaurus.html"
     },
     {
@@ -3441,8 +3675,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
-        "namedBy": "Lamb (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
+            "namedBy": "Lamb (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html"
     },
     {
@@ -3470,8 +3706,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala",
-        "namedBy": "Perle Maryańska and Osmólska (1982)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala",
+            "namedBy": "Perle Maryańska and Osmólska (1982)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/goyocephale.html"
     },
     {
@@ -3498,8 +3736,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-        "namedBy": "Sereno (2000)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "namedBy": "Sereno (2000)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/graciliceratops.html"
     },
     {
@@ -3527,8 +3767,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Lambe (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Lambe (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gryposaurus.html"
     },
     {
@@ -3556,8 +3798,10 @@
                 "Brazil"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda",
-        "namedBy": "Bonaparte Ferigolo and Ribeiro (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda",
+            "namedBy": "Bonaparte Ferigolo and Ribeiro (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/guaibasaurus.html"
     },
     {
@@ -3585,8 +3829,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-        "namedBy": "Xu Clark Forster Norell Erickson Eberth Jia and Zhao (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "namedBy": "Xu Clark Forster Norell Erickson Eberth Jia and Zhao (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html"
     },
     {
@@ -3614,8 +3860,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Leidy (1858)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Leidy (1858)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hadrosaurus.html"
     },
     {
@@ -3641,8 +3889,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria",
-        "namedBy": "Zanno and Sampson (2005)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria",
+            "namedBy": "Zanno and Sampson (2005)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hagryphus.html"
     },
     {
@@ -3671,8 +3921,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
-        "namedBy": "Hatcher (1903)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
+            "namedBy": "Hatcher (1903)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/haplocanthosaurus.html"
     },
     {
@@ -3700,8 +3952,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-        "namedBy": "Barsbold and Perle (1984)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "namedBy": "Barsbold and Perle (1984)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/harpymimus.html"
     },
     {
@@ -3729,8 +3983,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Herrerasauridae",
-        "namedBy": "Reig (1963)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Herrerasauridae",
+            "namedBy": "Reig (1963)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html"
     },
     {
@@ -3758,8 +4014,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-        "namedBy": "Carpenter Miles and Cloward (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "namedBy": "Carpenter Miles and Cloward (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hesperosaurus.html"
     },
     {
@@ -3787,8 +4045,10 @@
                 "South Africa"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
-        "namedBy": "Crompton and Charig (1962)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
+            "namedBy": "Crompton and Charig (1962)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/heterodontosaurus.html"
     },
     {
@@ -3816,8 +4076,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
-        "namedBy": "Barsbold (1981)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
+            "namedBy": "Barsbold (1981)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/heyuannia.html"
     },
     {
@@ -3845,8 +4107,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea",
-        "namedBy": "Maryańska and Osmólska (1974)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea",
+            "namedBy": "Maryańska and Osmólska (1974)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/homalocephale.html"
     },
     {
@@ -3874,8 +4138,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae",
-        "namedBy": "Dong Tang and Zhou (1982)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae",
+            "namedBy": "Dong Tang and Zhou (1982)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html"
     },
     {
@@ -3903,8 +4169,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-        "namedBy": "Mantell (1833)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "namedBy": "Mantell (1833)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html"
     },
     {
@@ -3932,8 +4200,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Brown (1913)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Brown (1913)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html"
     },
     {
@@ -3961,8 +4231,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae",
-        "namedBy": "Huxley (1869)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae",
+            "namedBy": "Huxley (1869)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html"
     },
     {
@@ -3990,8 +4262,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Boulenger and van Beneden (1881)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Boulenger and van Beneden (1881)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
     },
     {
@@ -4019,8 +4293,10 @@
                 "India"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
-        "namedBy": "Huene and Matley (1933)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
+            "namedBy": "Huene and Matley (1933)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/indosuchus.html"
     },
     {
@@ -4048,8 +4324,10 @@
                 "Brazil"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
-        "namedBy": "Martill Cruickshank Frey Small and Clarke (1996)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
+            "namedBy": "Martill Cruickshank Frey Small and Clarke (1996)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/irritator.html"
     },
     {
@@ -4076,8 +4354,10 @@
                 "India"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "Jain and Bandyopadhyay (1997)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "Jain and Bandyopadhyay (1997)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/isisaurus.html"
     },
     {
@@ -4105,8 +4385,10 @@
                 "Tanzania"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Wild (1991)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Wild (1991)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/janenschia.html"
     },
     {
@@ -4134,8 +4416,10 @@
                 "Kazakhstan"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Riabinin (1939)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Riabinin (1939)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jaxartosaurus.html"
     },
     {
@@ -4163,8 +4447,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
-        "namedBy": "Zhang and Yang (1995)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
+            "namedBy": "Zhang and Yang (1995)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jingshanosaurus.html"
     },
     {
@@ -4191,8 +4477,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Wang and Xu (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Wang and Xu (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jinzhousaurus.html"
     },
     {
@@ -4220,8 +4508,10 @@
                 "Niger"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
-        "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
+            "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jobaria.html"
     },
     {
@@ -4249,8 +4539,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
-        "namedBy": "Göhlich &amp; Chiappe (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
+            "namedBy": "Göhlich &amp; Chiappe (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/juravenator.html"
     },
     {
@@ -4278,8 +4570,10 @@
                 "Tanzania"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-        "namedBy": "Hennig (1915)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "namedBy": "Hennig (1915)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
     },
     {
@@ -4307,8 +4601,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
-        "namedBy": "Clark Norell and Barsbold (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
+            "namedBy": "Clark Norell and Barsbold (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/khaan.html"
     },
     {
@@ -4336,8 +4632,10 @@
                 "India"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-        "namedBy": "Yadagiri (1988)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "namedBy": "Yadagiri (1988)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/kotasaurus.html"
     },
     {
@@ -4365,8 +4663,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Brown (1910)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Brown (1910)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/kritosaurus.html"
     },
     {
@@ -4394,8 +4694,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Parks (1923)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Parks (1923)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html"
     },
     {
@@ -4422,8 +4724,10 @@
                 "Madagascar"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
-        "namedBy": "Bonaparte (1986)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
+            "namedBy": "Bonaparte (1986)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lapparentosaurus.html"
     },
     {
@@ -4451,8 +4755,10 @@
                 "Australia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Rich and Rich (1989)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Rich and Rich (1989)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/leaellynasaura.html"
     },
     {
@@ -4480,8 +4786,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-        "namedBy": "Brown (1914)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "namedBy": "Brown (1914)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/leptoceratops.html"
     },
     {
@@ -4508,8 +4816,10 @@
                 "Lesotho"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia",
-        "namedBy": "Galton (1978)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia",
+            "namedBy": "Galton (1978)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lesothosaurus.html"
     },
     {
@@ -4536,8 +4846,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-        "namedBy": "Xu Makovicky Wang Norell and You (2002)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "namedBy": "Xu Makovicky Wang Norell and You (2002)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/liaoceratops.html"
     },
     {
@@ -4565,8 +4877,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Bonaparte González Riga and Apesteguía (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Bonaparte González Riga and Apesteguía (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ligabuesaurus.html"
     },
     {
@@ -4594,8 +4908,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda",
-        "namedBy": "Huene (1934)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda",
+            "namedBy": "Huene (1934)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/liliensternus.html"
     },
     {
@@ -4623,8 +4939,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Xu Makovicky Wang Norell and You (1960)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Xu Makovicky Wang Norell and You (1960)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lophorhothon.html"
     },
     {
@@ -4652,8 +4970,10 @@
                 "France"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia",
-        "namedBy": "Ezcurra and Cuny 2007 (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia",
+            "namedBy": "Ezcurra and Cuny 2007 (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lophostropheus.html"
     },
     {
@@ -4681,8 +5001,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-        "namedBy": "Young (1941)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "namedBy": "Young (1941)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lufengosaurus.html"
     },
     {
@@ -4710,8 +5032,10 @@
                 "Niger"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Taquet &amp; Russell (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Taquet &amp; Russell (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lurdusaurus.html"
     },
     {
@@ -4739,8 +5063,10 @@
                 "South Africa"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
-        "namedBy": "Haughton (1924)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
+            "namedBy": "Haughton (1924)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lycorhinus.html"
     },
     {
@@ -4768,8 +5094,10 @@
                 "Romania"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "Nopcsa (1915)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "Nopcsa (1915)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/magyarosaurus.html"
     },
     {
@@ -4797,8 +5125,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Horner and Makela (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Horner and Makela (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
     },
     {
@@ -4826,8 +5156,10 @@
                 "Madagascar"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
-        "namedBy": "Sues &amp; Taquet (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
+            "namedBy": "Sues &amp; Taquet (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html"
     },
     {
@@ -4855,8 +5187,10 @@
                 "Malawi"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "Haughton (1928)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "Haughton (1928)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/malawisaurus.html"
     },
     {
@@ -4884,8 +5218,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Young (1954)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Young (1954)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html"
     },
     {
@@ -4913,8 +5249,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae",
-        "namedBy": "Coria and Currie (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae",
+            "namedBy": "Coria and Currie (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html"
     },
     {
@@ -4942,8 +5280,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
-        "namedBy": "Madsen (1976)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
+            "namedBy": "Madsen (1976)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/marshosaurus.html"
     },
     {
@@ -4971,8 +5311,10 @@
                 "Madagascar"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
-        "namedBy": "Sampson Carrano &amp; Forster (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
+            "namedBy": "Sampson Carrano &amp; Forster (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/masiakasaurus.html"
     },
     {
@@ -5000,8 +5342,10 @@
                 "Zimbabwe"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-        "namedBy": "Owen (1854)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "namedBy": "Owen (1854)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html"
     },
     {
@@ -5029,8 +5373,10 @@
                 "Brazil"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae Saltasaurinae",
-        "namedBy": "Kellner et al. (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae Saltasaurinae",
+            "namedBy": "Kellner et al. (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/maxakalisaurus.html"
     },
     {
@@ -5058,8 +5404,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
-        "namedBy": "Ritgen (1826)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
+            "namedBy": "Ritgen (1826)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/megalosaurus.html"
     },
     {
@@ -5087,8 +5435,10 @@
                 "South Africa"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
-        "namedBy": "Haughton (1924)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
+            "namedBy": "Haughton (1924)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/melanorosaurus.html"
     },
     {
@@ -5116,8 +5466,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
-        "namedBy": "Walker (1964)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
+            "namedBy": "Walker (1964)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/metriacanthosaurus.html"
     },
     {
@@ -5145,8 +5497,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-        "namedBy": "Bohlin (1953)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "namedBy": "Bohlin (1953)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/microceratus.html"
     },
     {
@@ -5174,8 +5528,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
-        "namedBy": "Dong (1978)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
+            "namedBy": "Dong (1978)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/micropachycephalosaurus.html"
     },
     {
@@ -5203,8 +5559,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Xu Zhou and Wang (2000)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Xu Zhou and Wang (2000)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/microraptor.html"
     },
     {
@@ -5232,8 +5590,10 @@
                 "Australia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-        "namedBy": "Molnar (1980)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "namedBy": "Molnar (1980)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/minmi.html"
     },
     {
@@ -5261,8 +5621,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
-        "namedBy": "Zhao and Currie (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
+            "namedBy": "Zhao and Currie (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/monolophosaurus.html"
     },
     {
@@ -5289,8 +5651,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
-        "namedBy": "Perle Norell Chiappe and Clark (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
+            "namedBy": "Perle Norell Chiappe and Clark (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html"
     },
     {
@@ -5318,8 +5682,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-        "namedBy": "Bonaparte and Vince (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "namedBy": "Bonaparte and Vince (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mussaurus.html"
     },
     {
@@ -5347,8 +5713,10 @@
                 "Australia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Bartholomai and Molnar (1981)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Bartholomai and Molnar (1981)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html"
     },
     {
@@ -5376,8 +5744,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-        "namedBy": "Dong (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "namedBy": "Dong (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nanshiungosaurus.html"
     },
     {
@@ -5405,8 +5775,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "Lull (1905)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "Lull (1905)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nedoceratops.html"
     },
     {
@@ -5434,8 +5806,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
-        "namedBy": "Nowinski (1971)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
+            "namedBy": "Nowinski (1971)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nemegtosaurus.html"
     },
     {
@@ -5463,8 +5837,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-        "namedBy": "Hutt Martill and Barker (1996)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "namedBy": "Hutt Martill and Barker (1996)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html"
     },
     {
@@ -5492,8 +5868,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
-        "namedBy": "Lydekker (1893)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
+            "namedBy": "Lydekker (1893)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/neuquenosaurus.html"
     },
     {
@@ -5521,8 +5899,10 @@
                 "Tunisia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
-        "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson &amp; Wilson (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
+            "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson &amp; Wilson (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html"
     },
     {
@@ -5547,8 +5927,10 @@
             "period/location",
             "Russia"
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Nagao (1936)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Nagao (1936)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nipponosaurus.html"
     },
     {
@@ -5576,8 +5958,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
-        "namedBy": "Bonaparte and Powell (1980)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
+            "namedBy": "Bonaparte and Powell (1980)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/noasaurus.html"
     },
     {
@@ -5605,8 +5989,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-        "namedBy": "Marsh (1889)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "namedBy": "Marsh (1889)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html"
     },
     {
@@ -5634,8 +6020,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
-        "namedBy": "Barsbold Osmólska Watabe Currie and Tsogtbaatar (2000)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
+            "namedBy": "Barsbold Osmólska Watabe Currie and Tsogtbaatar (2000)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nomingia.html"
     },
     {
@@ -5663,8 +6051,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-        "namedBy": "Kirkland and Wolfe (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "namedBy": "Kirkland and Wolfe (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nothronychus.html"
     },
     {
@@ -5692,8 +6082,10 @@
                 "South Africa"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-        "namedBy": "de Klerk Forster Sampson Chinsamy and Ross (2000)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "namedBy": "de Klerk Forster Sampson Chinsamy and Ross (2000)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nqwebasaurus.html"
     },
     {
@@ -5721,8 +6113,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Young (1939)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Young (1939)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html"
     },
     {
@@ -5750,8 +6144,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
-        "namedBy": "Borsuk-Bialynicka  (1977)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
+            "namedBy": "Borsuk-Bialynicka  (1977)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/opisthocoelicaudia.html"
     },
     {
@@ -5779,8 +6175,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-        "namedBy": "Osbourne (1933)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "namedBy": "Osbourne (1933)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html"
     },
     {
@@ -5808,8 +6206,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-        "namedBy": "Marsh (1890)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "namedBy": "Marsh (1890)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html"
     },
     {
@@ -5837,8 +6237,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Horner and Weishampel (1988)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Horner and Weishampel (1988)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/orodromeus.html"
     },
     {
@@ -5866,8 +6268,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia",
-        "namedBy": "Varricchio Marin and Katsura (2007)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia",
+            "namedBy": "Varricchio Marin and Katsura (2007)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/oryctodromeus.html"
     },
     {
@@ -5895,8 +6299,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Marsh (1877)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Marsh (1877)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/othnielia.html"
     },
     {
@@ -5924,8 +6330,10 @@
                 "Niger"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Taquet (1976)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Taquet (1976)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html"
     },
     {
@@ -5953,8 +6361,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
-        "namedBy": "Osborn (1924)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
+            "namedBy": "Osborn (1924)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/oviraptor.html"
     },
     {
@@ -5982,8 +6392,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-        "namedBy": "Brown and Schlaikjer (1943)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "namedBy": "Brown and Schlaikjer (1943)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
     },
     {
@@ -6011,8 +6423,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-        "namedBy": "Sternberg (1950)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "namedBy": "Sternberg (1950)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html"
     },
     {
@@ -6040,8 +6454,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-        "namedBy": "Lambe (1919)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "namedBy": "Lambe (1919)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/panoplosaurus.html"
     },
     {
@@ -6068,8 +6484,10 @@
                 "Wales"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia",
-        "namedBy": "Galton Yates and Kermack 2007 (2003)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia",
+            "namedBy": "Galton Yates and Kermack 2007 (2003)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pantydraco.html"
     },
     {
@@ -6097,8 +6515,10 @@
                 "Egypt"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-        "namedBy": "Smith Lamanna Lacovara Dodson Smith Poole Giegengack and Attia (2001)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "namedBy": "Smith Lamanna Lacovara Dodson Smith Poole Giegengack and Attia (2001)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/paralititan.html"
     },
     {
@@ -6126,8 +6546,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Parks (1922)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Parks (1922)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
     },
     {
@@ -6155,8 +6577,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Sternberg (1937)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Sternberg (1937)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html"
     },
     {
@@ -6184,8 +6608,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
-        "namedBy": "Bonaparte (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
+            "namedBy": "Bonaparte (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/patagosaurus.html"
     },
     {
@@ -6213,8 +6639,10 @@
                 "Spain"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-        "namedBy": "Pérez-Moreno Sanz Buscalioni Moratalla Ortega and Rasskin-Gutman (1994)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "namedBy": "Pérez-Moreno Sanz Buscalioni Moratalla Ortega and Rasskin-Gutman (1994)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pelicanimimus.html"
     },
     {
@@ -6242,8 +6670,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
-        "namedBy": "Mantell (1850)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
+            "namedBy": "Mantell (1850)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pelorosaurus.html"
     },
     {
@@ -6271,8 +6701,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "Osborn (1923)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "Osborn (1923)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pentaceratops.html"
     },
     {
@@ -6300,8 +6732,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-        "namedBy": "Bonaparte (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "namedBy": "Bonaparte (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/piatnitzkysaurus.html"
     },
     {
@@ -6329,8 +6763,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Gilmore (1933)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Gilmore (1933)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html"
     },
     {
@@ -6368,8 +6804,10 @@
                 "France"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-        "namedBy": "Meyer (1837)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "namedBy": "Meyer (1837)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
     },
     {
@@ -6397,8 +6835,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
-        "namedBy": "Talbot (1911)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
+            "namedBy": "Talbot (1911)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/podokesaurus.html"
     },
     {
@@ -6426,8 +6866,10 @@
                 "France"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
-        "namedBy": "Eudes-Deslongchamps (1838)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
+            "namedBy": "Eudes-Deslongchamps (1838)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/poekilopleuron.html"
     },
     {
@@ -6455,8 +6897,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-        "namedBy": "Hulke (1881)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "namedBy": "Hulke (1881)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html"
     },
     {
@@ -6484,8 +6928,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-        "namedBy": "Maryańska and Osmólska (1974)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "namedBy": "Maryańska and Osmólska (1974)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/prenocephale.html"
     },
     {
@@ -6513,8 +6959,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Rozhdestvensky (1966)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Rozhdestvensky (1966)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/probactrosaurus.html"
     },
     {
@@ -6542,8 +6990,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-        "namedBy": "Woodward (1910)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "namedBy": "Woodward (1910)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/proceratosaurus.html"
     },
     {
@@ -6571,8 +7021,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
-        "namedBy": "Fraas (1913)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
+            "namedBy": "Fraas (1913)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/procompsognathus.html"
     },
     {
@@ -6600,8 +7052,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Brown (1916)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Brown (1916)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/prosaurolophus.html"
     },
     {
@@ -6629,8 +7083,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora",
-        "namedBy": "Ji and Ji (1997)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora",
+            "namedBy": "Ji and Ji (1997)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/protarchaeopteryx.html"
     },
     {
@@ -6658,8 +7114,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-        "namedBy": "Granger and Gregory (1923)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "namedBy": "Granger and Gregory (1923)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html"
     },
     {
@@ -6687,8 +7145,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-        "namedBy": "Head (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "namedBy": "Head (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/protohadros.html"
     },
     {
@@ -6714,8 +7174,10 @@
             "period/location",
             "Russia"
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae",
-        "namedBy": "Osborn (1923)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae",
+            "namedBy": "Osborn (1923)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html"
     },
     {
@@ -6743,8 +7205,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
-        "namedBy": "Kurzanov and Bannikov (1983)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
+            "namedBy": "Kurzanov and Bannikov (1983)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/quaesitosaurus.html"
     },
     {
@@ -6772,8 +7236,10 @@
                 "Morocco"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
-        "namedBy": "Lavocat (1954)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
+            "namedBy": "Lavocat (1954)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rebbachisaurus.html"
     },
     {
@@ -6801,8 +7267,10 @@
                 "Spain"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
-        "namedBy": "Matherton (1869)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
+            "namedBy": "Matherton (1869)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rhabdodon.html"
     },
     {
@@ -6830,8 +7298,10 @@
                 "Australia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-        "namedBy": "Longman (1926)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "namedBy": "Longman (1926)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rhoetosaurus.html"
     },
     {
@@ -6859,8 +7329,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
-        "namedBy": "Barsbold (1986)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
+            "namedBy": "Barsbold (1986)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rinchenia.html"
     },
     {
@@ -6888,8 +7360,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
-        "namedBy": "Bonaparte (1969)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
+            "namedBy": "Bonaparte (1969)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html"
     },
     {
@@ -6917,8 +7391,10 @@
                 "Niger"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
-        "namedBy": "Sereno Wilson and Conrad (2004)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
+            "namedBy": "Sereno Wilson and Conrad (2004)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rugops.html"
     },
     {
@@ -6946,8 +7422,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Maryañska (1977)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Maryañska (1977)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saichania.html"
     },
     {
@@ -6975,8 +7453,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
-        "namedBy": "Bonaparte and Powell (1980)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
+            "namedBy": "Bonaparte and Powell (1980)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html"
     },
     {
@@ -7003,8 +7483,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria",
-        "namedBy": "Huene (1910)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria",
+            "namedBy": "Huene (1910)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saltopus.html"
     },
     {
@@ -7032,8 +7514,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
-        "namedBy": "Andrews (1921)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
+            "namedBy": "Andrews (1921)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sarcosaurus.html"
     },
     {
@@ -7066,8 +7550,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Brown (1912)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Brown (1912)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html"
     },
     {
@@ -7095,8 +7581,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-        "namedBy": "Ostrom (1970)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "namedBy": "Ostrom (1970)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html"
     },
     {
@@ -7124,8 +7612,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
-        "namedBy": "Chure (1996)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
+            "namedBy": "Chure (1996)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurophaganax.html"
     },
     {
@@ -7153,8 +7643,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-        "namedBy": "Osborn (1924)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "namedBy": "Osborn (1924)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurornithoides.html"
     },
     {
@@ -7182,8 +7674,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
-        "namedBy": "Owen (1868)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
+            "namedBy": "Owen (1868)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/scelidosaurus.html"
     },
     {
@@ -7211,8 +7705,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora",
-        "namedBy": "Colbert (1981)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora",
+            "namedBy": "Colbert (1981)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html"
     },
     {
@@ -7240,8 +7736,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-        "namedBy": "Brett-Surman (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "namedBy": "Brett-Surman (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/secernosaurus.html"
     },
     {
@@ -7269,8 +7767,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
-        "namedBy": "Camp (1936)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
+            "namedBy": "Camp (1936)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/segisaurus.html"
     },
     {
@@ -7298,8 +7798,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-        "namedBy": "Perle (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "namedBy": "Perle (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/segnosaurus.html"
     },
     {
@@ -7326,8 +7828,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Tumanova (1983)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Tumanova (1983)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shamosaurus.html"
     },
     {
@@ -7355,8 +7859,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia",
-        "namedBy": "Turner Hwang and Norell (2007)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia",
+            "namedBy": "Turner Hwang and Norell (2007)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shanag.html"
     },
     {
@@ -7384,8 +7890,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-        "namedBy": "Hu (1973)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "namedBy": "Hu (1973)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shantungosaurus.html"
     },
     {
@@ -7413,8 +7921,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Dong Zhou and Zhang (1983)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Dong Zhou and Zhang (1983)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html"
     },
     {
@@ -7442,8 +7952,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
-        "namedBy": "Chiappe Norell and Clark (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
+            "namedBy": "Chiappe Norell and Clark (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shuvuuia.html"
     },
     {
@@ -7471,8 +7983,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-        "namedBy": "Eaton (1960)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "namedBy": "Eaton (1960)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/silvisaurus.html"
     },
     {
@@ -7500,8 +8014,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia",
-        "namedBy": "Ji Ji Lü and Yuan (2007)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia",
+            "namedBy": "Ji Ji Lü and Yuan (2007)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinocalliopteryx.html"
     },
     {
@@ -7529,8 +8045,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Xu Wang and Wu (1999)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Xu Wang and Wu (1999)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinornithosaurus.html"
     },
     {
@@ -7558,8 +8076,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
-        "namedBy": "Ji and Ji (1996)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
+            "namedBy": "Ji and Ji (1996)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
     },
     {
@@ -7587,8 +8107,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-        "namedBy": "Xu Norell Wang Makovicky and Wu (2002)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "namedBy": "Xu Norell Wang Makovicky and Wu (2002)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinovenator.html"
     },
     {
@@ -7616,8 +8138,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
-        "namedBy": "Gao (1992)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
+            "namedBy": "Gao (1992)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinraptor.html"
     },
     {
@@ -7645,8 +8169,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-        "namedBy": "Xu Zhang Tan Zhao and Tan (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "namedBy": "Xu Zhang Tan Zhao and Tan (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sonidosaurus.html"
     },
     {
@@ -7674,8 +8200,10 @@
                 "Morocco"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
-        "namedBy": "Stromer (1915)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
+            "namedBy": "Stromer (1915)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
     },
     {
@@ -7703,8 +8231,10 @@
                 "Brazil"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Herrerasauridae",
-        "namedBy": "Colbert (1970)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Herrerasauridae",
+            "namedBy": "Colbert (1970)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/staurikosaurus.html"
     },
     {
@@ -7732,8 +8262,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-        "namedBy": "Lambe (1902)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "namedBy": "Lambe (1902)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html"
     },
     {
@@ -7761,8 +8293,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-        "namedBy": "Marsh (1877)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "namedBy": "Marsh (1877)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
     },
     {
@@ -7790,8 +8324,10 @@
                 "Germany"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
-        "namedBy": "Meyer (1857)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
+            "namedBy": "Meyer (1857)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stenopelix.html"
     },
     {
@@ -7819,8 +8355,10 @@
                 "Canada"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-        "namedBy": "Osborn (1917)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "namedBy": "Osborn (1917)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html"
     },
     {
@@ -7848,8 +8386,10 @@
                 "Spain"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-        "namedBy": "Bunzel (1871)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "namedBy": "Bunzel (1871)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/struthiosaurus.html"
     },
     {
@@ -7877,8 +8417,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-        "namedBy": "Lambe (1913)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "namedBy": "Lambe (1913)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html"
     },
     {
@@ -7906,8 +8448,10 @@
                 "Niger"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
-        "namedBy": "Sereno Beck Dutheil Gado Larsson Lyon Marcot Rauhut Sadleir Sidor Varricchio Wilson and Wilson (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
+            "namedBy": "Sereno Beck Dutheil Gado Larsson Lyon Marcot Rauhut Sadleir Sidor Varricchio Wilson and Wilson (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html"
     },
     {
@@ -7935,8 +8479,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-        "namedBy": "Jansen (1985)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "namedBy": "Jansen (1985)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/supersaurus.html"
     },
     {
@@ -7964,8 +8510,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Maleev (1952)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Maleev (1952)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/talarurus.html"
     },
     {
@@ -7992,8 +8540,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-        "namedBy": "Wiman (1929)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "namedBy": "Wiman (1929)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tanius.html"
     },
     {
@@ -8021,8 +8571,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
-        "namedBy": "Maleev (1955)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
+            "namedBy": "Maleev (1955)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html"
     },
     {
@@ -8050,8 +8602,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
-        "namedBy": "Maleev (1956)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
+            "namedBy": "Maleev (1956)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html"
     },
     {
@@ -8079,8 +8633,10 @@
                 "Spain"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-        "namedBy": "Nopcsa (1900)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "namedBy": "Nopcsa (1900)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/telmatosaurus.html"
     },
     {
@@ -8108,8 +8664,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia",
-        "namedBy": "Ostrom (1970)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia",
+            "namedBy": "Ostrom (1970)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html"
     },
     {
@@ -8137,8 +8695,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
-        "namedBy": "Morris (1843)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
+            "namedBy": "Morris (1843)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/thecodontosaurus.html"
     },
     {
@@ -8164,8 +8724,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-        "namedBy": "Maleev (1915)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "namedBy": "Maleev (1915)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html"
     },
     {
@@ -8193,8 +8755,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Gilmore (1913)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Gilmore (1913)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html"
     },
     {
@@ -8222,8 +8786,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "Marsh (1891)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "Marsh (1891)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/torosaurus.html"
     },
     {
@@ -8251,8 +8817,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
-        "namedBy": "Galton and Jensen (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
+            "namedBy": "Galton and Jensen (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/torvosaurus.html"
     },
     {
@@ -8280,8 +8848,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-        "namedBy": "Marsh (1889)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "namedBy": "Marsh (1889)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
     },
     {
@@ -8309,8 +8879,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-        "namedBy": "Leidy (1856)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "namedBy": "Leidy (1856)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/troodon.html"
     },
     {
@@ -8337,8 +8909,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-        "namedBy": "Tumanova (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "namedBy": "Tumanova (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tsagantegia.html"
     },
     {
@@ -8366,8 +8940,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-        "namedBy": "Young (1958)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "namedBy": "Young (1958)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html"
     },
     {
@@ -8395,8 +8971,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-        "namedBy": "Dong Li Zhou and Zhang (1973)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "namedBy": "Dong Li Zhou and Zhang (1973)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html"
     },
     {
@@ -8424,8 +9002,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-        "namedBy": "Maryańska and Osmólska (1974)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "namedBy": "Maryańska and Osmólska (1974)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tylocephale.html"
     },
     {
@@ -8453,8 +9033,10 @@
                 "North America"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
-        "namedBy": "Osborn (1905)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
+            "namedBy": "Osborn (1905)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
     },
     {
@@ -8481,8 +9063,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-        "namedBy": "Kurzanov (1992)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "namedBy": "Kurzanov (1992)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/udanoceratops.html"
     },
     {
@@ -8510,8 +9094,10 @@
                 "Argentina"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Novas and Puerta (1997)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Novas and Puerta (1997)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/unenlagia.html"
     },
     {
@@ -8539,8 +9125,10 @@
                 "Uzbekistan"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia",
-        "namedBy": "Averianov and Sues (2007)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia",
+            "namedBy": "Averianov and Sues (2007)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/urbacodon.html"
     },
     {
@@ -8568,8 +9156,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Kirkland Gaston and Burge (1993)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Kirkland Gaston and Burge (1993)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html"
     },
     {
@@ -8597,8 +9187,10 @@
                 "United Kingdom"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
-        "namedBy": "Galton (1975)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
+            "namedBy": "Galton (1975)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/valdosaurus.html"
     },
     {
@@ -8626,8 +9218,10 @@
                 "Mongolia"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-        "namedBy": "Osborn (1924)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "namedBy": "Osborn (1924)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
     },
     {
@@ -8655,8 +9249,10 @@
                 "Zimbabwe"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
-        "namedBy": "Raath (1972)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
+            "namedBy": "Raath (1972)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/vulcanodon.html"
     },
     {
@@ -8684,8 +9280,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "He (1979)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "He (1979)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yandusaurus.html"
     },
     {
@@ -8713,8 +9311,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
-        "namedBy": "Dong Chang Li and Zhou (1978)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
+            "namedBy": "Dong Chang Li and Zhou (1978)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html"
     },
     {
@@ -8742,8 +9342,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
-        "namedBy": "Bai Yang and Wang (1990)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
+            "namedBy": "Bai Yang and Wang (1990)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yimenosaurus.html"
     },
     {
@@ -8770,8 +9372,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
-        "namedBy": "Watanabe (1992)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
+            "namedBy": "Watanabe (1992)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yingshanosaurus.html"
     },
     {
@@ -8799,8 +9403,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
-        "namedBy": "Xu Forster Clark and Mo (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
+            "namedBy": "Xu Forster Clark and Mo (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yinlong.html"
     },
     {
@@ -8828,8 +9434,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-        "namedBy": "Lü Li Ji Wang Zhang and Dong (2006)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "namedBy": "Lü Li Ji Wang Zhang and Dong (2006)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yuanmousaurus.html"
     },
     {
@@ -8857,8 +9465,10 @@
                 "China"
             ]
         ],
-        "taxonomy": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
-        "namedBy": "Young (1942)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
+            "namedBy": "Young (1942)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yunnanosaurus.html"
     },
     {
@@ -8886,8 +9496,10 @@
                 "Romania"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
-        "namedBy": "Nopcsa (1902)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
+            "namedBy": "Nopcsa (1902)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zalmoxes.html"
     },
     {
@@ -8915,8 +9527,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-        "namedBy": "Sues (1980)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "namedBy": "Sues (1980)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zephyrosaurus.html"
     },
     {
@@ -8943,8 +9557,10 @@
                 "USA"
             ]
         ],
-        "taxonomy": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-        "namedBy": "Wolfe and Kirkland (1998)",
+        "taxonomy": {
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "namedBy": "Wolfe and Kirkland (1998)"
+        },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zuniceratops.html"
     }
 ]
