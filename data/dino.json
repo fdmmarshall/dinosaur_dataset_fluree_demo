@@ -61,7 +61,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae",
-            "namedBy": "Bonaparte and Novas (1985)"
+            "namedBy": "Bonaparte and Novas (1985)",
+            "species": [
+                "type/species",
+                "comahuensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html"
     },
@@ -92,7 +96,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-            "namedBy": "Sampson  (1995)"
+            "namedBy": "Sampson  (1995)",
+            "species": [
+                "type/species",
+                "horneri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/achelousaurus.html"
     },
@@ -123,7 +131,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Perle Norell and Clark (1999)"
+            "namedBy": "Perle Norell and Clark (1999)",
+            "species": [
+                "type/species",
+                "gigantues"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/achillobator.html"
     },
@@ -154,7 +166,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-            "namedBy": "Stovall and Langston (1950)"
+            "namedBy": "Stovall and Langston (1950)",
+            "species": [
+                "type/species",
+                "atokensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html"
     },
@@ -185,7 +201,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Stromer (1932)"
+            "namedBy": "Stromer (1932)",
+            "species": [
+                "type/species",
+                "baharijensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aegyptosaurus.html"
     },
@@ -216,7 +236,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-            "namedBy": "Sereno Wilson Larsson Dutheil and Sues (1944)"
+            "namedBy": "Sereno Wilson Larsson Dutheil and Sues (1944)",
+            "species": [
+                "type/species",
+                "abakensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/afrovenator.html"
     },
@@ -247,7 +271,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Peng (1990)"
+            "namedBy": "Peng (1990)",
+            "species": [
+                "type/species",
+                "louderbacki"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/agilisaurus.html"
     },
@@ -278,7 +306,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "Gilmore (1922)"
+            "namedBy": "Gilmore (1922)",
+            "species": [
+                "type/species",
+                "sanjuanensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html"
     },
@@ -309,7 +341,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia",
-            "namedBy": "Ryan 2007"
+            "namedBy": "Ryan 2007",
+            "species": [
+                "type/species",
+                "nesmoi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/albertaceratops.html"
     },
@@ -322,7 +358,7 @@
             "dinosaurType": "large theropod",
             "species": "libratus",
             "length": "9.0m",
-            "dietType": "carnivorous",
+            "dietType": "carnivorous"
         },
         "period": {
             "id": "period",
@@ -340,7 +376,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
-            "namedBy": "Lamb (1914)"
+            "namedBy": "Lamb (1914)",
+            "species": [
+                "type/species",
+                "libratus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html"
     },
@@ -353,7 +393,7 @@
             "dinosaurType": "large theropod",
             "species": "olseni",
             "length": "5.0m",
-            "dietType": "carnivorous",
+            "dietType": "carnivorous"
         },
         "period": {
             "id": "period",
@@ -371,7 +411,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-            "namedBy": "Gilmore (1933)"
+            "namedBy": "Gilmore (1933)",
+            "species": [
+                "type/species",
+                "olseni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alectrosaurus.html"
     },
@@ -382,7 +426,6 @@
         "dinoType": {
             "id": "type",
             "dinosaurType": "large theropod",
-            ,
             "species": "remotus",
             "length": "6.0m",
             "dietType": "carnivorous"
@@ -403,7 +446,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-            "namedBy": "Kurzanov (1976)"
+            "namedBy": "Kurzanov (1976)",
+            "species": [
+                "type/species",
+                "remotus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alioramus.html"
     },
@@ -434,7 +481,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
-            "namedBy": "Marsh (1877)"
+            "namedBy": "Marsh (1877)",
+            "species": [
+                "type/species",
+                "fragilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
     },
@@ -465,7 +516,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
-            "namedBy": "Bonaparte (1991)"
+            "namedBy": "Bonaparte (1991)",
+            "species": [
+                "type/species",
+                "calvoi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/alvarezsaurus.html"
     },
@@ -496,7 +551,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
-            "namedBy": "Salgado and Bonaparte (1991)"
+            "namedBy": "Salgado and Bonaparte (1991)",
+            "species": [
+                "type/species",
+                "cazaui"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/amargasaurus.html"
     },
@@ -527,7 +586,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
-            "namedBy": "Marsh (1891)"
+            "namedBy": "Marsh (1891)",
+            "species": [
+                "type/species",
+                "major"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ammosaurus.html"
     },
@@ -540,7 +603,7 @@
             "dinosaurType": "sauropod",
             "species": "atacis",
             "length": "15.0m",
-            "dietType": "herbivorous",
+            "dietType": "herbivorous"
         },
         "period": {
             "id": "period",
@@ -558,7 +621,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "Le Loeuff (1995)"
+            "namedBy": "Le Loeuff (1995)",
+            "species": [
+                "type/species",
+                "atacis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ampelosaurus.html"
     },
@@ -589,7 +656,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Cabrera (1947)"
+            "namedBy": "Cabrera (1947)",
+            "species": [
+                "type/species",
+                "patagonicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/amygdalodon.html"
     },
@@ -620,7 +691,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "Brown (1914)"
+            "namedBy": "Brown (1914)",
+            "species": [
+                "type/species",
+                "ornatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/anchiceratops.html"
     },
@@ -651,7 +726,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
-            "namedBy": "Marsh (1885)"
+            "namedBy": "Marsh (1885)",
+            "species": [
+                "type/species",
+                "polyzelous"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/anchisaurus.html"
     },
@@ -682,7 +761,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Brown (1908)"
+            "namedBy": "Brown (1908)",
+            "species": [
+                "type/species",
+                "magniventris"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
     },
@@ -713,7 +796,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-            "namedBy": "Barsbold (1988)"
+            "namedBy": "Barsbold (1988)",
+            "species": [
+                "type/species",
+                "planinychus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/anserimimus.html"
     },
@@ -744,7 +831,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "von Huene (1929)"
+            "namedBy": "von Huene (1929)",
+            "species": [
+                "type/species",
+                "wichmannianus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/antarctosaurus.html"
     },
@@ -775,7 +866,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-            "namedBy": "Marsh (1877)"
+            "namedBy": "Marsh (1877)",
+            "species": [
+                "type/species",
+                "ajax"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
     },
@@ -806,7 +901,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Sanz Buscalioni Casanovas and Sanafé (1987)"
+            "namedBy": "Sanz Buscalioni Casanovas and Sanafé (1987)",
+            "species": [
+                "type/species",
+                "ischiadicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aragosaurus.html"
     },
@@ -837,7 +936,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Rozhdestvensky (1968)"
+            "namedBy": "Rozhdestvensky (1968)",
+            "species": [
+                "type/species",
+                "tuberiferus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aralosaurus.html"
     },
@@ -868,7 +971,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-            "namedBy": "Dong and Azuma (1987)"
+            "namedBy": "Dong and Azuma (1987)",
+            "species": [
+                "type/species",
+                "oshimai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/archaeoceratops.html"
     },
@@ -899,7 +1006,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae",
-            "namedBy": "Mayer (1861)"
+            "namedBy": "Mayer (1861)",
+            "species": [
+                "type/species",
+                "lithographica"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
     },
@@ -930,7 +1041,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-            "namedBy": "Russell (1972)"
+            "namedBy": "Russell (1972)",
+            "species": [
+                "type/species",
+                "asiaticus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/archaeornithomimus.html"
     },
@@ -943,7 +1058,7 @@
             "dinosaurType": "sauropod",
             "species": "huinculensis",
             "length": "35.0m",
-            "dietType": "herbivorous",
+            "dietType": "herbivorous"
         },
         "period": {
             "id": "period",
@@ -961,7 +1076,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Bonaparte and Coria (1993)"
+            "namedBy": "Bonaparte and Coria (1993)",
+            "species": [
+                "type/species",
+                "huinculensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html"
     },
@@ -992,7 +1111,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "Parks (1925)"
+            "namedBy": "Parks (1925)",
+            "species": [
+                "type/species",
+                "brachyops"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/arrhinoceratops.html"
     },
@@ -1023,7 +1146,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Rich and Rich (1989)"
+            "namedBy": "Rich and Rich (1989)",
+            "species": [
+                "type/species",
+                "loadsi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/atlascopcosaurus.html"
     },
@@ -1054,7 +1181,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
-            "namedBy": "Coria Chiappe and Dingus (2002)"
+            "namedBy": "Coria Chiappe and Dingus (2002)",
+            "species": [
+                "type/species",
+                "garridoi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/aucasaurus.html"
     },
@@ -1085,7 +1216,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Longman (1933)"
+            "namedBy": "Longman (1933)",
+            "species": [
+                "type/species",
+                "mckillopi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/austrosaurus.html"
     },
@@ -1116,7 +1251,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-            "namedBy": "Dodson (1986)"
+            "namedBy": "Dodson (1986)",
+            "species": [
+                "type/species",
+                "lammersi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html"
     },
@@ -1147,7 +1286,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae",
-            "namedBy": "Kurzanov (1981)"
+            "namedBy": "Kurzanov (1981)",
+            "species": [
+                "type/species",
+                "portentosus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/avimimus.html"
     },
@@ -1178,7 +1321,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-            "namedBy": "Gilmore (1933)"
+            "namedBy": "Gilmore (1933)",
+            "species": [
+                "type/species",
+                "johnsoni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bactrosaurus.html"
     },
@@ -1209,7 +1356,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae",
-            "namedBy": "Maryanska and Osmolska (1975)"
+            "namedBy": "Maryanska and Osmolska (1975)",
+            "species": [
+                "type/species",
+                "rozhdestvenskyi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html"
     },
@@ -1240,7 +1391,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Burnham Derstler Currie Bakker Zhou and Ostrom (2000)"
+            "namedBy": "Burnham Derstler Currie Bakker Zhou and Ostrom (2000)",
+            "species": [
+                "type/species",
+                "feinbergorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html"
     },
@@ -1271,7 +1426,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
-            "namedBy": "Jain Kutty Roy-Chowdhury and Chatterjee (1975)"
+            "namedBy": "Jain Kutty Roy-Chowdhury and Chatterjee (1975)",
+            "species": [
+                "type/species",
+                "tagorei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/barapasaurus.html"
     },
@@ -1302,7 +1461,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-            "namedBy": "Marsh (1890)"
+            "namedBy": "Marsh (1890)",
+            "species": [
+                "type/species",
+                "lentus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/barosaurus.html"
     },
@@ -1333,7 +1496,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
-            "namedBy": "Charig and Milner (1987)"
+            "namedBy": "Charig and Milner (1987)",
+            "species": [
+                "type/species",
+                "walkeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
     },
@@ -1364,7 +1531,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
-            "namedBy": "Paul (1988)"
+            "namedBy": "Paul (1988)",
+            "species": [
+                "type/species",
+                "altispinax"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/becklespinax.html"
     },
@@ -1395,7 +1566,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea",
-            "namedBy": "Xu Tang and Wang (1999)"
+            "namedBy": "Xu Tang and Wang (1999)",
+            "species": [
+                "type/species",
+                "inexpectus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/beipiaosaurus.html"
     },
@@ -1426,7 +1601,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
-            "namedBy": "Dong and Azuma (1990)"
+            "namedBy": "Dong and Azuma (1990)",
+            "species": [
+                "type/species",
+                "sui"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/bellusaurus.html"
     },
@@ -1457,7 +1636,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-            "namedBy": "Osmólska (1987)"
+            "namedBy": "Osmólska (1987)",
+            "species": [
+                "type/species",
+                "gracilicrus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/borogovia.html"
     },
@@ -1488,7 +1671,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
-            "namedBy": "Riggs (1903)"
+            "namedBy": "Riggs (1903)",
+            "species": [
+                "type/species",
+                "altithorax"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
     },
@@ -1519,7 +1706,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "C. M. Sternberg (1953)"
+            "namedBy": "C. M. Sternberg (1953)",
+            "species": [
+                "type/species",
+                "canadensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/brachylophosaurus.html"
     },
@@ -1550,7 +1741,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
-            "namedBy": "Rauhut Remes Fechner Cladera and Puerta (2005)"
+            "namedBy": "Rauhut Remes Fechner Cladera and Puerta (2005)",
+            "species": [
+                "type/species",
+                "mesai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/brachytrachelopan.html"
     },
@@ -1581,7 +1776,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae",
-            "namedBy": "Makovicky Apesteguía &amp; Agnolin (2005)"
+            "namedBy": "Makovicky Apesteguía &amp; Agnolin (2005)",
+            "species": [
+                "type/species",
+                "gonzalezorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/buitreraptor.html"
     },
@@ -1612,7 +1811,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
-            "namedBy": "Cope (1877)"
+            "namedBy": "Cope (1877)",
+            "species": [
+                "type/species",
+                "supremus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html"
     },
@@ -1643,7 +1846,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia",
-            "namedBy": "Marsh (1885)"
+            "namedBy": "Marsh (1885)",
+            "species": [
+                "type/species",
+                "dispars"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html"
     },
@@ -1674,7 +1881,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-            "namedBy": "Stromer (1931)"
+            "namedBy": "Stromer (1931)",
+            "species": [
+                "type/species",
+                "saharicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html"
     },
@@ -1705,7 +1916,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
-            "namedBy": "Bonaparte (1985)"
+            "namedBy": "Bonaparte (1985)",
+            "species": [
+                "type/species",
+                "sastrei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html"
     },
@@ -1736,7 +1951,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae",
-            "namedBy": "Ji Currie Norell and Ji. (1998)"
+            "namedBy": "Ji Currie Norell and Ji. (1998)",
+            "species": [
+                "type/species",
+                "zoui"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html"
     },
@@ -1767,7 +1986,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Carpenter Kirkland Burge and Bird (2001)"
+            "namedBy": "Carpenter Kirkland Burge and Bird (2001)",
+            "species": [
+                "type/species",
+                "bilbeyhallorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cedarpelta.html"
     },
@@ -1828,7 +2051,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
-            "namedBy": "Marsh (1884)"
+            "namedBy": "Marsh (1884)",
+            "species": [
+                "type/species",
+                "nasicornis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
     },
@@ -1859,7 +2086,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea",
-            "namedBy": "von Huene (1927)"
+            "namedBy": "von Huene (1927)",
+            "species": [
+                "type/species",
+                "stewarti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cetiosauriscus.html"
     },
@@ -1890,7 +2121,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
-            "namedBy": "Phillips (1871)"
+            "namedBy": "Phillips (1871)",
+            "species": [
+                "type/species",
+                "oxoniensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html"
     },
@@ -1921,7 +2156,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-            "namedBy": "Zhao Cheng and Xu (1999)"
+            "namedBy": "Zhao Cheng and Xu (1999)",
+            "species": [
+                "type/species",
+                "youngi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chaoyangsaurus.html"
     },
@@ -1932,6 +2171,7 @@
         "dinoType": {
             "id": "type",
             "dinosaurType": "ceratopsian",
+            "species": "belli",
             "length": "5.0m",
             "dietType": "herbivorous"
         },
@@ -1951,7 +2191,10 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "belli"
+            "species": [
+                "type/species",
+                "belli"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html"
     },
@@ -1982,7 +2225,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Herrerasauridae",
-            "namedBy": "Long and Murry (1995)"
+            "namedBy": "Long and Murry (1995)",
+            "species": [
+                "type/species",
+                "bryansmalli"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chindesaurus.html"
     },
@@ -2013,7 +2260,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-            "namedBy": "Yeh (1975)"
+            "namedBy": "Yeh (1975)",
+            "species": [
+                "type/species",
+                "zhongheensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chinshakiangosaurus.html"
     },
@@ -2044,7 +2295,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
-            "namedBy": "Gilmore (1924)"
+            "namedBy": "Gilmore (1924)",
+            "species": [
+                "type/species",
+                "pergracilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chirostenotes.html"
     },
@@ -2075,7 +2330,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Corro (1974)"
+            "namedBy": "Corro (1974)",
+            "species": [
+                "type/species",
+                "insignis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chubutisaurus.html"
     },
@@ -2106,7 +2365,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-            "namedBy": "Dong Zhou and Zhang (1983)"
+            "namedBy": "Dong Zhou and Zhang (1983)",
+            "species": [
+                "type/species",
+                "jiangbeiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chungkingosaurus.html"
     },
@@ -2137,7 +2400,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
-            "namedBy": "Clark Norell and Barsbold (2001)"
+            "namedBy": "Clark Norell and Barsbold (2001)",
+            "species": [
+                "type/species",
+                "osmolskae"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/citipati.html"
     },
@@ -2148,6 +2415,7 @@
         "dinoType": {
             "id": "type",
             "dinosaurType": "small theropod",
+            "species": "bauri",
             "length": "2.0m",
             "dietType": "carnivorous"
         },
@@ -2167,7 +2435,10 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
-            "namedBy": "bauri"
+            "species": [
+                "type/species",
+                "bauri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
     },
@@ -2198,7 +2469,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-            "namedBy": "Marsh (1879)"
+            "namedBy": "Marsh (1879)",
+            "species": [
+                "type/species",
+                "fragilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coelurus.html"
     },
@@ -2229,7 +2504,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-            "namedBy": "Bonaparte (1978)"
+            "namedBy": "Bonaparte (1978)",
+            "species": [
+                "type/species",
+                "brevis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coloradisaurus.html"
     },
@@ -2260,7 +2539,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
-            "namedBy": "Wagner (1859)"
+            "namedBy": "Wagner (1859)",
+            "species": [
+                "type/species",
+                "longipes"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html"
     },
@@ -2291,7 +2574,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
-            "namedBy": "Barsbold (1986)"
+            "namedBy": "Barsbold (1986)",
+            "species": [
+                "type/species",
+                "gracilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/conchoraptor.html"
     },
@@ -2322,7 +2609,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae",
-            "namedBy": "Hou Zhou Gu and Zhang (1995)"
+            "namedBy": "Hou Zhou Gu and Zhang (1995)",
+            "species": [
+                "type/species",
+                "sanctus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/confuciusornis.html"
     },
@@ -2353,7 +2644,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Brown (1914)"
+            "namedBy": "Brown (1914)",
+            "species": [
+                "type/species",
+                "casuarius"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html"
     },
@@ -2384,7 +2679,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
-            "namedBy": "Hammer and Hickerson (1994)"
+            "namedBy": "Hammer and Hickerson (1994)",
+            "species": [
+                "type/species",
+                "elliotti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html"
     },
@@ -2415,7 +2714,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae",
-            "namedBy": "Lucas (1902)"
+            "namedBy": "Lucas (1902)",
+            "species": [
+                "type/species",
+                "armatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html"
     },
@@ -2446,7 +2749,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
-            "namedBy": "Russell (1970)"
+            "namedBy": "Russell (1970)",
+            "species": [
+                "type/species",
+                "torosus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html"
     },
@@ -2477,7 +2784,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-            "namedBy": "Dong and Tang (1984)"
+            "namedBy": "Dong and Tang (1984)",
+            "species": [
+                "type/species",
+                "bashanensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/datousaurus.html"
     },
@@ -2508,7 +2819,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-            "namedBy": "Osmólska and Roniewicz (1970)"
+            "namedBy": "Osmólska and Roniewicz (1970)",
+            "species": [
+                "type/species",
+                "mirificus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/deinocheirus.html"
     },
@@ -2539,7 +2854,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Ostrom (1969)"
+            "namedBy": "Ostrom (1969)",
+            "species": [
+                "type/species",
+                "antirrhopus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html"
     },
@@ -2570,7 +2889,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-            "namedBy": "Sereno Duthiel Iarochene Larsson Lyon Magwene Sidor Varricchio and Wilson (1996)"
+            "namedBy": "Sereno Duthiel Iarochene Larsson Lyon Magwene Sidor Varricchio and Wilson (1996)",
+            "species": [
+                "type/species",
+                "agilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/deltadromeus.html"
     },
@@ -2601,7 +2924,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
-            "namedBy": "Janensch (1914)"
+            "namedBy": "Janensch (1914)",
+            "species": [
+                "type/species",
+                "hansemanni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html"
     },
@@ -2612,6 +2939,7 @@
         "dinoType": {
             "id": "type",
             "dinosaurType": "large theropod",
+            "species": "wetherilli",
             "length": "6.0m",
             "dietType": "carnivorous"
         },
@@ -2631,7 +2959,10 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae",
-            "namedBy": "wetherilli"
+            "species": [
+                "type/species",
+                "wetherilli"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
     },
@@ -2662,7 +2993,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-            "namedBy": "Marsh (1878)"
+            "namedBy": "Marsh (1878)",
+            "species": [
+                "type/species",
+                "longus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
     },
@@ -2693,7 +3028,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Matthew and Brown (1922)"
+            "namedBy": "Matthew and Brown (1922)",
+            "species": [
+                "type/species",
+                "albertensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dromaeosaurus.html"
     },
@@ -2724,7 +3063,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-            "namedBy": "Parks (1926)"
+            "namedBy": "Parks (1926)",
+            "species": [
+                "type/species",
+                "brevitertius"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dromiceiomimus.html"
     },
@@ -2755,7 +3098,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
-            "namedBy": "Marsh (1894)"
+            "namedBy": "Marsh (1894)",
+            "species": [
+                "type/species",
+                "altus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dryosaurus.html"
     },
@@ -2786,7 +3133,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-            "namedBy": "Cope (1866)"
+            "namedBy": "Cope (1866)",
+            "species": [
+                "type/species",
+                "aquilunguis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dryptosaurus.html"
     },
@@ -2816,7 +3167,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-            "namedBy": "Allain (2005)"
+            "namedBy": "Allain (2005)",
+            "species": [
+                "type/species",
+                "valesdunensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dubreuillosaurus.html"
     },
@@ -2847,7 +3202,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-            "namedBy": "Sternberg (1928)"
+            "namedBy": "Sternberg (1928)",
+            "species": [
+                "type/species",
+                "longiceps"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html"
     },
@@ -2878,7 +3237,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Lambe (1917)"
+            "namedBy": "Lambe (1917)",
+            "species": [
+                "type/species",
+                "regalis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html"
     },
@@ -2909,7 +3272,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-            "namedBy": "Sampson  (1995)"
+            "namedBy": "Sampson  (1995)",
+            "species": [
+                "type/species",
+                "procurvicornis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/einiosaurus.html"
     },
@@ -2940,7 +3307,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
-            "namedBy": "Janensch (1920)"
+            "namedBy": "Janensch (1920)",
+            "species": [
+                "type/species",
+                "bambergi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/elaphrosaurus.html"
     },
@@ -2971,7 +3342,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora",
-            "namedBy": "Haubold (1991)"
+            "namedBy": "Haubold (1991)",
+            "species": [
+                "type/species",
+                "ernsti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/emausaurus.html"
     },
@@ -3001,7 +3376,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Kirkland (1998)"
+            "namedBy": "Kirkland (1998)",
+            "species": [
+                "type/species",
+                "caroljonesa"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eolambia.html"
     },
@@ -3032,7 +3411,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda",
-            "namedBy": "Sereno Forster Rogers and Monetta (1993)"
+            "namedBy": "Sereno Forster Rogers and Monetta (1993)",
+            "species": [
+                "type/species",
+                "lunensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html"
     },
@@ -3062,7 +3445,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-            "namedBy": "Hutt Naish Martill Barker and Newberry (2001)"
+            "namedBy": "Hutt Naish Martill Barker and Newberry (2001)",
+            "species": [
+                "type/species",
+                "lengi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eotyrannus.html"
     },
@@ -3092,7 +3479,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "You Luo Shubin Witmer Tang and Tang (2003)"
+            "namedBy": "You Luo Shubin Witmer Tang and Tang (2003)",
+            "species": [
+                "type/species",
+                "normani"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/equijubus.html"
     },
@@ -3122,7 +3513,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Ksepka and Norell (2006)"
+            "namedBy": "Ksepka and Norell (2006)",
+            "species": [
+                "type/species",
+                "ellisoni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/erketu.html"
     },
@@ -3153,7 +3548,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-            "namedBy": "Perle vide Barsbold and Perle (1980)"
+            "namedBy": "Perle vide Barsbold and Perle (1980)",
+            "species": [
+                "type/species",
+                "andrewsi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/erlikosaurus.html"
     },
@@ -3184,7 +3583,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Wiman (1929)"
+            "namedBy": "Wiman (1929)",
+            "species": [
+                "type/species",
+                "zdanskyi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/euhelopus.html"
     },
@@ -3214,7 +3617,11 @@
             ]
         ],
         "taxonomy": {
-            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae"
+            "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "species": [
+                "type/species",
+                "tutus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/euoplocephalus.html"
     },
@@ -3245,7 +3652,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
-            "namedBy": "Sander Mateus Laven and Knötschke (2006)"
+            "namedBy": "Sander Mateus Laven and Knötschke (2006)",
+            "species": [
+                "type/species",
+                "holgeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/europasaurus.html"
     },
@@ -3276,7 +3687,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-            "namedBy": "Walker (1964)"
+            "namedBy": "Walker (1964)",
+            "species": [
+                "type/species",
+                "oxoniensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/eustreptospondylus.html"
     },
@@ -3306,7 +3721,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
-            "namedBy": "Azuma and Currie (2000)"
+            "namedBy": "Azuma and Currie (2000)",
+            "species": [
+                "type/species",
+                "kitadaniensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/fukuiraptor.html"
     },
@@ -3335,7 +3754,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Kobayashi and Azuma (2003)"
+            "namedBy": "Kobayashi and Azuma (2003)",
+            "species": [
+                "type/species",
+                "tetoriensius"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/fukuisaurus.html"
     },
@@ -3366,7 +3789,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-            "namedBy": "Osmólska Roniewicz and Barsbold (1972)"
+            "namedBy": "Osmólska Roniewicz and Barsbold (1972)",
+            "species": [
+                "type/species",
+                "bullatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gallimimus.html"
     },
@@ -3397,7 +3824,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-            "namedBy": "Carpenter Miles and Cloward (1998)"
+            "namedBy": "Carpenter Miles and Cloward (1998)",
+            "species": [
+                "type/species",
+                "parkpinorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gargoyleosaurus.html"
     },
@@ -3428,7 +3859,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-            "namedBy": "Barsbold (1981)"
+            "namedBy": "Barsbold (1981)",
+            "species": [
+                "type/species",
+                "brevipes"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/garudimimus.html"
     },
@@ -3459,7 +3894,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
-            "namedBy": "Dong and Tang (1985)"
+            "namedBy": "Dong and Tang (1985)",
+            "species": [
+                "type/species",
+                "constructus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gasosaurus.html"
     },
@@ -3490,7 +3929,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Coria and Salgado (1996)"
+            "namedBy": "Coria and Salgado (1996)",
+            "species": [
+                "type/species",
+                "cincosaltensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gasparinisaura.html"
     },
@@ -3505,7 +3948,6 @@
             "length": "4.6m",
             "dietType": "herbivorous"
         },
-        ,
         "period": {
             "id": "period",
             "periodName": "Early Cretaceous",
@@ -3522,7 +3964,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-            "namedBy": "Kirkland (1998)"
+            "namedBy": "Kirkland (1998)",
+            "species": [
+                "type/species",
+                "burgei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html"
     },
@@ -3553,7 +3999,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-            "namedBy": "Coria and Salgado (1995)"
+            "namedBy": "Coria and Salgado (1995)",
+            "species": [
+                "type/species",
+                "carolinii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html"
     },
@@ -3584,7 +4034,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-            "namedBy": "Brett-Surman (1979)"
+            "namedBy": "Brett-Surman (1979)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gilmoreosaurus.html"
     },
@@ -3615,7 +4069,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
-            "namedBy": "Janensch (1914)"
+            "namedBy": "Janensch (1914)",
+            "species": [
+                "type/species",
+                "brancai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html"
     },
@@ -3646,7 +4104,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Vickaryous Russell Currie and Zhao (2001)"
+            "namedBy": "Vickaryous Russell Currie and Zhao (2001)",
+            "species": [
+                "type/species",
+                "domoculus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gobisaurus.html"
     },
@@ -3677,7 +4139,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
-            "namedBy": "Lamb (1914)"
+            "namedBy": "Lamb (1914)",
+            "species": [
+                "type/species",
+                "libratus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html"
     },
@@ -3708,7 +4174,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala",
-            "namedBy": "Perle Maryańska and Osmólska (1982)"
+            "namedBy": "Perle Maryańska and Osmólska (1982)",
+            "species": [
+                "type/species",
+                "lattimorei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/goyocephale.html"
     },
@@ -3738,7 +4208,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-            "namedBy": "Sereno (2000)"
+            "namedBy": "Sereno (2000)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/graciliceratops.html"
     },
@@ -3769,7 +4243,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Lambe (1914)"
+            "namedBy": "Lambe (1914)",
+            "species": [
+                "type/species",
+                "notabilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/gryposaurus.html"
     },
@@ -3800,7 +4278,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda",
-            "namedBy": "Bonaparte Ferigolo and Ribeiro (1999)"
+            "namedBy": "Bonaparte Ferigolo and Ribeiro (1999)",
+            "species": [
+                "type/species",
+                "candelariensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/guaibasaurus.html"
     },
@@ -3831,7 +4313,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
-            "namedBy": "Xu Clark Forster Norell Erickson Eberth Jia and Zhao (2006)"
+            "namedBy": "Xu Clark Forster Norell Erickson Eberth Jia and Zhao (2006)",
+            "species": [
+                "type/species",
+                "wucaii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html"
     },
@@ -3862,7 +4348,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Leidy (1858)"
+            "namedBy": "Leidy (1858)",
+            "species": [
+                "type/species",
+                "foulkii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hadrosaurus.html"
     },
@@ -3891,7 +4381,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria",
-            "namedBy": "Zanno and Sampson (2005)"
+            "namedBy": "Zanno and Sampson (2005)",
+            "species": [
+                "type/species",
+                "giganteus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hagryphus.html"
     },
@@ -3906,7 +4400,6 @@
             "length": "21.5m",
             "dietType": "herbivorous"
         },
-        ,
         "period": {
             "id": "period",
             "periodName": "Late Jurassic",
@@ -3923,7 +4416,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
-            "namedBy": "Hatcher (1903)"
+            "namedBy": "Hatcher (1903)",
+            "species": [
+                "type/species",
+                "priscus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/haplocanthosaurus.html"
     },
@@ -3954,7 +4451,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-            "namedBy": "Barsbold and Perle (1984)"
+            "namedBy": "Barsbold and Perle (1984)",
+            "species": [
+                "type/species",
+                "okladnikovi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/harpymimus.html"
     },
@@ -3985,7 +4486,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Herrerasauridae",
-            "namedBy": "Reig (1963)"
+            "namedBy": "Reig (1963)",
+            "species": [
+                "type/species",
+                "ischigualastensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html"
     },
@@ -4016,7 +4521,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-            "namedBy": "Carpenter Miles and Cloward (2001)"
+            "namedBy": "Carpenter Miles and Cloward (2001)",
+            "species": [
+                "type/species",
+                "mjosi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hesperosaurus.html"
     },
@@ -4047,7 +4556,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
-            "namedBy": "Crompton and Charig (1962)"
+            "namedBy": "Crompton and Charig (1962)",
+            "species": [
+                "type/species",
+                "tucki"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/heterodontosaurus.html"
     },
@@ -4078,7 +4591,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
-            "namedBy": "Barsbold (1981)"
+            "namedBy": "Barsbold (1981)",
+            "species": [
+                "type/species",
+                "yanshini"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/heyuannia.html"
     },
@@ -4109,7 +4626,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea",
-            "namedBy": "Maryańska and Osmólska (1974)"
+            "namedBy": "Maryańska and Osmólska (1974)",
+            "species": [
+                "type/species",
+                "calathocercos"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/homalocephale.html"
     },
@@ -4140,7 +4661,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae",
-            "namedBy": "Dong Tang and Zhou (1982)"
+            "namedBy": "Dong Tang and Zhou (1982)",
+            "species": [
+                "type/species",
+                "taibaii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html"
     },
@@ -4171,7 +4696,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-            "namedBy": "Mantell (1833)"
+            "namedBy": "Mantell (1833)",
+            "species": [
+                "type/species",
+                "armatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html"
     },
@@ -4202,7 +4731,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Brown (1913)"
+            "namedBy": "Brown (1913)",
+            "species": [
+                "type/species",
+                "altispinus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html"
     },
@@ -4233,7 +4766,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae",
-            "namedBy": "Huxley (1869)"
+            "namedBy": "Huxley (1869)",
+            "species": [
+                "type/species",
+                "foxii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html"
     },
@@ -4264,7 +4801,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Boulenger and van Beneden (1881)"
+            "namedBy": "Boulenger and van Beneden (1881)",
+            "species": [
+                "type/species",
+                "bernissartensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
     },
@@ -4295,7 +4836,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
-            "namedBy": "Huene and Matley (1933)"
+            "namedBy": "Huene and Matley (1933)",
+            "species": [
+                "type/species",
+                "raptorius"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/indosuchus.html"
     },
@@ -4326,7 +4871,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
-            "namedBy": "Martill Cruickshank Frey Small and Clarke (1996)"
+            "namedBy": "Martill Cruickshank Frey Small and Clarke (1996)",
+            "species": [
+                "type/species",
+                "challengeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/irritator.html"
     },
@@ -4356,7 +4905,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "Jain and Bandyopadhyay (1997)"
+            "namedBy": "Jain and Bandyopadhyay (1997)",
+            "species": [
+                "type/species",
+                "colberti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/isisaurus.html"
     },
@@ -4387,7 +4940,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Wild (1991)"
+            "namedBy": "Wild (1991)",
+            "species": [
+                "type/species",
+                "robusta"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/janenschia.html"
     },
@@ -4418,7 +4975,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Riabinin (1939)"
+            "namedBy": "Riabinin (1939)",
+            "species": [
+                "type/species",
+                "aralensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jaxartosaurus.html"
     },
@@ -4449,7 +5010,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
-            "namedBy": "Zhang and Yang (1995)"
+            "namedBy": "Zhang and Yang (1995)",
+            "species": [
+                "type/species",
+                "xinwaensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jingshanosaurus.html"
     },
@@ -4479,7 +5044,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Wang and Xu (2001)"
+            "namedBy": "Wang and Xu (2001)",
+            "species": [
+                "type/species",
+                "yangi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jinzhousaurus.html"
     },
@@ -4510,7 +5079,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
-            "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)"
+            "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)",
+            "species": [
+                "type/species",
+                "tiguidensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/jobaria.html"
     },
@@ -4541,7 +5114,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
-            "namedBy": "Göhlich &amp; Chiappe (2006)"
+            "namedBy": "Göhlich &amp; Chiappe (2006)",
+            "species": [
+                "type/species",
+                "starki"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/juravenator.html"
     },
@@ -4572,7 +5149,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-            "namedBy": "Hennig (1915)"
+            "namedBy": "Hennig (1915)",
+            "species": [
+                "type/species",
+                "aethiopicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
     },
@@ -4603,7 +5184,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
-            "namedBy": "Clark Norell and Barsbold (2001)"
+            "namedBy": "Clark Norell and Barsbold (2001)",
+            "species": [
+                "type/species",
+                "mckennai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/khaan.html"
     },
@@ -4634,7 +5219,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-            "namedBy": "Yadagiri (1988)"
+            "namedBy": "Yadagiri (1988)",
+            "species": [
+                "type/species",
+                "yamanpalliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/kotasaurus.html"
     },
@@ -4665,7 +5254,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Brown (1910)"
+            "namedBy": "Brown (1910)",
+            "species": [
+                "type/species",
+                "navajovius"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/kritosaurus.html"
     },
@@ -4696,7 +5289,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Parks (1923)"
+            "namedBy": "Parks (1923)",
+            "species": [
+                "type/species",
+                "lambei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html"
     },
@@ -4726,7 +5323,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
-            "namedBy": "Bonaparte (1986)"
+            "namedBy": "Bonaparte (1986)",
+            "species": [
+                "type/species",
+                "madagascariensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lapparentosaurus.html"
     },
@@ -4757,7 +5358,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Rich and Rich (1989)"
+            "namedBy": "Rich and Rich (1989)",
+            "species": [
+                "type/species",
+                "amicagraphica"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/leaellynasaura.html"
     },
@@ -4788,7 +5393,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-            "namedBy": "Brown (1914)"
+            "namedBy": "Brown (1914)",
+            "species": [
+                "type/species",
+                "gracilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/leptoceratops.html"
     },
@@ -4818,7 +5427,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia",
-            "namedBy": "Galton (1978)"
+            "namedBy": "Galton (1978)",
+            "species": [
+                "type/species",
+                "diagnosticus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lesothosaurus.html"
     },
@@ -4848,7 +5461,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-            "namedBy": "Xu Makovicky Wang Norell and You (2002)"
+            "namedBy": "Xu Makovicky Wang Norell and You (2002)",
+            "species": [
+                "type/species",
+                "yanzigouensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/liaoceratops.html"
     },
@@ -4879,7 +5496,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Bonaparte González Riga and Apesteguía (2006)"
+            "namedBy": "Bonaparte González Riga and Apesteguía (2006)",
+            "species": [
+                "type/species",
+                "leanzai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ligabuesaurus.html"
     },
@@ -4910,7 +5531,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda",
-            "namedBy": "Huene (1934)"
+            "namedBy": "Huene (1934)",
+            "species": [
+                "type/species",
+                "liliensterni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/liliensternus.html"
     },
@@ -4941,7 +5566,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Xu Makovicky Wang Norell and You (1960)"
+            "namedBy": "Xu Makovicky Wang Norell and You (1960)",
+            "species": [
+                "type/species",
+                "atopus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lophorhothon.html"
     },
@@ -4972,7 +5601,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia",
-            "namedBy": "Ezcurra and Cuny 2007 (1993)"
+            "namedBy": "Ezcurra and Cuny 2007 (1993)",
+            "species": [
+                "type/species",
+                "airelensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lophostropheus.html"
     },
@@ -5003,7 +5636,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-            "namedBy": "Young (1941)"
+            "namedBy": "Young (1941)",
+            "species": [
+                "type/species",
+                "huenei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lufengosaurus.html"
     },
@@ -5034,7 +5671,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Taquet &amp; Russell (1999)"
+            "namedBy": "Taquet and Russell (1999)",
+            "species": [
+                "type/species",
+                "arenatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lurdusaurus.html"
     },
@@ -5065,7 +5706,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
-            "namedBy": "Haughton (1924)"
+            "namedBy": "Haughton (1924)",
+            "species": [
+                "type/species",
+                "angustidens"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/lycorhinus.html"
     },
@@ -5096,7 +5741,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "Nopcsa (1915)"
+            "namedBy": "Nopcsa (1915)",
+            "species": [
+                "type/species",
+                "dacus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/magyarosaurus.html"
     },
@@ -5127,7 +5776,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Horner and Makela (1979)"
+            "namedBy": "Horner and Makela (1979)",
+            "species": [
+                "type/species",
+                "peeblesorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
     },
@@ -5158,7 +5811,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
-            "namedBy": "Sues &amp; Taquet (1979)"
+            "namedBy": "Sues &amp; Taquet (1979)",
+            "species": [
+                "type/species",
+                "atopus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html"
     },
@@ -5189,7 +5846,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "Haughton (1928)"
+            "namedBy": "Haughton (1928)",
+            "species": [
+                "type/species",
+                "dixeyi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/malawisaurus.html"
     },
@@ -5220,7 +5881,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Young (1954)"
+            "namedBy": "Young (1954)",
+            "species": [
+                "type/species",
+                "constructus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html"
     },
@@ -5251,7 +5916,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae",
-            "namedBy": "Coria and Currie (2006)"
+            "namedBy": "Coria and Currie (2006)",
+            "species": [
+                "type/species",
+                "roseae"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html"
     },
@@ -5282,7 +5951,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
-            "namedBy": "Madsen (1976)"
+            "namedBy": "Madsen (1976)",
+            "species": [
+                "type/species",
+                "bicentesimus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/marshosaurus.html"
     },
@@ -5313,7 +5986,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
-            "namedBy": "Sampson Carrano &amp; Forster (2001)"
+            "namedBy": "Sampson Carrano &amp; Forster (2001)",
+            "species": [
+                "type/species",
+                "knopfleri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/masiakasaurus.html"
     },
@@ -5344,7 +6021,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-            "namedBy": "Owen (1854)"
+            "namedBy": "Owen (1854)",
+            "species": [
+                "type/species",
+                "carinatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html"
     },
@@ -5375,7 +6056,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae Saltasaurinae",
-            "namedBy": "Kellner et al. (2006)"
+            "namedBy": "Kellner et al. (2006)",
+            "species": [
+                "type/species",
+                "topai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/maxakalisaurus.html"
     },
@@ -5406,7 +6091,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
-            "namedBy": "Ritgen (1826)"
+            "namedBy": "Ritgen (1826)",
+            "species": [
+                "type/species",
+                "bucklandii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/megalosaurus.html"
     },
@@ -5437,7 +6126,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
-            "namedBy": "Haughton (1924)"
+            "namedBy": "Haughton (1924)",
+            "species": [
+                "type/species",
+                "readi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/melanorosaurus.html"
     },
@@ -5468,7 +6161,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
-            "namedBy": "Walker (1964)"
+            "namedBy": "Walker (1964)",
+            "species": [
+                "type/species",
+                "parkeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/metriacanthosaurus.html"
     },
@@ -5499,7 +6196,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-            "namedBy": "Bohlin (1953)"
+            "namedBy": "Bohlin (1953)",
+            "species": [
+                "type/species",
+                "gobiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/microceratus.html"
     },
@@ -5530,7 +6231,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
-            "namedBy": "Dong (1978)"
+            "namedBy": "Dong (1978)",
+            "species": [
+                "type/species",
+                "hongtuyanensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/micropachycephalosaurus.html"
     },
@@ -5561,7 +6266,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Xu Zhou and Wang (2000)"
+            "namedBy": "Xu Zhou and Wang (2000)",
+            "species": [
+                "type/species",
+                "zhaoianus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/microraptor.html"
     },
@@ -5592,7 +6301,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-            "namedBy": "Molnar (1980)"
+            "namedBy": "Molnar (1980)",
+            "species": [
+                "type/species",
+                "paravertebra"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/minmi.html"
     },
@@ -5623,7 +6336,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
-            "namedBy": "Zhao and Currie (1993)"
+            "namedBy": "Zhao and Currie (1993)",
+            "species": [
+                "type/species",
+                "jiangi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/monolophosaurus.html"
     },
@@ -5653,7 +6370,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
-            "namedBy": "Perle Norell Chiappe and Clark (1993)"
+            "namedBy": "Perle Norell Chiappe and Clark (1993)",
+            "species": [
+                "type/species",
+                "olecranus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html"
     },
@@ -5684,7 +6405,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-            "namedBy": "Bonaparte and Vince (1979)"
+            "namedBy": "Bonaparte and Vince (1979)",
+            "species": [
+                "type/species",
+                "patagonicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/mussaurus.html"
     },
@@ -5715,7 +6440,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Bartholomai and Molnar (1981)"
+            "namedBy": "Bartholomai and Molnar (1981)",
+            "species": [
+                "type/species",
+                "langdoni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html"
     },
@@ -5746,7 +6475,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-            "namedBy": "Dong (1979)"
+            "namedBy": "Dong (1979)",
+            "species": [
+                "type/species",
+                "brevispinus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nanshiungosaurus.html"
     },
@@ -5777,7 +6510,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "Lull (1905)"
+            "namedBy": "Lull (1905)",
+            "species": [
+                "type/species",
+                "hatcheri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nedoceratops.html"
     },
@@ -5808,7 +6545,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
-            "namedBy": "Nowinski (1971)"
+            "namedBy": "Nowinski (1971)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nemegtosaurus.html"
     },
@@ -5839,7 +6580,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
-            "namedBy": "Hutt Martill and Barker (1996)"
+            "namedBy": "Hutt Martill and Barker (1996)",
+            "species": [
+                "type/species",
+                "salerii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html"
     },
@@ -5870,7 +6615,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
-            "namedBy": "Lydekker (1893)"
+            "namedBy": "Lydekker (1893)",
+            "species": [
+                "type/species",
+                "australis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/neuquenosaurus.html"
     },
@@ -5901,7 +6650,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
-            "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson &amp; Wilson (1999)"
+            "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)",
+            "species": [
+                "type/species",
+                "taqueti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html"
     },
@@ -5929,7 +6682,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Nagao (1936)"
+            "namedBy": "Nagao (1936)",
+            "species": [
+                "type/species",
+                "sachalinensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nipponosaurus.html"
     },
@@ -5960,7 +6717,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
-            "namedBy": "Bonaparte and Powell (1980)"
+            "namedBy": "Bonaparte and Powell (1980)",
+            "species": [
+                "type/species",
+                "leali"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/noasaurus.html"
     },
@@ -5991,7 +6752,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-            "namedBy": "Marsh (1889)"
+            "namedBy": "Marsh (1889)",
+            "species": [
+                "type/species",
+                "textilis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html"
     },
@@ -6022,7 +6787,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
-            "namedBy": "Barsbold Osmólska Watabe Currie and Tsogtbaatar (2000)"
+            "namedBy": "Barsbold Osmólska Watabe Currie and Tsogtbaatar (2000)",
+            "species": [
+                "type/species",
+                "gobiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nomingia.html"
     },
@@ -6053,7 +6822,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-            "namedBy": "Kirkland and Wolfe (2001)"
+            "namedBy": "Kirkland and Wolfe (2001)",
+            "species": [
+                "type/species",
+                "mckinleyi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nothronychus.html"
     },
@@ -6084,7 +6857,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-            "namedBy": "de Klerk Forster Sampson Chinsamy and Ross (2000)"
+            "namedBy": "de Klerk Forster Sampson Chinsamy and Ross (2000)",
+            "species": [
+                "type/species",
+                "thwazi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/nqwebasaurus.html"
     },
@@ -6115,7 +6892,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Young (1939)"
+            "namedBy": "Young (1939)",
+            "species": [
+                "type/species",
+                "junghsiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html"
     },
@@ -6126,7 +6907,7 @@
         "dinoType": {
             "id": "type",
             "dinosaurType": "sauropod",
-            "species": "skarzynskii ",
+            "species": "skarzynskii",
             "length": "12.0m",
             "dietType": "herbivorous"
         },
@@ -6146,7 +6927,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
-            "namedBy": "Borsuk-Bialynicka  (1977)"
+            "namedBy": "Borsuk-Bialynicka  (1977)",
+            "species": [
+                "type/species",
+                "skarzynskii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/opisthocoelicaudia.html"
     },
@@ -6177,7 +6962,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-            "namedBy": "Osbourne (1933)"
+            "namedBy": "Osbourne (1933)",
+            "species": [
+                "type/species",
+                "hermanni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html"
     },
@@ -6208,7 +6997,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-            "namedBy": "Marsh (1890)"
+            "namedBy": "Marsh (1890)",
+            "species": [
+                "type/species",
+                "velox"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html"
     },
@@ -6239,7 +7032,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Horner and Weishampel (1988)"
+            "namedBy": "Horner and Weishampel (1988)",
+            "species": [
+                "type/species",
+                "makelai"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/orodromeus.html"
     },
@@ -6270,7 +7067,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia",
-            "namedBy": "Varricchio Marin and Katsura (2007)"
+            "namedBy": "Varricchio Marin and Katsura (2007)",
+            "species": [
+                "type/species",
+                "cubicularis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/oryctodromeus.html"
     },
@@ -6301,7 +7102,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Marsh (1877)"
+            "namedBy": "Marsh (1877)",
+            "species": [
+                "type/species",
+                "rex"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/othnielia.html"
     },
@@ -6332,7 +7137,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Taquet (1976)"
+            "namedBy": "Taquet (1976)",
+            "species": [
+                "type/species",
+                "nigeriensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html"
     },
@@ -6363,7 +7172,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
-            "namedBy": "Osborn (1924)"
+            "namedBy": "Osborn (1924)",
+            "species": [
+                "type/species",
+                "philoceratops"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/oviraptor.html"
     },
@@ -6394,7 +7207,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-            "namedBy": "Brown and Schlaikjer (1943)"
+            "namedBy": "Brown and Schlaikjer (1943)",
+            "species": [
+                "type/species",
+                "wyomingensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
     },
@@ -6425,7 +7242,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-            "namedBy": "Sternberg (1950)"
+            "namedBy": "Sternberg (1950)",
+            "species": [
+                "type/species",
+                "canadensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html"
     },
@@ -6456,7 +7277,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-            "namedBy": "Lambe (1919)"
+            "namedBy": "Lambe (1919)",
+            "species": [
+                "type/species",
+                "mirus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/panoplosaurus.html"
     },
@@ -6486,7 +7311,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia",
-            "namedBy": "Galton Yates and Kermack 2007 (2003)"
+            "namedBy": "Galton Yates and Kermack 2007 (2003)",
+            "species": [
+                "type/species",
+                "caducus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pantydraco.html"
     },
@@ -6517,7 +7346,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
-            "namedBy": "Smith Lamanna Lacovara Dodson Smith Poole Giegengack and Attia (2001)"
+            "namedBy": "Smith Lamanna Lacovara Dodson Smith Poole Giegengack and Attia (2001)",
+            "species": [
+                "type/species",
+                "stromeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/paralititan.html"
     },
@@ -6548,7 +7381,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Parks (1922)"
+            "namedBy": "Parks (1922)",
+            "species": [
+                "type/species",
+                "walkeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
     },
@@ -6579,7 +7416,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Sternberg (1937)"
+            "namedBy": "Sternberg (1937)",
+            "species": [
+                "type/species",
+                "warrenae"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html"
     },
@@ -6610,7 +7451,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
-            "namedBy": "Bonaparte (1979)"
+            "namedBy": "Bonaparte (1979)",
+            "species": [
+                "type/species",
+                "fariasi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/patagosaurus.html"
     },
@@ -6641,7 +7486,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
-            "namedBy": "Pérez-Moreno Sanz Buscalioni Moratalla Ortega and Rasskin-Gutman (1994)"
+            "namedBy": "Pérez-Moreno Sanz Buscalioni Moratalla Ortega and Rasskin-Gutman (1994)",
+            "species": [
+                "type/species",
+                "polyodon"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pelicanimimus.html"
     },
@@ -6672,7 +7521,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
-            "namedBy": "Mantell (1850)"
+            "namedBy": "Mantell (1850)",
+            "species": [
+                "type/species",
+                "conybearei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pelorosaurus.html"
     },
@@ -6703,7 +7556,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "Osborn (1923)"
+            "namedBy": "Osborn (1923)",
+            "species": [
+                "type/species",
+                "sternbergi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pentaceratops.html"
     },
@@ -6734,7 +7591,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
-            "namedBy": "Bonaparte (1979)"
+            "namedBy": "Bonaparte (1979)",
+            "species": [
+                "type/species",
+                "floresi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/piatnitzkysaurus.html"
     },
@@ -6765,7 +7626,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Gilmore (1933)"
+            "namedBy": "Gilmore (1933)",
+            "species": [
+                "type/species",
+                "grangeri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html"
     },
@@ -6806,7 +7671,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
-            "namedBy": "Meyer (1837)"
+            "namedBy": "Meyer (1837)",
+            "species": [
+                "type/species",
+                "engelhardti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
     },
@@ -6837,7 +7706,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
-            "namedBy": "Talbot (1911)"
+            "namedBy": "Talbot (1911)",
+            "species": [
+                "type/species",
+                "holyokensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/podokesaurus.html"
     },
@@ -6868,7 +7741,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
-            "namedBy": "Eudes-Deslongchamps (1838)"
+            "namedBy": "Eudes-Deslongchamps (1838)",
+            "species": [
+                "type/species",
+                "bucklandii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/poekilopleuron.html"
     },
@@ -6899,7 +7776,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
-            "namedBy": "Hulke (1881)"
+            "namedBy": "Hulke (1881)",
+            "species": [
+                "type/species",
+                "foxii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html"
     },
@@ -6930,7 +7811,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-            "namedBy": "Maryańska and Osmólska (1974)"
+            "namedBy": "Maryańska and Osmólska (1974)",
+            "species": [
+                "type/species",
+                "prenes"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/prenocephale.html"
     },
@@ -6961,7 +7846,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Rozhdestvensky (1966)"
+            "namedBy": "Rozhdestvensky (1966)",
+            "species": [
+                "type/species",
+                "gobiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/probactrosaurus.html"
     },
@@ -6992,7 +7881,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
-            "namedBy": "Woodward (1910)"
+            "namedBy": "Woodward (1910)",
+            "species": [
+                "type/species",
+                "bradleyi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/proceratosaurus.html"
     },
@@ -7023,7 +7916,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
-            "namedBy": "Fraas (1913)"
+            "namedBy": "Fraas (1913)",
+            "species": [
+                "type/species",
+                "triassicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/procompsognathus.html"
     },
@@ -7054,7 +7951,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Brown (1916)"
+            "namedBy": "Brown (1916)",
+            "species": [
+                "type/species",
+                "maximus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/prosaurolophus.html"
     },
@@ -7085,7 +7986,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora",
-            "namedBy": "Ji and Ji (1997)"
+            "namedBy": "Ji and Ji (1997)",
+            "species": [
+                "type/species",
+                "robusta"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/protarchaeopteryx.html"
     },
@@ -7116,7 +8021,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-            "namedBy": "Granger and Gregory (1923)"
+            "namedBy": "Granger and Gregory (1923)",
+            "species": [
+                "type/species",
+                "andrewsi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html"
     },
@@ -7147,7 +8056,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
-            "namedBy": "Head (1998)"
+            "namedBy": "Head (1998)",
+            "species": [
+                "type/species",
+                "byrdi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/protohadros.html"
     },
@@ -7176,7 +8089,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae",
-            "namedBy": "Osborn (1923)"
+            "namedBy": "Osborn (1923)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html"
     },
@@ -7207,7 +8124,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
-            "namedBy": "Kurzanov and Bannikov (1983)"
+            "namedBy": "Kurzanov and Bannikov (1983)",
+            "species": [
+                "type/species",
+                "orientalis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/quaesitosaurus.html"
     },
@@ -7238,7 +8159,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
-            "namedBy": "Lavocat (1954)"
+            "namedBy": "Lavocat (1954)",
+            "species": [
+                "type/species",
+                "garasbae"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rebbachisaurus.html"
     },
@@ -7269,7 +8194,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
-            "namedBy": "Matherton (1869)"
+            "namedBy": "Matherton (1869)",
+            "species": [
+                "type/species",
+                "priscus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rhabdodon.html"
     },
@@ -7300,7 +8229,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
-            "namedBy": "Longman (1926)"
+            "namedBy": "Longman (1926)",
+            "species": [
+                "type/species",
+                "brownei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rhoetosaurus.html"
     },
@@ -7331,7 +8264,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
-            "namedBy": "Barsbold (1986)"
+            "namedBy": "Barsbold (1986)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rinchenia.html"
     },
@@ -7362,7 +8299,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
-            "namedBy": "Bonaparte (1969)"
+            "namedBy": "Bonaparte (1969)",
+            "species": [
+                "type/species",
+                "incertus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html"
     },
@@ -7393,7 +8334,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
-            "namedBy": "Sereno Wilson and Conrad (2004)"
+            "namedBy": "Sereno Wilson and Conrad (2004)",
+            "species": [
+                "type/species",
+                "primus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rugops.html"
     },
@@ -7424,7 +8369,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Maryañska (1977)"
+            "namedBy": "Maryañska (1977)",
+            "species": [
+                "type/species",
+                "chulsanensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saichania.html"
     },
@@ -7455,7 +8404,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
-            "namedBy": "Bonaparte and Powell (1980)"
+            "namedBy": "Bonaparte and Powell (1980)",
+            "species": [
+                "type/species",
+                "loricatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html"
     },
@@ -7485,7 +8438,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria",
-            "namedBy": "Huene (1910)"
+            "namedBy": "Huene (1910)",
+            "species": [
+                "type/species",
+                "elginensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saltopus.html"
     },
@@ -7516,7 +8473,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
-            "namedBy": "Andrews (1921)"
+            "namedBy": "Andrews (1921)",
+            "species": [
+                "type/species",
+                "woodi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sarcosaurus.html"
     },
@@ -7552,7 +8513,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Brown (1912)"
+            "namedBy": "Brown (1912)",
+            "species": [
+                "type/species",
+                "osborni"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html"
     },
@@ -7583,7 +8548,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-            "namedBy": "Ostrom (1970)"
+            "namedBy": "Ostrom (1970)",
+            "species": [
+                "type/species",
+                "edwardsorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html"
     },
@@ -7614,7 +8583,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
-            "namedBy": "Chure (1996)"
+            "namedBy": "Chure (1996)",
+            "species": [
+                "type/species",
+                "maximus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurophaganax.html"
     },
@@ -7645,7 +8618,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-            "namedBy": "Osborn (1924)"
+            "namedBy": "Osborn (1924)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurornithoides.html"
     },
@@ -7676,7 +8653,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
-            "namedBy": "Owen (1868)"
+            "namedBy": "Owen (1868)",
+            "species": [
+                "type/species",
+                "harrisonii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/scelidosaurus.html"
     },
@@ -7707,7 +8688,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora",
-            "namedBy": "Colbert (1981)"
+            "namedBy": "Colbert (1981)",
+            "species": [
+                "type/species",
+                "lawleri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html"
     },
@@ -7738,7 +8723,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-            "namedBy": "Brett-Surman (1979)"
+            "namedBy": "Brett-Surman (1979)",
+            "species": [
+                "type/species",
+                "koerneri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/secernosaurus.html"
     },
@@ -7769,7 +8758,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
-            "namedBy": "Camp (1936)"
+            "namedBy": "Camp (1936)",
+            "species": [
+                "type/species",
+                "halli"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/segisaurus.html"
     },
@@ -7800,7 +8793,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-            "namedBy": "Perle (1979)"
+            "namedBy": "Perle (1979)",
+            "species": [
+                "type/species",
+                "galbinensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/segnosaurus.html"
     },
@@ -7830,7 +8827,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Tumanova (1983)"
+            "namedBy": "Tumanova (1983)",
+            "species": [
+                "type/species",
+                "scutatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shamosaurus.html"
     },
@@ -7861,7 +8862,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia",
-            "namedBy": "Turner Hwang and Norell (2007)"
+            "namedBy": "Turner Hwang and Norell (2007)",
+            "species": [
+                "type/species",
+                "ashile"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shanag.html"
     },
@@ -7892,7 +8897,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
-            "namedBy": "Hu (1973)"
+            "namedBy": "Hu (1973)",
+            "species": [
+                "type/species",
+                "giganteus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shantungosaurus.html"
     },
@@ -7923,7 +8932,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Dong Zhou and Zhang (1983)"
+            "namedBy": "Dong Zhou and Zhang (1983)",
+            "species": [
+                "type/species",
+                "lii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html"
     },
@@ -7954,7 +8967,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
-            "namedBy": "Chiappe Norell and Clark (1998)"
+            "namedBy": "Chiappe Norell and Clark (1998)",
+            "species": [
+                "type/species",
+                "deserti"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shuvuuia.html"
     },
@@ -7985,7 +9002,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-            "namedBy": "Eaton (1960)"
+            "namedBy": "Eaton (1960)",
+            "species": [
+                "type/species",
+                "condrayi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/silvisaurus.html"
     },
@@ -8016,7 +9037,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia",
-            "namedBy": "Ji Ji Lü and Yuan (2007)"
+            "namedBy": "Ji Ji Lü and Yuan (2007)",
+            "species": [
+                "type/species",
+                "gigas"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinocalliopteryx.html"
     },
@@ -8047,7 +9072,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Xu Wang and Wu (1999)"
+            "namedBy": "Xu Wang and Wu (1999)",
+            "species": [
+                "type/species",
+                "millenii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinornithosaurus.html"
     },
@@ -8078,7 +9107,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
-            "namedBy": "Ji and Ji (1996)"
+            "namedBy": "Ji and Ji (1996)",
+            "species": [
+                "type/species",
+                "prima"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
     },
@@ -8109,7 +9142,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-            "namedBy": "Xu Norell Wang Makovicky and Wu (2002)"
+            "namedBy": "Xu Norell Wang Makovicky and Wu (2002)",
+            "species": [
+                "type/species",
+                "changii"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinovenator.html"
     },
@@ -8140,7 +9177,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
-            "namedBy": "Gao (1992)"
+            "namedBy": "Gao (1992)",
+            "species": [
+                "type/species",
+                "hepingensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinraptor.html"
     },
@@ -8171,7 +9212,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
-            "namedBy": "Xu Zhang Tan Zhao and Tan (2006)"
+            "namedBy": "Xu Zhang Tan Zhao and Tan (2006)",
+            "species": [
+                "type/species",
+                "saihangaobiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sonidosaurus.html"
     },
@@ -8202,7 +9247,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
-            "namedBy": "Stromer (1915)"
+            "namedBy": "Stromer (1915)",
+            "species": [
+                "type/species",
+                "aegyptiacus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
     },
@@ -8233,7 +9282,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Herrerasauridae",
-            "namedBy": "Colbert (1970)"
+            "namedBy": "Colbert (1970)",
+            "species": [
+                "type/species",
+                "pricei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/staurikosaurus.html"
     },
@@ -8264,7 +9317,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-            "namedBy": "Lambe (1902)"
+            "namedBy": "Lambe (1902)",
+            "species": [
+                "type/species",
+                "validum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html"
     },
@@ -8295,7 +9352,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-            "namedBy": "Marsh (1877)"
+            "namedBy": "Marsh (1877)",
+            "species": [
+                "type/species",
+                "armatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
     },
@@ -8326,7 +9387,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
-            "namedBy": "Meyer (1857)"
+            "namedBy": "Meyer (1857)",
+            "species": [
+                "type/species",
+                "valdensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stenopelix.html"
     },
@@ -8357,7 +9422,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
-            "namedBy": "Osborn (1917)"
+            "namedBy": "Osborn (1917)",
+            "species": [
+                "type/species",
+                "altus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html"
     },
@@ -8388,7 +9457,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
-            "namedBy": "Bunzel (1871)"
+            "namedBy": "Bunzel (1871)",
+            "species": [
+                "type/species",
+                "austriacus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/struthiosaurus.html"
     },
@@ -8419,7 +9492,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
-            "namedBy": "Lambe (1913)"
+            "namedBy": "Lambe (1913)",
+            "species": [
+                "type/species",
+                "albertensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html"
     },
@@ -8450,7 +9527,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
-            "namedBy": "Sereno Beck Dutheil Gado Larsson Lyon Marcot Rauhut Sadleir Sidor Varricchio Wilson and Wilson (1998)"
+            "namedBy": "Sereno Beck Dutheil Gado Larsson Lyon Marcot Rauhut Sadleir Sidor Varricchio Wilson and Wilson (1998)",
+            "species": [
+                "type/species",
+                "tenerensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html"
     },
@@ -8481,7 +9562,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
-            "namedBy": "Jansen (1985)"
+            "namedBy": "Jansen (1985)",
+            "species": [
+                "type/species",
+                "vivianae"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/supersaurus.html"
     },
@@ -8512,7 +9597,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Maleev (1952)"
+            "namedBy": "Maleev (1952)",
+            "species": [
+                "type/species",
+                "plicatospineus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/talarurus.html"
     },
@@ -8542,7 +9631,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-            "namedBy": "Wiman (1929)"
+            "namedBy": "Wiman (1929)",
+            "species": [
+                "type/species",
+                "sinensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tanius.html"
     },
@@ -8573,7 +9666,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
-            "namedBy": "Maleev (1955)"
+            "namedBy": "Maleev (1955)",
+            "species": [
+                "type/species",
+                "bataar"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html"
     },
@@ -8604,7 +9701,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
-            "namedBy": "Maleev (1956)"
+            "namedBy": "Maleev (1956)",
+            "species": [
+                "type/species",
+                "gigantea"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html"
     },
@@ -8635,7 +9736,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
-            "namedBy": "Nopcsa (1900)"
+            "namedBy": "Nopcsa (1900)",
+            "species": [
+                "type/species",
+                "transsylvanicus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/telmatosaurus.html"
     },
@@ -8666,7 +9771,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia",
-            "namedBy": "Ostrom (1970)"
+            "namedBy": "Ostrom (1970)",
+            "species": [
+                "type/species",
+                "tillettorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html"
     },
@@ -8697,7 +9806,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
-            "namedBy": "Morris (1843)"
+            "namedBy": "Morris (1843)",
+            "species": [
+                "type/species",
+                "antiquus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/thecodontosaurus.html"
     },
@@ -8726,7 +9839,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
-            "namedBy": "Maleev (1915)"
+            "namedBy": "Maleev (1915)",
+            "species": [
+                "type/species",
+                "cheloniformiss"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html"
     },
@@ -8757,7 +9874,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Gilmore (1913)"
+            "namedBy": "Gilmore (1913)",
+            "species": [
+                "type/species",
+                "neglectus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html"
     },
@@ -8788,7 +9909,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "Marsh (1891)"
+            "namedBy": "Marsh (1891)",
+            "species": [
+                "type/species",
+                "latus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/torosaurus.html"
     },
@@ -8819,7 +9944,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
-            "namedBy": "Galton and Jensen (1979)"
+            "namedBy": "Galton and Jensen (1979)",
+            "species": [
+                "type/species",
+                "tanneri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/torvosaurus.html"
     },
@@ -8850,7 +9979,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
-            "namedBy": "Marsh (1889)"
+            "namedBy": "Marsh (1889)",
+            "species": [
+                "type/species",
+                "horridus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
     },
@@ -8881,7 +10014,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
-            "namedBy": "Leidy (1856)"
+            "namedBy": "Leidy (1856)",
+            "species": [
+                "type/species",
+                "formosus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/troodon.html"
     },
@@ -8911,7 +10048,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
-            "namedBy": "Tumanova (1993)"
+            "namedBy": "Tumanova (1993)",
+            "species": [
+                "type/species",
+                "longicranialis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tsagantegia.html"
     },
@@ -8942,7 +10083,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
-            "namedBy": "Young (1958)"
+            "namedBy": "Young (1958)",
+            "species": [
+                "type/species",
+                "spinorhinus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html"
     },
@@ -8973,7 +10118,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
-            "namedBy": "Dong Li Zhou and Zhang (1973)"
+            "namedBy": "Dong Li Zhou and Zhang (1973)",
+            "species": [
+                "type/species",
+                "multispinus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html"
     },
@@ -9004,7 +10153,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
-            "namedBy": "Maryańska and Osmólska (1974)"
+            "namedBy": "Maryańska and Osmólska (1974)",
+            "species": [
+                "type/species",
+                "gilmorei"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tylocephale.html"
     },
@@ -9035,7 +10188,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
-            "namedBy": "Osborn (1905)"
+            "namedBy": "Osborn (1905)",
+            "species": [
+                "type/species",
+                "rex"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
     },
@@ -9065,7 +10222,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
-            "namedBy": "Kurzanov (1992)"
+            "namedBy": "Kurzanov (1992)",
+            "species": [
+                "type/species",
+                "tschizhovi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/udanoceratops.html"
     },
@@ -9096,7 +10257,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Novas and Puerta (1997)"
+            "namedBy": "Novas and Puerta (1997)",
+            "species": [
+                "type/species",
+                "comahuensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/unenlagia.html"
     },
@@ -9127,7 +10292,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia",
-            "namedBy": "Averianov and Sues (2007)"
+            "namedBy": "Averianov and Sues (2007)",
+            "species": [
+                "type/species",
+                "itemirensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/urbacodon.html"
     },
@@ -9158,7 +10327,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Kirkland Gaston and Burge (1993)"
+            "namedBy": "Kirkland Gaston and Burge (1993)",
+            "species": [
+                "type/species",
+                "ostrommaysorum"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html"
     },
@@ -9189,7 +10362,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
-            "namedBy": "Galton (1975)"
+            "namedBy": "Galton (1975)",
+            "species": [
+                "type/species",
+                "canaliculatus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/valdosaurus.html"
     },
@@ -9220,7 +10397,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
-            "namedBy": "Osborn (1924)"
+            "namedBy": "Osborn (1924)",
+            "species": [
+                "type/species",
+                "mongoliensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
     },
@@ -9251,7 +10432,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
-            "namedBy": "Raath (1972)"
+            "namedBy": "Raath (1972)",
+            "species": [
+                "type/species",
+                "karibaensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/vulcanodon.html"
     },
@@ -9282,7 +10467,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "He (1979)"
+            "namedBy": "He (1979)",
+            "species": [
+                "type/species",
+                "hongheensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yandusaurus.html"
     },
@@ -9313,7 +10502,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
-            "namedBy": "Dong Chang Li and Zhou (1978)"
+            "namedBy": "Dong Chang Li and Zhou (1978)",
+            "species": [
+                "type/species",
+                "shangyouensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html"
     },
@@ -9344,7 +10537,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
-            "namedBy": "Bai Yang and Wang (1990)"
+            "namedBy": "Bai Yang and Wang (1990)",
+            "species": [
+                "type/species",
+                "youngi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yimenosaurus.html"
     },
@@ -9374,7 +10571,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
-            "namedBy": "Watanabe (1992)"
+            "namedBy": "Watanabe (1992)",
+            "species": [
+                "type/species",
+                "jichuanensiss"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yingshanosaurus.html"
     },
@@ -9405,7 +10606,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
-            "namedBy": "Xu Forster Clark and Mo (2006)"
+            "namedBy": "Xu Forster Clark and Mo (2006)",
+            "species": [
+                "type/species",
+                "downsi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yinlong.html"
     },
@@ -9436,7 +10641,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
-            "namedBy": "Lü Li Ji Wang Zhang and Dong (2006)"
+            "namedBy": "Lü Li Ji Wang Zhang and Dong (2006)",
+            "species": [
+                "type/species",
+                "jiangyiensis"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yuanmousaurus.html"
     },
@@ -9467,7 +10676,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
-            "namedBy": "Young (1942)"
+            "namedBy": "Young (1942)",
+            "species": [
+                "type/species",
+                "huangi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yunnanosaurus.html"
     },
@@ -9498,7 +10711,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
-            "namedBy": "Nopcsa (1902)"
+            "namedBy": "Nopcsa (1902)",
+            "species": [
+                "type/species",
+                "robustus"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zalmoxes.html"
     },
@@ -9529,7 +10746,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
-            "namedBy": "Sues (1980)"
+            "namedBy": "Sues (1980)",
+            "species": [
+                "type/species",
+                "schaffi"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zephyrosaurus.html"
     },
@@ -9559,7 +10780,11 @@
         ],
         "taxonomy": {
             "taxonomyDetials": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
-            "namedBy": "Wolfe and Kirkland (1998)"
+            "namedBy": "Wolfe and Kirkland (1998)",
+            "species": [
+                "type/species",
+                "christopheri"
+            ]
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zuniceratops.html"
     }
