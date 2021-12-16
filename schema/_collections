@@ -1,21 +1,21 @@
 [
     {
-        "id": "_collection",
+        "_id": "_collection",
         "name": "dinos",
         "doc": "A collection of dinosaurs with all relevent information."
     },
     {
-        "id": "_collection",
+        "_id": "_collection",
         "name": "type",
         "doc": "A collection of dinosaur types with relevent information."
     },
     {
-        "id": "_collection",
+        "_id": "_collection",
         "name": "period",
         "doc": "A collection of time the periods when specific dinosaurs lived."
     },
     {
-        "id": "_collection",
+        "_id": "_collection",
         "name": "taxonomyDetails",
         "doc": "A collection of taxonomy details for each dinosaur."
     }

@@ -1,51 +1,52 @@
 [
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/dinosaurName",
         "doc": "The formal name given to the dinosaur.",
         "type": "string",
-        "unique": "true",
-        "fullText": "true"
+        "unique": true,
+        "fullText": true
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/englishTranslation",
         "doc": "The english language translation of the dinosaur's name.",
         "type": "string",
-        "unique": "true"
+        "unique": true,
+        "fullText": "tru"
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/period",
         "doc": "The period in time in which the dinosaur lived.",
         "type": "ref",
         "restrictCollection": "period"
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/livedIn",
         "doc": "The region in which the dinosaur lived in.",
         "type": "ref",
-        "restrictCollection": "country",
-        "fullText": "true",
-        "multi": "true"
+        "restrictCollection": "period",
+        "fullText": true,
+        "multi": true
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/dinoType",
         "doc": "The type of dinosaur.",
         "type": "ref",
         "restrictCollection": "type"
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/taxonomy",
         "doc": "The taxonomy of the specific dinosaur.",
         "type": "ref",
         "restrictCollection": "taxonomyDetails"
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "dino/link",
         "doc": "the URI to the dinosaurs info page.",
         "type": "uri"
