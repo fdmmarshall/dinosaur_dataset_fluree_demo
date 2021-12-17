@@ -7,7 +7,7 @@
             "_id": "type$1",
             "dinosaurType": "sauropod",
             "species": "celestae",
-            "length": "8.0m",
+            "length": 8.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -34,7 +34,7 @@
             "_id": "type$2",
             "dinosaurType": "large theropod",
             "species": "comahuensis",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -61,7 +61,7 @@
             "_id": "type$3",
             "dinosaurType": "ceratopsian",
             "species": "horneri",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -88,7 +88,7 @@
             "_id": "type$4",
             "dinosaurType": "large theropod",
             "species": "giganteus",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -115,7 +115,7 @@
             "_id": "type$5",
             "dinosaurType": "large theropod",
             "species": "atokensis",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -142,7 +142,7 @@
             "_id": "type$6",
             "dinosaurType": "sauropod",
             "species": "baharijensis",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -169,7 +169,7 @@
             "_id": "type$7",
             "dinosaurType": "large theropod",
             "species": "abakensis",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -196,7 +196,7 @@
             "_id": "type$8",
             "dinosaurType": "euornithopod",
             "species": "louderbacki",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -223,7 +223,7 @@
             "_id": "type$9",
             "dinosaurType": "sauropod",
             "species": "sanjuanensis",
-            "length": "21.0m",
+            "length": 21.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -250,7 +250,7 @@
             "_id": "type$10",
             "dinosaurType": "ceratopsian",
             "species": "nesmoi",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -277,7 +277,7 @@
             "_id": "type$11",
             "dinosaurType": "large theropod",
             "species": "libratus",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -304,7 +304,7 @@
             "_id": "type$12",
             "dinosaurType": "large theropod",
             "species": "olseni",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -331,7 +331,7 @@
             "_id": "type$13",
             "dinosaurType": "large theropod",
             "species": "remotus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -358,7 +358,7 @@
             "_id": "type$14",
             "dinosaurType": "large theropod",
             "species": "fragilis",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -385,7 +385,7 @@
             "_id": "type$15",
             "dinosaurType": "small theropod",
             "species": "calvoi",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -412,7 +412,7 @@
             "_id": "type$16",
             "dinosaurType": "sauropod",
             "species": "cazaui",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -439,7 +439,7 @@
             "_id": "type$17",
             "dinosaurType": "sauropod",
             "species": "major",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -466,7 +466,7 @@
             "_id": "type$18",
             "dinosaurType": "sauropod",
             "species": "atacis",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -493,7 +493,7 @@
             "_id": "type$19",
             "dinosaurType": "sauropod",
             "species": "patagonicus",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -520,7 +520,7 @@
             "_id": "type$20",
             "dinosaurType": "ceratopsian",
             "species": "ornatus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -547,7 +547,7 @@
             "_id": "type$21",
             "dinosaurType": "sauropod",
             "species": "polyzelous",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -574,7 +574,7 @@
             "_id": "type$22",
             "dinosaurType": "armoured dinosaur",
             "species": "magniventris",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -601,7 +601,7 @@
             "_id": "type$23",
             "dinosaurType": "large theropod",
             "species": "planinychus",
-            "length": "3.5m",
+            "length": 3.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -628,7 +628,7 @@
             "_id": "type$24",
             "dinosaurType": "sauropod",
             "species": "wichmannianus",
-            "length": "18.0m",
+            "length": 18.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -655,7 +655,7 @@
             "_id": "type$25",
             "dinosaurType": "sauropod",
             "species": "ajax",
-            "length": "21.0m",
+            "length": 21.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -682,7 +682,7 @@
             "_id": "type$26",
             "dinosaurType": "sauropod",
             "species": "ischiadicus",
-            "length": "18.0m",
+            "length": 18.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -709,7 +709,7 @@
             "_id": "type$27",
             "dinosaurType": "euornithopod",
             "species": "tuberiferus",
-            "length": "8.0m",
+            "length": 8.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -736,7 +736,7 @@
             "_id": "type$28",
             "dinosaurType": "ceratopsian",
             "species": "oshimai",
-            "length": "1.3m",
+            "length": 1.3,
             "dietType": "herbivorous"
         },
         "period": {
@@ -763,7 +763,7 @@
             "_id": "type$29",
             "dinosaurType": "small theropod",
             "species": "lithographica",
-            "length": "0.5m",
+            "length": 0.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -790,7 +790,7 @@
             "_id": "type$30",
             "dinosaurType": "small theropod",
             "species": "asiaticus",
-            "length": "3.5m",
+            "length": 3.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -817,7 +817,7 @@
             "_id": "type$31",
             "dinosaurType": "sauropod",
             "species": "huinculensis",
-            "length": "35.0m",
+            "length": 35.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -844,7 +844,7 @@
             "_id": "type$32",
             "dinosaurType": "ceratopsian",
             "species": "brachyops",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -871,7 +871,7 @@
             "_id": "type$33",
             "dinosaurType": "euornithopod",
             "species": "loadsi",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -898,7 +898,7 @@
             "_id": "type$34",
             "dinosaurType": "large theropod",
             "species": "garridoi",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -925,7 +925,7 @@
             "_id": "type$35",
             "dinosaurType": "sauropod",
             "species": "mckillopi",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -952,7 +952,7 @@
             "_id": "type$35",
             "dinosaurType": "ceratopsian",
             "species": "lammersi",
-            "length": "2.3m",
+            "length": 2.3,
             "dietType": "herbivorous"
         },
         "period": {
@@ -979,7 +979,7 @@
             "_id": "type$36",
             "dinosaurType": "small theropod",
             "species": "portentosus",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "omnivorous"
         },
         "period": {
@@ -1006,7 +1006,7 @@
             "_id": "type$37",
             "dinosaurType": "euornithopod",
             "species": "johnsoni",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1033,7 +1033,7 @@
             "_id": "type$38",
             "dinosaurType": "ceratopsian",
             "species": "rozhdestvenskyi",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1060,7 +1060,7 @@
             "_id": "type$39",
             "dinosaurType": "small theropod",
             "species": "feinbergorum",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1087,7 +1087,7 @@
             "_id": "type$40",
             "dinosaurType": "sauropod",
             "species": "tagorei",
-            "length": "14.0m",
+            "length": 14.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1114,7 +1114,7 @@
             "_id": "type$41",
             "dinosaurType": "sauropod",
             "species": "lentus",
-            "length": "24.0m",
+            "length": 24.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1141,7 +1141,7 @@
             "_id": "type$42",
             "dinosaurType": "large theropod",
             "species": "walkeri",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1168,7 +1168,7 @@
             "_id": "type$43",
             "dinosaurType": "large theropod",
             "species": "altispinax",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1195,7 +1195,7 @@
             "_id": "type$44",
             "dinosaurType": "small theropod",
             "species": "inexpectus",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -1222,7 +1222,7 @@
             "_id": "type$45",
             "dinosaurType": "sauropod",
             "species": "sui",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1249,7 +1249,7 @@
             "_id": "type$46",
             "dinosaurType": "small theropod",
             "species": "gracilicrus",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1276,7 +1276,7 @@
             "_id": "type$47",
             "dinosaurType": "sauropod",
             "species": "altithorax",
-            "length": "30.0m",
+            "length": 30.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1303,7 +1303,7 @@
             "_id": "type$48",
             "dinosaurType": "euornithopod",
             "species": "canadensis",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1330,7 +1330,7 @@
             "_id": "type$49",
             "dinosaurType": "sauropod",
             "species": "mesai",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1357,7 +1357,7 @@
             "_id": "type$50",
             "dinosaurType": "small theropod",
             "species": "gonzalezorum",
-            "length": "1.3m",
+            "length": 1.3,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1384,7 +1384,7 @@
             "_id": "type$51",
             "dinosaurType": "sauropod",
             "species": "supremus",
-            "length": "23.0m",
+            "length": 23.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1411,7 +1411,7 @@
             "_id": "type$52",
             "dinosaurType": "euornithopod",
             "species": "dispar",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1438,7 +1438,7 @@
             "_id": "type$53",
             "dinosaurType": "large theropod",
             "species": "saharicus",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1465,7 +1465,7 @@
             "_id": "type$54",
             "dinosaurType": "large theropod",
             "species": "sastrei",
-            "length": "7.6m",
+            "length": 7.6,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1492,7 +1492,7 @@
             "_id": "type$55",
             "dinosaurType": "small theropod",
             "species": "zoui",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -1519,7 +1519,7 @@
             "_id": "type$56",
             "dinosaurType": "armoured dinosaur",
             "species": "bilbeyhallorum",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1545,7 +1545,7 @@
         "dinoType": {
             "_id": "type$57",
             "dinosaurType": "ceratopsian",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1571,7 +1571,7 @@
             "_id": "type$58",
             "dinosaurType": "large theropod",
             "species": "nasicornis",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1598,7 +1598,7 @@
             "_id": "type$59",
             "dinosaurType": "sauropod",
             "species": "stewarti",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1625,7 +1625,7 @@
             "_id": "type$60",
             "dinosaurType": "sauropod",
             "species": "oxoniensis",
-            "length": "18.0m",
+            "length": 18.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1652,7 +1652,7 @@
             "_id": "type$61",
             "dinosaurType": "ceratopsian",
             "species": "youngi",
-            "length": "1.1m",
+            "length": 1.1,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1679,7 +1679,7 @@
             "_id": "type$62",
             "dinosaurType": "ceratopsian",
             "species": "belli",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1705,7 +1705,7 @@
             "_id": "type$63",
             "dinosaurType": "small theropod",
             "species": "bryansmalli",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1732,7 +1732,7 @@
             "_id": "type$64",
             "dinosaurType": "sauropod",
             "species": "zhongheensis",
-            "length": "11.0m",
+            "length": 11.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1759,7 +1759,7 @@
             "_id": "type$65",
             "dinosaurType": "small theropod",
             "species": "pergracilis",
-            "length": "1.7m",
+            "length": 1.7,
             "dietType": "omnivorous"
         },
         "period": {
@@ -1786,7 +1786,7 @@
             "_id": "type$66",
             "dinosaurType": "sauropod",
             "species": "insignis",
-            "length": "23.0m",
+            "length": 23.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1813,7 +1813,7 @@
             "_id": "type$67",
             "dinosaurType": "armoured dinosaur",
             "species": "jiangbeiensis",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -1843,7 +1843,7 @@
             "_id": "type$68",
             "dinosaurType": "small theropod",
             "species": "osmolskae",
-            "length": "2.1m",
+            "length": 2.1,
             "dietType": "omnivorous"
         },
         "period": {
@@ -1870,7 +1870,7 @@
             "_id": "type$69",
             "dinosaurType": "small theropod",
             "species": "bauri",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1896,7 +1896,7 @@
             "_id": "type$70",
             "dinosaurType": "small theropod",
             "species": "fragilis",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "carnivorous"
         },
         "period": {
@@ -1923,7 +1923,7 @@
             "_id": "type$71",
             "dinosaurType": "sauropod",
             "species": "brevis",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -1950,7 +1950,7 @@
             "_id": "type$72",
             "dinosaurType": "small theropod",
             "species": "longipes",
-            "length": "0.65m",
+            "length": 0.65m",
             "dietType": "carnivorous"
         },
         "period": {
@@ -1977,7 +1977,7 @@
             "_id": "type$73",
             "dinosaurType": "small theropod",
             "species": "gracilis",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2004,7 +2004,7 @@
             "_id": "type$74",
             "dinosaurType": "small theropod",
             "species": "sanctus",
-            "length": "0.25m",
+            "length": 0.25m",
             "dietType": "carnivorous"
         },
         "period": {
@@ -2031,7 +2031,7 @@
             "_id": "type$75",
             "dinosaurType": "euornithopod",
             "species": "casuarius",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2058,7 +2058,7 @@
             "_id": "type$76",
             "dinosaurType": "large theropod",
             "species": "elliotti",
-            "length": "8.0m",
+            "length": 8.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2085,7 +2085,7 @@
             "_id": "type$77",
             "dinosaurType": "armoured dinosaur",
             "species": "armatus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2112,7 +2112,7 @@
             "_id": "type$78",
             "dinosaurType": "large theropod",
             "species": "torosus",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2139,7 +2139,7 @@
             "_id": "type$79",
             "dinosaurType": "sauropod",
             "species": "bashanensis",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2166,7 +2166,7 @@
             "_id": "type$80",
             "dinosaurType": "large theropod",
             "species": "mirificus",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -2193,7 +2193,7 @@
             "_id": "type$81",
             "dinosaurType": "small theropod",
             "species": "antirrhopus",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2220,7 +2220,7 @@
             "_id": "type$82",
             "dinosaurType": "large theropod",
             "species": "agilis",
-            "length": "8.1m",
+            "length": 8.1,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2247,7 +2247,7 @@
             "_id": "type$83",
             "dinosaurType": "sauropod",
             "species": "hansemanni",
-            "length": "20.0m",
+            "length": 20.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2274,7 +2274,7 @@
             "_id": "type$84",
             "dinosaurType": "large theropod",
             "species": "wetherilli",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2300,7 +2300,7 @@
             "_id": "type$85",
             "dinosaurType": "sauropod",
             "species": "longus",
-            "length": "26.0m",
+            "length": 26.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2327,7 +2327,7 @@
             "_id": "type$86",
             "dinosaurType": "small theropod",
             "species": "albertensis",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2354,7 +2354,7 @@
             "_id": "type$87",
             "dinosaurType": "large theropod",
             "species": "brevitertius",
-            "length": "3.5m",
+            "length": 3.5,
             "dietType": "omnivorous"
         },
         "period": {
@@ -2381,7 +2381,7 @@
             "_id": "type$88",
             "dinosaurType": "euornithopod",
             "species": "altus",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2408,7 +2408,7 @@
             "_id": "type$89",
             "dinosaurType": "large theropod",
             "species": "aquilunguis",
-            "length": "6.4m",
+            "length": 6.4,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2461,7 +2461,7 @@
             "_id": "type$91",
             "dinosaurType": "armoured dinosaur",
             "species": "longiceps",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2488,7 +2488,7 @@
             "_id": "type$92",
             "dinosaurType": "euornithopod",
             "species": "regalis",
-            "length": "13.0m",
+            "length": 13.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2515,7 +2515,7 @@
             "_id": "type$93",
             "dinosaurType": "ceratopsian",
             "species": "procurvicornis",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2542,7 +2542,7 @@
             "_id": "type$94",
             "dinosaurType": "large theropod",
             "species": "bambergi",
-            "length": "6.2m",
+            "length": 6.2,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2569,7 +2569,7 @@
             "_id": "type$95",
             "dinosaurType": "armoured dinosaur",
             "species": "ernsti",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2622,7 +2622,7 @@
             "_id": "type$97",
             "dinosaurType": "small theropod",
             "species": "lunensis",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2649,7 +2649,7 @@
             "_id": "type$98",
             "dinosaurType": "large theropod",
             "species": "lengi",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2701,7 +2701,7 @@
             "_id": "type$100",
             "dinosaurType": "sauropod",
             "species": "ellisoni",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2727,7 +2727,7 @@
             "_id": "type$101",
             "dinosaurType": "small theropod",
             "species": "andrewsi",
-            "length": "3.4m",
+            "length": 3.4,
             "dietType": "omnivorous"
         },
         "period": {
@@ -2754,7 +2754,7 @@
             "_id": "type$102",
             "dinosaurType": "sauropod",
             "species": "zdanskyi",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2781,7 +2781,7 @@
             "_id": "type$103",
             "dinosaurType": "armoured dinosaur",
             "species": "tutus",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2807,7 +2807,7 @@
             "_id": "type$104",
             "dinosaurType": "sauropod",
             "species": "holgeri",
-            "length": "6.2m",
+            "length": 6.2,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2834,7 +2834,7 @@
             "_id": "type$105",
             "dinosaurType": "large theropod",
             "species": "oxoniensis",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -2861,7 +2861,7 @@
             "_id": "type$106",
             "dinosaurType": "large theropod",
             "species": "kitadaniensis",
-            "length": "4.2m",
+            "length": 4.2,
             "dietType": "carnivorous"
         },
         "dietType": "carnivorous",
@@ -2889,7 +2889,7 @@
             "_id": "type$107",
             "dinosaurType": "euornithopod",
             "species": "tetoriensius",
-            "length": "4.7m",
+            "length": 4.7,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2916,7 +2916,7 @@
             "_id": "type$108",
             "dinosaurType": "large theropod",
             "species": "bullatus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -2943,7 +2943,7 @@
             "_id": "type$109",
             "dinosaurType": "armoured dinosaur",
             "species": "parkpinorum",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -2970,7 +2970,7 @@
             "_id": "type$110",
             "dinosaurType": "large theropod",
             "species": "brevipes",
-            "length": "4.7m",
+            "length": 4.7,
             "dietType": "omnivorous"
         },
         "period": {
@@ -2997,7 +2997,7 @@
             "_id": "type$111",
             "dinosaurType": "small theropod",
             "species": "constructus",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3024,7 +3024,7 @@
             "_id": "type$112",
             "dinosaurType": "euornithopod",
             "species": "cincosaltensis",
-            "length": "0.8m",
+            "length": 0.8,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3051,7 +3051,7 @@
             "_id": "type$113",
             "dinosaurType": "armoured dinosaur",
             "species": "burgei",
-            "length": "4.6m",
+            "length": 4.6,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3078,7 +3078,7 @@
             "_id": "type$114",
             "dinosaurType": "large theropod",
             "species": "carolinii",
-            "length": "12.5m",
+            "length": 12.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3105,7 +3105,7 @@
             "_id": "type$115",
             "dinosaurType": "euornithopod",
             "species": "mongoliensis",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3132,7 +3132,7 @@
             "_id": "type$116",
             "dinosaurType": "sauropod",
             "species": "brancai",
-            "length": "23.0m",
+            "length": 23.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3159,7 +3159,7 @@
             "_id": "type$117",
             "dinosaurType": "armoured dinosaur",
             "species": "domoculus",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3186,7 +3186,7 @@
             "_id": "type$118",
             "dinosaurType": "large theropod",
             "species": "libratus",
-            "length": "8.6m",
+            "length": 8.6,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3213,7 +3213,7 @@
             "_id": "type$119",
             "dinosaurType": "large theropod",
             "species": "lattimorei",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3266,7 +3266,7 @@
             "_id": "type$121",
             "dinosaurType": "euornithopod",
             "species": "notabilis",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3293,7 +3293,7 @@
             "_id": "type$122",
             "dinosaurType": "small theropod",
             "species": "candelariensis",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3320,7 +3320,7 @@
             "_id": "type$123",
             "dinosaurType": "small theropod",
             "species": "wucaii",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3347,7 +3347,7 @@
             "_id": "type$124",
             "dinosaurType": "euornithopod",
             "species": "foulkii",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3374,7 +3374,7 @@
             "_id": "type$125",
             "dinosaurType": "small theropod",
             "species": "giganteus",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -3399,7 +3399,7 @@
             "_id": "type$126",
             "dinosaurType": "sauropod",
             "species": "priscus",
-            "length": "21.5m",
+            "length": 21.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3426,7 +3426,7 @@
             "_id": "type$127",
             "dinosaurType": "small theropod",
             "species": "okladnikovi",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -3453,7 +3453,7 @@
             "_id": "type$128",
             "dinosaurType": "small theropod",
             "species": "ischigualastensis",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3480,7 +3480,7 @@
             "_id": "type$129",
             "dinosaurType": "armoured dinosaur",
             "species": "mjosi",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3507,7 +3507,7 @@
             "_id": "type$130",
             "dinosaurType": "euornithopod",
             "species": "tucki",
-            "length": "1.2m",
+            "length": 1.2,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3534,7 +3534,7 @@
             "_id": "type$131",
             "dinosaurType": "small theropod",
             "species": "yanshini",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -3561,7 +3561,7 @@
             "_id": "type$132",
             "dinosaurType": "euornithopod",
             "species": "calathocercos",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3588,7 +3588,7 @@
             "_id": "type$133",
             "dinosaurType": "armoured dinosaur",
             "species": "taibaii",
-            "length": "4.5m",
+            "length": 4.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3615,7 +3615,7 @@
             "_id": "type$134",
             "dinosaurType": "armoured dinosaur",
             "species": "armatus",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3642,7 +3642,7 @@
             "_id": "type$135",
             "dinosaurType": "euornithopod",
             "species": "altispinus",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3669,7 +3669,7 @@
             "_id": "type$136",
             "dinosaurType": "euornithopod",
             "species": "foxii",
-            "length": "2.3m",
+            "length": 2.3,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3696,7 +3696,7 @@
             "_id": "type$137",
             "dinosaurType": "euornithopod",
             "species": "bernissartensis",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3723,7 +3723,7 @@
             "_id": "type$138",
             "dinosaurType": "large theropod",
             "species": "raptorius",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3750,7 +3750,7 @@
             "_id": "type$139",
             "dinosaurType": "large theropod",
             "species": "challengeri",
-            "length": "6.5m",
+            "length": 6.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3803,7 +3803,7 @@
             "_id": "type$141",
             "dinosaurType": "sauropod",
             "species": "robusta",
-            "length": "20.0m",
+            "length": 20.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3830,7 +3830,7 @@
             "_id": "type$142",
             "dinosaurType": "euornithopod",
             "species": "aralensis",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3857,7 +3857,7 @@
             "_id": "type$143",
             "dinosaurType": "sauropod",
             "species": "xinwaensis",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3910,7 +3910,7 @@
             "_id": "type$145",
             "dinosaurType": "sauropod",
             "species": "tiguidensis",
-            "length": "21.0m",
+            "length": 21.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3937,7 +3937,7 @@
             "_id": "type$146",
             "dinosaurType": "small theropod",
             "species": "starki",
-            "length": "0.8m",
+            "length": 0.8,
             "dietType": "carnivorous"
         },
         "period": {
@@ -3964,7 +3964,7 @@
             "_id": "type$147",
             "dinosaurType": "armoured dinosaur",
             "species": "aethiopicus",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -3991,7 +3991,7 @@
             "_id": "type$148",
             "dinosaurType": "small theropod",
             "species": "mckennai",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "omnivorous"
         },
         "period": {
@@ -4018,7 +4018,7 @@
             "_id": "type$149",
             "dinosaurType": "sauropod",
             "species": "yamanpalliensis",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4045,7 +4045,7 @@
             "_id": "type$150",
             "dinosaurType": "euornithopod",
             "species": "navajovius",
-            "length": "8.0m",
+            "length": 8.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4072,7 +4072,7 @@
             "_id": "type$151",
             "dinosaurType": "euornithopod",
             "species": "lambei",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4125,7 +4125,7 @@
             "_id": "type$153",
             "dinosaurType": "euornithopod",
             "species": "amicagraphica",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4152,7 +4152,7 @@
             "_id": "type$154",
             "dinosaurType": "ceratopsian",
             "species": "gracilis",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4178,7 +4178,7 @@
         "dinoType": {
             "_id": "type$155",
             "species": "diagnosticus",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4231,7 +4231,7 @@
             "_id": "type$157",
             "dinosaurType": "sauropod",
             "species": "leanzai",
-            "length": "24.0m",
+            "length": 24.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4258,7 +4258,7 @@
             "_id": "type$158",
             "dinosaurType": "small theropod",
             "species": "liliensterni",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4285,7 +4285,7 @@
             "_id": "type$159",
             "dinosaurType": "euornithopod",
             "species": "atopus",
-            "length": "4.5m",
+            "length": 4.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4312,7 +4312,7 @@
             "_id": "type$160",
             "dinosaurType": "large theropod",
             "species": "airelensis",
-            "length": "6.2m",
+            "length": 6.2,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4339,7 +4339,7 @@
             "_id": "type$161",
             "dinosaurType": "sauropod",
             "species": "huenei",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4366,7 +4366,7 @@
             "_id": "type$162",
             "dinosaurType": "euornithopod",
             "species": "arenatus",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4393,7 +4393,7 @@
             "_id": "type$163",
             "dinosaurType": "euornithopod",
             "species": "angustidens",
-            "length": "1.2m",
+            "length": 1.2,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4420,7 +4420,7 @@
             "_id": "type$164",
             "dinosaurType": "sauropod",
             "species": "dacus",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4447,7 +4447,7 @@
             "_id": "type$165",
             "dinosaurType": "euornithopod",
             "species": "peeblesorum",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4474,7 +4474,7 @@
             "_id": "type$166",
             "dinosaurType": "large theropod",
             "species": "atopus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4501,7 +4501,7 @@
             "_id": "type$167",
             "dinosaurType": "sauropod",
             "species": "dixeyi",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4528,7 +4528,7 @@
             "_id": "type$168",
             "dinosaurType": "sauropod",
             "species": "constructus",
-            "length": "22.0m",
+            "length": 22.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4555,7 +4555,7 @@
             "_id": "type$169",
             "dinosaurType": "large theropod",
             "species": "roseae",
-            "length": "13.0m",
+            "length": 13.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4585,7 +4585,7 @@
             "_id": "type$170",
             "dinosaurType": "large theropod",
             "species": "bicentesimus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4612,7 +4612,7 @@
             "_id": "type$171",
             "dinosaurType": "small theropod",
             "species": "knopfleri",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4639,7 +4639,7 @@
             "_id": "type$172",
             "dinosaurType": "sauropod",
             "species": "carinatus",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -4666,7 +4666,7 @@
             "_id": "type$173",
             "dinosaurType": "sauropod",
             "species": "topai",
-            "length": "13.0m",
+            "length": 13.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4693,7 +4693,7 @@
             "_id": "type$174",
             "dinosaurType": "large theropod",
             "species": "bucklandii",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4720,7 +4720,7 @@
             "_id": "type$175",
             "dinosaurType": "sauropod",
             "species": "readi",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -4747,7 +4747,7 @@
             "_id": "type$176",
             "dinosaurType": "large theropod",
             "species": "parkeri",
-            "length": "8.2m",
+            "length": 8.2,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4774,7 +4774,7 @@
             "_id": "type$177",
             "dinosaurType": "ceratopsian",
             "species": "gobiensis",
-            "length": "0.5m",
+            "length": 0.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4801,7 +4801,7 @@
             "_id": "type$178",
             "dinosaurType": "ceratopsian",
             "species": "hongtuyanensis",
-            "length": "0.6m",
+            "length": 0.6,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4828,7 +4828,7 @@
             "_id": "type$179",
             "dinosaurType": "small theropod",
             "species": "zhaoianus",
-            "length": "0.8m",
+            "length": 0.8,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4855,7 +4855,7 @@
             "_id": "type$180",
             "dinosaurType": "armoured dinosaur",
             "species": "paravertebra",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4882,7 +4882,7 @@
             "_id": "type$181",
             "dinosaurType": "large theropod",
             "species": "jiangi",
-            "length": "5.7m",
+            "length": 5.7,
             "dietType": "carnivorous"
         },
         "period": {
@@ -4909,7 +4909,7 @@
             "_id": "type$182",
             "dinosaurType": "small theropod",
             "species": "olecranus",
-            "length": "1.0m"
+            "length": 1.0
         },
         "period": {
             "_id": "period",
@@ -4935,7 +4935,7 @@
             "_id": "type$183",
             "dinosaurType": "sauropod",
             "species": "patagonicus",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4962,7 +4962,7 @@
             "_id": "type$184",
             "dinosaurType": "euornithopod",
             "species": "langdoni",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -4989,7 +4989,7 @@
             "_id": "type$184",
             "dinosaurType": "large theropod",
             "species": "brevispinus",
-            "length": "4.4m",
+            "length": 4.4,
             "dietType": "omnivorous"
         },
         "period": {
@@ -5016,7 +5016,7 @@
             "_id": "type$185",
             "dinosaurType": "ceratopsian",
             "species": "hatcheri",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5043,7 +5043,7 @@
             "_id": "type$186",
             "dinosaurType": "sauropod",
             "species": "mongoliensis",
-            "length": "13.0m",
+            "length": 13.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5070,7 +5070,7 @@
             "_id": "type$187",
             "dinosaurType": "large theropod",
             "species": "salerii",
-            "length": "7.4m",
+            "length": 7.4,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5097,7 +5097,7 @@
             "_id": "type$188",
             "dinosaurType": "sauropod",
             "species": "australis",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5124,7 +5124,7 @@
             "_id": "type$189",
             "dinosaurType": "sauropod",
             "species": "taqueti",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5177,7 +5177,7 @@
             "_id": "type$191",
             "dinosaurType": "small theropod",
             "species": "leali",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5204,7 +5204,7 @@
             "_id": "type$192",
             "dinosaurType": "armoured dinosaur",
             "species": "textilis",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5231,7 +5231,7 @@
             "_id": "type$193",
             "dinosaurType": "small theropod",
             "species": "gobiensis",
-            "length": "1.6m",
+            "length": 1.6,
             "dietType": "omnivorous"
         },
         "period": {
@@ -5258,7 +5258,7 @@
             "_id": "type$194",
             "dinosaurType": "large theropod",
             "species": "mckinleyi",
-            "length": "5.3m",
+            "length": 5.3,
             "dietType": "omnivorous"
         },
         "period": {
@@ -5285,7 +5285,7 @@
             "_id": "type$195",
             "dinosaurType": "small theropod",
             "species": "thwazi",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5312,7 +5312,7 @@
             "_id": "type$196",
             "dinosaurType": "sauropod",
             "species": "junghsiensis",
-            "length": "20.0m",
+            "length": 20.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5339,7 +5339,7 @@
             "_id": "type$197",
             "dinosaurType": "sauropod",
             "species": "skarzynskii",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5366,7 +5366,7 @@
             "_id": "type$198",
             "dinosaurType": "small theropod",
             "species": "hermanni",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5393,7 +5393,7 @@
             "_id": "type$199",
             "dinosaurType": "large theropod",
             "species": "velox",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -5420,7 +5420,7 @@
             "_id": "type$200",
             "dinosaurType": "euornithopod",
             "species": "makelai",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5447,7 +5447,7 @@
             "_id": "type$201",
             "dinosaurType": "euornithopod",
             "species": "cubicularis",
-            "length": "2.1m",
+            "length": 2.1,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5474,7 +5474,7 @@
             "_id": "type$202",
             "dinosaurType": "euornithopod",
             "species": "rex",
-            "length": "1.4m",
+            "length": 1.4,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5501,7 +5501,7 @@
             "_id": "type$203",
             "dinosaurType": "euornithopod",
             "species": "nigeriensis",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5528,7 +5528,7 @@
             "_id": "type$204",
             "dinosaurType": "small theropod",
             "species": "philoceratops",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -5555,7 +5555,7 @@
             "_id": "type$205",
             "dinosaurType": "euornithopod",
             "species": "wyomingensis",
-            "length": "8.0m",
+            "length": 8.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5582,7 +5582,7 @@
             "_id": "type$206",
             "dinosaurType": "ceratopsian",
             "species": "canadensis",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5609,7 +5609,7 @@
             "_id": "type$207",
             "dinosaurType": "armoured dinosaur",
             "species": "mirus",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5636,7 +5636,7 @@
             "_id": "type$208",
             "dinosaurType": "euornithopod",
             "species": "caducus",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5662,7 +5662,7 @@
             "_id": "type$209",
             "dinosaurType": "sauropod",
             "species": "stromeri",
-            "length": "28.0m",
+            "length": 28.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5689,7 +5689,7 @@
             "_id": "type$210",
             "dinosaurType": "euornithopod",
             "species": "walkeri",
-            "length": "11.0m",
+            "length": 11.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5716,7 +5716,7 @@
             "_id": "type$211",
             "dinosaurType": "euornithopod",
             "species": "warrenae",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5743,7 +5743,7 @@
             "_id": "type$212",
             "dinosaurType": "sauropod",
             "species": "fariasi",
-            "length": "18.0m",
+            "length": 18.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5770,7 +5770,7 @@
             "_id": "type$213",
             "dinosaurType": "small theropod",
             "species": "polyodon",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5797,7 +5797,7 @@
             "_id": "type$214",
             "dinosaurType": "sauropod",
             "species": "conybearei",
-            "length": "25.0m",
+            "length": 25.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5824,7 +5824,7 @@
             "_id": "type$215",
             "dinosaurType": "ceratopsian",
             "species": "sternbergi",
-            "length": "6.8m",
+            "length": 6.8,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5851,7 +5851,7 @@
             "_id": "type$216",
             "dinosaurType": "large theropod",
             "species": "floresi",
-            "length": "4.2m",
+            "length": 4.2,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5878,7 +5878,7 @@
             "_id": "type$217",
             "dinosaurType": "armoured dinosaur",
             "species": "grangeri",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5905,7 +5905,7 @@
             "_id": "type$218",
             "dinosaurType": "sauropod",
             "species": "engelhardti",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -5934,7 +5934,7 @@
             "_id": "type$219",
             "dinosaurType": "small theropod",
             "species": "holyokensis",
-            "length": "0.9m",
+            "length": 0.9,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5961,7 +5961,7 @@
             "_id": "type$220",
             "dinosaurType": "large theropod",
             "species": "bucklandii",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -5988,7 +5988,7 @@
             "_id": "type$221",
             "dinosaurType": "armoured dinosaur",
             "species": "foxii",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6015,7 +6015,7 @@
             "_id": "type$222",
             "dinosaurType": "euornithopod",
             "species": "prenes",
-            "length": "2.4m",
+            "length": 2.4,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6042,7 +6042,7 @@
             "_id": "type$223",
             "dinosaurType": "euornithopod",
             "species": "gobiensis",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6069,7 +6069,7 @@
             "_id": "type$224",
             "dinosaurType": "small theropod",
             "species": "bradleyi",
-            "length": "4.1m",
+            "length": 4.1,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6096,7 +6096,7 @@
             "_id": "type$224",
             "dinosaurType": "small theropod",
             "species": "triassicus",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6123,7 +6123,7 @@
             "_id": "type$225",
             "dinosaurType": "euornithopod",
             "species": "maximus",
-            "length": "7.6m",
+            "length": 7.6,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6150,7 +6150,7 @@
             "_id": "type$226",
             "dinosaurType": "small theropod",
             "species": "robusta",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6177,7 +6177,7 @@
             "_id": "type$227",
             "dinosaurType": "ceratopsian",
             "species": "andrewsi",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6204,7 +6204,7 @@
             "_id": "type$228",
             "dinosaurType": "euornithopod",
             "species": "byrdi",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6231,7 +6231,7 @@
             "_id": "type$229",
             "dinosaurType": "ceratopsian",
             "species": "mongoliensis",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6258,7 +6258,7 @@
             "_id": "type$",
             "dinosaurType": "sauropod",
             "species": "orientalis",
-            "length": "23.0m",
+            "length": 23.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6285,7 +6285,7 @@
             "_id": "type$230",
             "dinosaurType": "sauropod",
             "species": "garasbae",
-            "length": "20.0m",
+            "length": 20.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6312,7 +6312,7 @@
             "_id": "type$231",
             "dinosaurType": "euornithopod",
             "species": "priscus",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6339,7 +6339,7 @@
             "_id": "type$232",
             "dinosaurType": "sauropod",
             "species": "brownei",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6366,7 +6366,7 @@
             "_id": "type$233",
             "dinosaurType": "small theropod",
             "species": "mongoliensis",
-            "length": "2.5m",
+            "length": 2.5,
             "dietType": "omnivorous"
         },
         "period": {
@@ -6393,7 +6393,7 @@
             "_id": "type$234",
             "dinosaurType": "sauropod",
             "species": "incertus",
-            "length": "5.15m",
+            "length": 5.15,
             "dietType": "herbivorous/omnivorous"
         },
         "period": {
@@ -6420,7 +6420,7 @@
             "_id": "type$235",
             "dinosaurType": "large theropod",
             "species": "primus",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6447,7 +6447,7 @@
             "_id": "type$236",
             "dinosaurType": "armoured dinosaur",
             "species": "chulsanensis",
-            "length": "6.6m",
+            "length": 6.6,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6474,7 +6474,7 @@
             "_id": "type$237",
             "dinosaurType": "sauropod",
             "species": "loricatus",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6527,7 +6527,7 @@
             "_id": "type$239",
             "dinosaurType": "small theropod",
             "species": "woodi",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6554,7 +6554,7 @@
             "_id": "type$240",
             "dinosaurType": "euornithopod",
             "species": "osborni",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6582,7 +6582,7 @@
             "_id": "type$241",
             "dinosaurType": "armoured dinosaur",
             "species": "edwardsorum",
-            "length": "6.5m",
+            "length": 6.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6609,7 +6609,7 @@
             "_id": "type$242",
             "dinosaurType": "large theropod",
             "species": "maximus",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6636,7 +6636,7 @@
             "_id": "type$243",
             "dinosaurType": "small theropod",
             "species": "mongoliensis",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6663,7 +6663,7 @@
             "_id": "type$244",
             "dinosaurType": "armoured dinosaur",
             "species": "harrisonii",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6690,7 +6690,7 @@
             "_id": "type$245",
             "dinosaurType": "armoured dinosaur",
             "species": "lawleri",
-            "length": "1.2m",
+            "length": 1.2,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6717,7 +6717,7 @@
             "_id": "type$246",
             "dinosaurType": "euornithopod",
             "species": "koerneri",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6744,7 +6744,7 @@
             "_id": "type$247",
             "dinosaurType": "small theropod",
             "species": "halli",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6771,7 +6771,7 @@
             "_id": "type$248",
             "dinosaurType": "large theropod",
             "species": "galbinensis",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6824,7 +6824,7 @@
             "_id": "type$250",
             "dinosaurType": "small theropod",
             "species": "ashile",
-            "length": "0.45m",
+            "length": 0.45,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6851,7 +6851,7 @@
             "_id": "type$251",
             "dinosaurType": "euornithopod",
             "species": "giganteus",
-            "length": "15.0m",
+            "length": 15.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6878,7 +6878,7 @@
             "_id": "type$252",
             "dinosaurType": "sauropod",
             "species": "lii",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6905,7 +6905,7 @@
             "_id": "type$253",
             "dinosaurType": "small theropod",
             "species": "deserti",
-            "length": "0.6m",
+            "length": 0.6,
             "dietType": "omnivorous"
         },
         "period": {
@@ -6932,7 +6932,7 @@
             "_id": "type$254",
             "dinosaurType": "armoured dinosaur",
             "species": "condrayi",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -6959,7 +6959,7 @@
             "_id": "type$255",
             "dinosaurType": "small theropod",
             "species": "gigas",
-            "length": "2.37m",
+            "length": 2.37,
             "dietType": "carnivorous"
         },
         "period": {
@@ -6986,7 +6986,7 @@
             "_id": "type$256",
             "dinosaurType": "small theropod",
             "species": "millenii",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7013,7 +7013,7 @@
             "_id": "type$257",
             "dinosaurType": "small theropod",
             "species": "prima",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7040,7 +7040,7 @@
             "_id": "type$258",
             "dinosaurType": "small theropod",
             "species": "changii",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7067,7 +7067,7 @@
             "_id": "type$259",
             "dinosaurType": "large theropod",
             "species": "hepingensis",
-            "length": "7.6m",
+            "length": 7.6,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7094,7 +7094,7 @@
             "_id": "type$260",
             "dinosaurType": "sauropod",
             "species": "saihangaobiensis",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7121,7 +7121,7 @@
             "_id": "type$261",
             "dinosaurType": "large theropod",
             "species": "aegyptiacus",
-            "length": "18.0m",
+            "length": 18.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7148,7 +7148,7 @@
             "_id": "type$262",
             "dinosaurType": "large theropod",
             "species": "pricei",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7175,7 +7175,7 @@
             "_id": "type$263",
             "dinosaurType": "euornithopod",
             "species": "validum",
-            "length": "2.4m",
+            "length": 2.4,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7202,7 +7202,7 @@
             "_id": "type$264",
             "dinosaurType": "armoured dinosaur",
             "species": "armatus",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7229,7 +7229,7 @@
             "_id": "type$265",
             "dinosaurType": "ceratopsian",
             "species": "valdensis",
-            "length": "1.5m",
+            "length": 1.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7256,7 +7256,7 @@
             "_id": "type$266",
             "dinosaurType": "small theropod",
             "species": "altus",
-            "length": "4.0m",
+            "length": 4.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -7283,7 +7283,7 @@
             "_id": "type$267",
             "dinosaurType": "armoured dinosaur",
             "species": "austriacus",
-            "length": "2.5m",
+            "length": 2.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7310,7 +7310,7 @@
             "_id": "type$268",
             "dinosaurType": "ceratopsian",
             "species": "albertensis",
-            "length": "5.5m",
+            "length": 5.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7337,7 +7337,7 @@
             "_id": "type$269",
             "dinosaurType": "large theropod",
             "species": "tenerensis",
-            "length": "11.0m",
+            "length": 11.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7364,7 +7364,7 @@
             "_id": "type$270",
             "dinosaurType": "sauropod",
             "species": "vivianae",
-            "length": "35.0m",
+            "length": 35.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7391,7 +7391,7 @@
             "_id": "type$271",
             "dinosaurType": "armoured dinosaur",
             "species": "plicatospineus",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7444,7 +7444,7 @@
             "_id": "type$273",
             "dinosaurType": "large theropod",
             "species": "bataar",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7471,7 +7471,7 @@
             "_id": "type$274",
             "dinosaurType": "armoured dinosaur",
             "species": "gigantea",
-            "length": "8.5m",
+            "length": 8.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7498,7 +7498,7 @@
             "_id": "type$275",
             "dinosaurType": "euornithopod",
             "species": "transsylvanicus",
-            "length": "5.0m",
+            "length": 5.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7525,7 +7525,7 @@
             "_id": "type$276",
             "dinosaurType": "euornithopod",
             "species": "tillettorum",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7552,7 +7552,7 @@
             "_id": "type$277",
             "dinosaurType": "sauropod",
             "species": "antiquus",
-            "length": "2.5m",
+            "length": 2.5,
             "dietType": "omnivorous"
         },
         "period": {
@@ -7604,7 +7604,7 @@
             "_id": "type$279",
             "dinosaurType": "euornithopod",
             "species": "neglectus",
-            "length": "3.5m",
+            "length": 3.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7631,7 +7631,7 @@
             "_id": "type$280",
             "dinosaurType": "ceratopsian",
             "species": "latus",
-            "length": "7.5m",
+            "length": 7.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7658,7 +7658,7 @@
             "_id": "type$281",
             "dinosaurType": "large theropod",
             "species": "tanneri",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7685,7 +7685,7 @@
             "_id": "type$282",
             "dinosaurType": "ceratopsian",
             "species": "horridus",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7712,7 +7712,7 @@
             "_id": "type$283",
             "dinosaurType": "small theropod",
             "species": "formosus",
-            "length": "2.0m",
+            "length": 2.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7765,7 +7765,7 @@
             "_id": "type$285",
             "dinosaurType": "euornithopod",
             "species": "spinorhinus",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7792,7 +7792,7 @@
             "_id": "type$286",
             "dinosaurType": "armoured dinosaur",
             "species": "multispinus",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7819,7 +7819,7 @@
             "_id": "type$287",
             "dinosaurType": "euornithopod",
             "species": "gilmorei",
-            "length": "1.4m",
+            "length": 1.4,
             "dietType": "herbivorous"
         },
         "period": {
@@ -7846,7 +7846,7 @@
             "_id": "type$288",
             "dinosaurType": "large theropod",
             "species": "rex",
-            "length": "12.0m",
+            "length": 12.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7899,7 +7899,7 @@
             "_id": "type$290",
             "dinosaurType": "small theropod",
             "species": "comahuensis",
-            "length": "2.4m",
+            "length": 2.4,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7926,7 +7926,7 @@
             "_id": "type$291",
             "dinosaurType": "small theropod",
             "species": "itemirensis",
-            "length": "1.0m",
+            "length": 1.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7953,7 +7953,7 @@
             "_id": "type$292",
             "dinosaurType": "large theropod",
             "species": "ostrommaysorum",
-            "length": "6.0m",
+            "length": 6.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -7980,7 +7980,7 @@
             "_id": "type$293",
             "dinosaurType": "euornithopod",
             "species": "canaliculatus",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8007,7 +8007,7 @@
             "_id": "type$294",
             "dinosaurType": "small theropod",
             "species": "mongoliensis",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "carnivorous"
         },
         "period": {
@@ -8034,7 +8034,7 @@
             "_id": "type$295",
             "dinosaurType": "sauropod",
             "species": "karibaensis",
-            "length": "6.5m",
+            "length": 6.5,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8061,7 +8061,7 @@
             "_id": "type$296",
             "dinosaurType": "euornithopod",
             "species": "hongheensis",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8088,7 +8088,7 @@
             "_id": "type$297",
             "dinosaurType": "large theropod",
             "species": "shangyouensis",
-            "length": "10.0m",
+            "length": 10.0,
             "dietType": "carnivorous"
         },
         "period": {
@@ -8115,7 +8115,7 @@
             "_id": "type$298",
             "dinosaurType": "sauropod",
             "species": "youngi",
-            "length": "9.0m",
+            "length": 9.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8168,7 +8168,7 @@
             "_id": "type$300",
             "dinosaurType": "ceratopsian",
             "species": "downsi",
-            "length": "1.2m",
+            "length": 1.2,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8195,7 +8195,7 @@
             "_id": "type$301",
             "dinosaurType": "sauropod",
             "species": "jiangyiensis",
-            "length": "17.0m",
+            "length": 17.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8222,7 +8222,7 @@
             "_id": "type$302",
             "dinosaurType": "sauropod",
             "species": "huangi",
-            "length": "7.0m",
+            "length": 7.0,
             "dietType": "omnivorous"
         },
         "period": {
@@ -8249,7 +8249,7 @@
             "_id": "type$303",
             "dinosaurType": "euornithopod",
             "species": "robustus",
-            "length": "3.0m",
+            "length": 3.0,
             "dietType": "herbivorous"
         },
         "period": {
@@ -8276,7 +8276,7 @@
             "_id": "type$304",
             "dinosaurType": "euornithopod",
             "species": "schaffi",
-            "length": "1.8m",
+            "length": 1.8,
             "dietType": "herbivorous"
         },
         "period": {
