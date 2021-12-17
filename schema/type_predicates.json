@@ -4,7 +4,6 @@
         "name": "type/dinosaurType",
         "doc": "The type of dinosaur.",
         "type": "string",
-        "unique": true,
         "fullText": true
     },
     {
@@ -12,7 +11,6 @@
         "name": "type/species",
         "doc": "The type of species the dinosaur was.",
         "type": "string",
-        "unique": true,
         "fullText": true
     },
     {

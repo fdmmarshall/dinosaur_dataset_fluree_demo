@@ -1,7 +1,7 @@
 [
     {
         "_id": "_collection",
-        "name": "dino",
+        "name": "dinos",
         "doc": "A collection of dinosaurs with all relevent information."
     },
     {
@@ -12,11 +12,11 @@
     {
         "_id": "_collection",
         "name": "period",
-        "doc": "A collection of time the periods when specific dinosaurs lived."
+        "doc": "A collection of time periods and details when specific dinosaurs lived."
     },
     {
         "_id": "_collection",
         "name": "taxonomy",
-        "doc": "A collection of taxonomy details for each dinosaur."
+        "doc": "A collection of taxonomy information for each dinosaur."
     }
 ]

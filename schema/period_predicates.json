@@ -4,7 +4,6 @@
         "name": "period/periodName",
         "doc": "The formal name given to the dinosaur.",
         "type": "string",
-        "unique": true,
         "fullText": true
     },
     {
