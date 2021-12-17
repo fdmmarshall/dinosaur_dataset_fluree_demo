@@ -1,23 +1,24 @@
 [
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "period/periodName",
         "doc": "The formal name given to the dinosaur.",
         "type": "string",
-        "unique": "true",
-        "fullText": "true"
+        "unique": true,
+        "fullText": true
     },
     {
-        "id": "_predicate",
+        "_id": "_predicate",
         "name": "period/years",
         "doc": "The english language translation of the dinosaur's name.",
-        "type": "int"
+        "type": "string"
     },
     {
-        "id": "_predicate",
-        "name": "period/dinosaurLocation",
+        "_id": "_predicate",
+        "name": "period/location",
         "doc": "The diet type a specific dinosaur had.",
         "type": "string",
-        "multi": "true"
+        "fullText": true,
+        "multi": true
     }
 ]

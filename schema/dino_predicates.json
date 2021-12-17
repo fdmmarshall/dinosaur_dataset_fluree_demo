@@ -24,15 +24,6 @@
     },
     {
         "_id": "_predicate",
-        "name": "dino/livedIn",
-        "doc": "The region in which the dinosaur lived in.",
-        "type": "ref",
-        "restrictCollection": "period",
-        "fullText": true,
-        "multi": true
-    },
-    {
-        "_id": "_predicate",
         "name": "dino/dinoType",
         "doc": "The type of dinosaur.",
         "type": "ref",

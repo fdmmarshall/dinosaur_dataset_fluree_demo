@@ -1,21 +1,21 @@
 [
     {
-        "id": "_predicate",
-        "name": "taxonomyDetails/taxonomy",
+        "_id": "_predicate",
+        "name": "taxonomy/taxonomyDetails",
         "doc": "The classification of dinosaur.",
         "type": "string"
     },
     {
-        "id": "_predicate",
-        "name": "taxonomyDetails/namedBy",
+        "_id": "_predicate",
+        "name": "taxonomy/namedBy",
         "doc": "The scientist/s who named the dinosaur.",
         "type": "string",
-        "unique": "true",
-        "fullText": "true"
+        "unique": true,
+        "fullText": true
     },
     {
-        "id": "_predicate",
-        "name": "taxonomyDetails/species",
+        "_id": "_predicate",
+        "name": "taxonomy/species",
         "doc": "The species of dinosaur.",
         "type": "ref",
         "restrictCollection": "type"
