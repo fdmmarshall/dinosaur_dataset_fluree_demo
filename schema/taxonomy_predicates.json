@@ -1,7 +1,7 @@
 [
     {
         "_id": "_predicate",
-        "name": "taxonomy/taxonomyDetails",
+        "name": "taxonomy/details",
         "doc": "The classification of dinosaur.",
         "type": "string"
     },
@@ -10,7 +10,6 @@
         "name": "taxonomy/namedBy",
         "doc": "The scientist/s who named the dinosaur.",
         "type": "string",
-        "unique": true,
         "fullText": true
     },
     {

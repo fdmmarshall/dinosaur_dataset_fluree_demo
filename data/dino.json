@@ -20,7 +20,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$1",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria",
             "namedBy": "Yates Bonnan Neveling Chinsamy and Blackbeard 2010 (2009)",
             "species": "type$1"
         },
@@ -47,7 +47,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$2",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae Abelisaurinae",
             "namedBy": "Bonaparte and Novas (1985)",
             "species": "type$2"
         },
@@ -74,7 +74,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$3",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "Sampson  (1995)",
             "species": "type$3"
         },
@@ -101,7 +101,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$4",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Perle Norell and Clark (1999)",
             "species": "type$4"
         },
@@ -128,7 +128,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$5",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
             "namedBy": "Stovall and Langston (1950)",
             "species": "type$5"
         },
@@ -155,7 +155,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$6",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Stromer (1932)",
             "species": "type$6"
         },
@@ -182,7 +182,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$7",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
             "namedBy": "Sereno Wilson Larsson Dutheil and Sues (1944)",
             "species": "type$7"
         },
@@ -209,7 +209,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$8",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Peng (1990)",
             "species": "type$8"
         },
@@ -236,7 +236,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$9",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "Gilmore (1922)",
             "species": "type$9"
         },
@@ -263,7 +263,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$10",
-            "taxonomyDetails": "Dinosauria Ornithischia",
+            "details": "Dinosauria Ornithischia",
             "namedBy": "Ryan 2007",
             "species": "type$10"
         },
@@ -290,7 +290,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$11",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
             "namedBy": "Lamb (1914)",
             "species": "type$11"
         },
@@ -317,7 +317,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$12",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
             "namedBy": "Gilmore (1933)",
             "species": "type$12"
         },
@@ -344,7 +344,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$13",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
             "namedBy": "Kurzanov (1976)",
             "species": "type$13"
         },
@@ -371,7 +371,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$14",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
             "namedBy": "Marsh (1877)",
             "species": "type$14"
         },
@@ -398,7 +398,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$15",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
             "namedBy": "Bonaparte (1991)",
             "species": "type$15"
         },
@@ -425,7 +425,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$16",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
             "namedBy": "Salgado and Bonaparte (1991)",
             "species": "type$16"
         },
@@ -452,7 +452,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$17",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
             "namedBy": "Marsh (1891)",
             "species": "type$17"
         },
@@ -479,7 +479,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$18",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "Le Loeuff (1995)",
             "species": "type$18"
         },
@@ -506,7 +506,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$19",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Cabrera (1947)",
             "species": "type$19"
         },
@@ -533,7 +533,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$20",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Brown (1914)",
             "species": "type$20"
         },
@@ -560,7 +560,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$21",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Anchisauridae",
             "namedBy": "Marsh (1885)",
             "species": "type$21"
         },
@@ -587,7 +587,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$22",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Brown (1908)",
             "species": "type$22"
         },
@@ -614,7 +614,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$23",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Barsbold (1988)",
             "species": "type$23"
         },
@@ -641,7 +641,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$24",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "von Huene (1929)",
             "species": "type$24"
         },
@@ -668,7 +668,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$25",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
             "namedBy": "Marsh (1877)",
             "species": "type$25"
         },
@@ -695,7 +695,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$26",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Sanz Buscalioni Casanovas and Sanafé (1987)",
             "species": "type$26"
         },
@@ -722,7 +722,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$27",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Rozhdestvensky (1968)",
             "species": "type$27"
         },
@@ -749,7 +749,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$28",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
             "namedBy": "Dong and Azuma (1987)",
             "species": "type$28"
         },
@@ -776,7 +776,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$29",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Archaeopterygidae",
             "namedBy": "Mayer (1861)",
             "species": "type$29"
         },
@@ -803,7 +803,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$30",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Russell (1972)",
             "species": "type$30"
         },
@@ -830,7 +830,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$31",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Bonaparte and Coria (1993)",
             "species": "type$31"
         },
@@ -857,7 +857,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$32",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Parks (1925)",
             "species": "type$32"
         },
@@ -884,7 +884,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$33",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Rich and Rich (1989)",
             "species": "type$33"
         },
@@ -911,7 +911,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$34",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
             "namedBy": "Coria Chiappe and Dingus (2002)",
             "species": "type$34"
         },
@@ -938,7 +938,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$35",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Longman (1933)",
             "species": "type$35"
         },
@@ -965,7 +965,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$36",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "Dodson (1986)",
             "species": "type$36"
         },
@@ -992,7 +992,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$37",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Avimimidae",
             "namedBy": "Kurzanov (1981)",
             "species": "type$37"
         },
@@ -1019,7 +1019,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$38",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Gilmore (1933)",
             "species": "type$38"
         },
@@ -1046,7 +1046,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$39",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Bagaceratopsidae",
             "namedBy": "Maryanska and Osmolska (1975)",
             "species": "type$39"
         },
@@ -1073,7 +1073,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$40",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Burnham Derstler Currie Bakker Zhou and Ostrom (2000)",
             "species": "type$40"
         },
@@ -1100,7 +1100,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$41",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
             "namedBy": "Jain Kutty Roy-Chowdhury and Chatterjee (1975)",
             "species": "type$41"
         },
@@ -1127,7 +1127,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$42",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
             "namedBy": "Marsh (1890)",
             "species": "type$42"
         },
@@ -1154,7 +1154,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$43",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
             "namedBy": "Charig and Milner (1987)",
             "species": "type$43"
         },
@@ -1181,7 +1181,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$44",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
             "namedBy": "Paul (1988)",
             "species": "type$44"
         },
@@ -1208,7 +1208,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$45",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea",
             "namedBy": "Xu Tang and Wang (1999)",
             "species": "type$45"
         },
@@ -1235,7 +1235,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$46",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
             "namedBy": "Dong and Azuma (1990)",
             "species": "type$46"
         },
@@ -1262,7 +1262,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$47",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Osmólska (1987)",
             "species": "type$47"
         },
@@ -1289,7 +1289,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$48",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
             "namedBy": "Riggs (1903)",
             "species": "type$48"
         },
@@ -1316,7 +1316,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$49",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "C. M. Sternberg (1953)",
             "species": "type$49"
         },
@@ -1343,7 +1343,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$50",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
             "namedBy": "Rauhut Remes Fechner Cladera and Puerta (2005)",
             "species": "type$50"
         },
@@ -1370,7 +1370,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$51",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae Unenlagiinae",
             "namedBy": "Makovicky Apesteguía &amp; Agnolin (2005)",
             "species": "type$51"
         },
@@ -1397,7 +1397,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$52",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
             "namedBy": "Cope (1877)",
             "species": "type$52"
         },
@@ -1424,7 +1424,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$53",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia",
             "namedBy": "Marsh (1885)",
             "species": "type$53"
         },
@@ -1451,7 +1451,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$54",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
             "namedBy": "Stromer (1931)",
             "species": "type$54"
         },
@@ -1478,7 +1478,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$55",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
             "namedBy": "Bonaparte (1985)",
             "species": "type$55"
         },
@@ -1505,7 +1505,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$56",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caudipterygidae",
             "namedBy": "Ji Currie Norell and Ji. (1998)",
             "species": "type$56"
         },
@@ -1532,7 +1532,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$57",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Carpenter Kirkland Burge and Bird (2001)",
             "species": "type$57"
         },
@@ -1558,7 +1558,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$58",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "apertus"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html"
@@ -1584,7 +1584,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$59",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
             "namedBy": "Marsh (1884)",
             "species": "type$59"
         },
@@ -1611,7 +1611,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$60",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea",
             "namedBy": "von Huene (1927)",
             "species": "type$60"
         },
@@ -1638,7 +1638,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$61",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
             "namedBy": "Phillips (1871)",
             "species": "type$61"
         },
@@ -1665,7 +1665,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$62",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
             "namedBy": "Zhao Cheng and Xu (1999)",
             "species": "type$62"
         },
@@ -1692,7 +1692,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$63",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "species": "type$63"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html"
@@ -1718,7 +1718,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$64",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Herrerasauridae",
+            "details": "Dinosauria Saurischia Theropoda Herrerasauridae",
             "namedBy": "Long and Murry (1995)",
             "species": "type$64"
         },
@@ -1745,7 +1745,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$65",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
             "namedBy": "Yeh (1975)",
             "species": "type$65"
         },
@@ -1772,7 +1772,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$66",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
             "namedBy": "Gilmore (1924)",
             "species": "type$66"
         },
@@ -1799,7 +1799,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$67",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Corro (1974)",
             "species": "type$67"
         },
@@ -1826,7 +1826,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$68",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Dong Zhou and Zhang (1983)",
             "species": "type$68"
         },
@@ -1853,7 +1853,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$69",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
             "namedBy": "Clark Norell and Barsbold (2001)",
             "species": "type$69"
         },
@@ -1880,7 +1880,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$70",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
             "species": "type$70"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
@@ -1906,7 +1906,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$71",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
             "namedBy": "Marsh (1879)",
             "species": "type$71"
         },
@@ -1933,7 +1933,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$72",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
             "namedBy": "Bonaparte (1978)",
             "species": "type$72"
         },
@@ -1960,7 +1960,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$73",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
             "namedBy": "Wagner (1859)",
             "species": "type$73"
         },
@@ -1987,7 +1987,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$74",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
             "namedBy": "Barsbold (1986)",
             "species": "type$74"
         },
@@ -2014,7 +2014,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$75",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Avialae Ornithurae Avibrevicauda Pygostylia Confuciusornithidae",
             "namedBy": "Hou Zhou Gu and Zhang (1995)",
             "species": "type$75"
         },
@@ -2041,7 +2041,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$76",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Brown (1914)",
             "species": "type$76"
         },
@@ -2068,7 +2068,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$77",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
             "namedBy": "Hammer and Hickerson (1994)",
             "species": "type$77"
         },
@@ -2095,7 +2095,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$78",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae",
             "namedBy": "Lucas (1902)",
             "species": "type$78"
         },
@@ -2122,7 +2122,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$79",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
             "namedBy": "Russell (1970)",
             "species": "type$79"
         },
@@ -2149,7 +2149,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$80",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
             "namedBy": "Dong and Tang (1984)",
             "species": "type$80"
         },
@@ -2176,7 +2176,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$81",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
             "namedBy": "Osmólska and Roniewicz (1970)",
             "species": "type$81"
         },
@@ -2203,7 +2203,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$82",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Ostrom (1969)",
             "species": "type$82"
         },
@@ -2230,7 +2230,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$83",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
             "namedBy": "Sereno Duthiel Iarochene Larsson Lyon Magwene Sidor Varricchio and Wilson (1996)",
             "species": "type$83"
         },
@@ -2257,7 +2257,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$84",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Dicraeosauridae",
             "namedBy": "Janensch (1914)",
             "species": "type$84"
         },
@@ -2284,7 +2284,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$85",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Dilophosauridae",
             "species": "type$85"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
@@ -2310,7 +2310,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$86",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
             "namedBy": "Marsh (1878)",
             "species": "type$86"
         },
@@ -2337,7 +2337,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$87",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Matthew and Brown (1922)",
             "species": "type$87"
         },
@@ -2364,7 +2364,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$88",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Parks (1926)",
             "species": "type$88"
         },
@@ -2391,7 +2391,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$89",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
             "namedBy": "Marsh (1894)",
             "species": "type$89"
         },
@@ -2418,7 +2418,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$90",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
             "namedBy": "Cope (1866)",
             "species": "type$90"
         },
@@ -2444,7 +2444,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$91",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
             "namedBy": "Allain (2005)",
             "species": "type$91"
         },
@@ -2471,7 +2471,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$92",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Sternberg (1928)",
             "species": "type$92"
         },
@@ -2498,7 +2498,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$93",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Lambe (1917)",
             "species": "type$93"
         },
@@ -2525,7 +2525,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$94",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "Sampson  (1995)",
             "species": "type$94"
         },
@@ -2552,7 +2552,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$95",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
             "namedBy": "Janensch (1920)",
             "species": "type$95"
         },
@@ -2579,7 +2579,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$96",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora",
             "namedBy": "Haubold (1991)",
             "species": "type$96"
         },
@@ -2605,7 +2605,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$97",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Kirkland (1998)",
             "species": "type$97"
         },
@@ -2632,7 +2632,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$98",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda",
+            "details": "Dinosauria Saurischia Theropoda",
             "namedBy": "Sereno Forster Rogers and Monetta (1993)",
             "species": "type$98"
         },
@@ -2658,7 +2658,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$99",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
             "namedBy": "Hutt Naish Martill Barker and Newberry (2001)",
             "species": "type$99"
         },
@@ -2684,7 +2684,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$100",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "You Luo Shubin Witmer Tang and Tang (2003)",
             "species": "type$100"
         },
@@ -2710,7 +2710,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$101",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Ksepka and Norell (2006)",
             "species": "type$101"
         },
@@ -2737,7 +2737,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$102",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Perle vide Barsbold and Perle (1980)",
             "species": "type$102"
         },
@@ -2764,7 +2764,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$103",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Wiman (1929)",
             "species": "type$103"
         },
@@ -2791,7 +2791,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$104",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "species": "type$104"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/euoplocephalus.html"
@@ -2817,7 +2817,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$105",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
             "namedBy": "Sander Mateus Laven and Knötschke (2006)",
             "species": "type$105"
         },
@@ -2844,7 +2844,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$106",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
             "namedBy": "Walker (1964)",
             "species": "type$106"
         },
@@ -2861,7 +2861,6 @@
             "length": 4.2,
             "diet": "carnivorous"
         },
-        "diet": "carnivorous",
         "period": {
             "_id": "period$107",
             "periodName": "Early Cretaceous",
@@ -2872,7 +2871,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$107",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
             "namedBy": "Azuma and Currie (2000)",
             "species": "type$107"
         },
@@ -2899,7 +2898,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$108",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Kobayashi and Azuma (2003)",
             "species": "type$108"
         },
@@ -2926,7 +2925,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$109",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Osmólska Roniewicz and Barsbold (1972)",
             "species": "type$109"
         },
@@ -2953,7 +2952,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$110",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
             "namedBy": "Carpenter Miles and Cloward (1998)",
             "species": "type$110"
         },
@@ -2980,7 +2979,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$111",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
             "namedBy": "Barsbold (1981)",
             "species": "type$111"
         },
@@ -3007,7 +3006,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$112",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
             "namedBy": "Dong and Tang (1985)",
             "species": "type$112"
         },
@@ -3034,7 +3033,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$113",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Coria and Salgado (1996)",
             "species": "type$113"
         },
@@ -3061,7 +3060,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$114",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
             "namedBy": "Kirkland (1998)",
             "species": "type$114"
         },
@@ -3088,7 +3087,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$115",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
             "namedBy": "Coria and Salgado (1995)",
             "species": "type$115"
         },
@@ -3115,7 +3114,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$116",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Brett-Surman (1979)",
             "species": "type$116"
         },
@@ -3142,7 +3141,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$117",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Brachiosauridae",
             "namedBy": "Janensch (1914)",
             "species": "type$117"
         },
@@ -3169,7 +3168,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$118",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Vickaryous Russell Currie and Zhao (2001)",
             "species": "type$118"
         },
@@ -3196,7 +3195,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$119",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Albertosaurinae",
             "namedBy": "Lamb (1914)",
             "species": "type$119"
         },
@@ -3223,7 +3222,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$120",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala",
             "namedBy": "Perle Maryańska and Osmólska (1982)",
             "species": "type$120"
         },
@@ -3249,7 +3248,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$121",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
             "namedBy": "Sereno (2000)",
             "species": "type$121"
         },
@@ -3276,7 +3275,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$122",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Lambe (1914)",
             "species": "type$122"
         },
@@ -3303,7 +3302,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$123",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda",
+            "details": "Dinosauria Saurischia Theropoda",
             "namedBy": "Bonaparte Ferigolo and Ribeiro (1999)",
             "species": "type$123"
         },
@@ -3330,7 +3329,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$124",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea",
             "namedBy": "Xu Clark Forster Norell Erickson Eberth Jia and Zhao (2006)",
             "species": "type$124"
         },
@@ -3357,7 +3356,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$125",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Leidy (1858)",
             "species": "type$125"
         },
@@ -3382,7 +3381,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$126",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria",
             "namedBy": "Zanno and Sampson (2005)",
             "species": "type$126"
         },
@@ -3409,7 +3408,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$127",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Camarasauridae",
             "namedBy": "Hatcher (1903)",
             "species": "type$127"
         },
@@ -3436,7 +3435,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$128",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
             "namedBy": "Barsbold and Perle (1984)",
             "species": "type$128"
         },
@@ -3463,7 +3462,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$129",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Herrerasauridae",
+            "details": "Dinosauria Saurischia Theropoda Herrerasauridae",
             "namedBy": "Reig (1963)",
             "species": "type$129"
         },
@@ -3490,7 +3489,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$130",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Carpenter Miles and Cloward (2001)",
             "species": "type$130"
         },
@@ -3517,7 +3516,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$131",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
             "namedBy": "Crompton and Charig (1962)",
             "species": "type$131"
         },
@@ -3544,7 +3543,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$132",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
             "namedBy": "Barsbold (1981)",
             "species": "type$132"
         },
@@ -3571,7 +3570,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$133",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea",
             "namedBy": "Maryańska and Osmólska (1974)",
             "species": "type$133"
         },
@@ -3598,7 +3597,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$134",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Huayangosauridae",
             "namedBy": "Dong Tang and Zhou (1982)",
             "species": "type$134"
         },
@@ -3625,7 +3624,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$135",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
             "namedBy": "Mantell (1833)",
             "species": "type$135"
         },
@@ -3652,7 +3651,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$136",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Brown (1913)",
             "species": "type$136"
         },
@@ -3679,7 +3678,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$137",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Hypsilophodontidae",
             "namedBy": "Huxley (1869)",
             "species": "type$137"
         },
@@ -3706,7 +3705,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$138",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Boulenger and van Beneden (1881)",
             "species": "type$138"
         },
@@ -3733,7 +3732,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$139",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria",
             "namedBy": "Huene and Matley (1933)",
             "species": "type$139"
         },
@@ -3760,7 +3759,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$140",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
             "namedBy": "Martill Cruickshank Frey Small and Clarke (1996)",
             "species": "type$140"
         },
@@ -3786,7 +3785,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$141",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "Jain and Bandyopadhyay (1997)",
             "species": "type$141"
         },
@@ -3813,7 +3812,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$142",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Wild (1991)",
             "species": "type$142"
         },
@@ -3840,7 +3839,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$143",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Riabinin (1939)",
             "species": "type$143"
         },
@@ -3867,7 +3866,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$144",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
             "namedBy": "Zhang and Yang (1995)",
             "species": "type$144"
         },
@@ -3893,7 +3892,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$145",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Wang and Xu (2001)",
             "species": "type$145"
         },
@@ -3920,7 +3919,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$146",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria",
             "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)",
             "species": "type$146"
         },
@@ -3947,7 +3946,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$147",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
             "namedBy": "Göhlich &amp; Chiappe (2006)",
             "species": "type$147"
         },
@@ -3974,7 +3973,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$148",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Hennig (1915)",
             "species": "type$148"
         },
@@ -4001,7 +4000,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$149",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Ingeniinae",
             "namedBy": "Clark Norell and Barsbold (2001)",
             "species": "type$149"
         },
@@ -4028,7 +4027,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$150",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
             "namedBy": "Yadagiri (1988)",
             "species": "type$150"
         },
@@ -4055,7 +4054,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$151",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Brown (1910)",
             "species": "type$151"
         },
@@ -4082,7 +4081,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$152",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Parks (1923)",
             "species": "type$152"
         },
@@ -4108,7 +4107,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$153",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
             "namedBy": "Bonaparte (1986)",
             "species": "type$153"
         },
@@ -4135,7 +4134,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$154",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Rich and Rich (1989)",
             "species": "type$154"
         },
@@ -4162,7 +4161,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$155",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
             "namedBy": "Brown (1914)",
             "species": "type$155"
         },
@@ -4188,7 +4187,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$156",
-            "taxonomyDetails": "Dinosauria Ornithischia",
+            "details": "Dinosauria Ornithischia",
             "namedBy": "Galton (1978)",
             "species": "type$156"
         },
@@ -4214,7 +4213,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$157",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
             "namedBy": "Xu Makovicky Wang Norell and You (2002)",
             "species": "type$157"
         },
@@ -4241,7 +4240,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$158",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Bonaparte González Riga and Apesteguía (2006)",
             "species": "type$158"
         },
@@ -4268,7 +4267,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$159",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda",
             "namedBy": "Huene (1934)",
             "species": "type$159"
         },
@@ -4295,7 +4294,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$160",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Xu Makovicky Wang Norell and You (1960)",
             "species": "type$160"
         },
@@ -4322,7 +4321,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$161",
-            "taxonomyDetails": "Dinosauria Saurischia",
+            "details": "Dinosauria Saurischia",
             "namedBy": "Ezcurra and Cuny 2007 (1993)",
             "species": "type$161"
         },
@@ -4349,7 +4348,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$162",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
             "namedBy": "Young (1941)",
             "species": "type$162"
         },
@@ -4376,7 +4375,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$163",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Taquet and Russell (1999)",
             "species": "type$163"
         },
@@ -4403,7 +4402,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$164",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Heterodontosauridae",
             "namedBy": "Haughton (1924)",
             "species": "type$164"
         },
@@ -4430,7 +4429,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$165",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "Nopcsa (1915)",
             "species": "type$165"
         },
@@ -4457,7 +4456,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$166",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Horner and Makela (1979)",
             "species": "type$166"
         },
@@ -4484,7 +4483,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$167",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
             "namedBy": "Sues &amp; Taquet (1979)",
             "species": "type$167"
         },
@@ -4511,7 +4510,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$168",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "Haughton (1928)",
             "species": "type$168"
         },
@@ -4538,7 +4537,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$169",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Young (1954)",
             "species": "type$169"
         },
@@ -4565,7 +4564,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$170",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae Charcharodontosauridae Giganotosaurinae",
             "namedBy": "Coria and Currie (2006)",
             "species": "type$170"
         },
@@ -4592,7 +4591,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$171",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda",
             "namedBy": "Madsen (1976)",
             "species": "type$171"
         },
@@ -4619,7 +4618,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$172",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
             "namedBy": "Sampson Carrano &amp; Forster (2001)",
             "species": "type$172"
         },
@@ -4646,7 +4645,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$173",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
             "namedBy": "Owen (1854)",
             "species": "type$173"
         },
@@ -4673,7 +4672,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$174",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae Saltasaurinae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae Saltasaurinae",
             "namedBy": "Kellner et al. (2006)",
             "species": "type$174"
         },
@@ -4700,7 +4699,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$175",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
             "namedBy": "Ritgen (1826)",
             "species": "type$175"
         },
@@ -4727,7 +4726,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$176",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
             "namedBy": "Haughton (1924)",
             "species": "type$176"
         },
@@ -4754,7 +4753,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$177",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae",
             "namedBy": "Walker (1964)",
             "species": "type$177"
         },
@@ -4781,7 +4780,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$178",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
             "namedBy": "Bohlin (1953)",
             "species": "type$178"
         },
@@ -4808,7 +4807,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$179",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
             "namedBy": "Dong (1978)",
             "species": "type$179"
         },
@@ -4835,7 +4834,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$180",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Xu Zhou and Wang (2000)",
             "species": "type$180"
         },
@@ -4862,7 +4861,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$181",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
             "namedBy": "Molnar (1980)",
             "species": "type$181"
         },
@@ -4889,7 +4888,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$182",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria",
             "namedBy": "Zhao and Currie (1993)",
             "species": "type$182"
         },
@@ -4915,7 +4914,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$183",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
             "namedBy": "Perle Norell Chiappe and Clark (1993)",
             "species": "type$183"
         },
@@ -4942,7 +4941,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$184",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
             "namedBy": "Bonaparte and Vince (1979)",
             "species": "type$184"
         },
@@ -4969,7 +4968,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$185",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Bartholomai and Molnar (1981)",
             "species": "type$185"
         },
@@ -4996,7 +4995,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$186",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Dong (1979)",
             "species": "type$186"
         },
@@ -5023,7 +5022,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$187",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Lull (1905)",
             "species": "type$185"
         },
@@ -5050,7 +5049,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$188",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
             "namedBy": "Nowinski (1971)",
             "species": "type$188"
         },
@@ -5077,7 +5076,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$189",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Carcharodontosauridae",
             "namedBy": "Hutt Martill and Barker (1996)",
             "species": "type$189"
         },
@@ -5104,7 +5103,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$190",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
             "namedBy": "Lydekker (1893)",
             "species": "type$190"
         },
@@ -5131,7 +5130,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$191",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
             "namedBy": "Sereno Beck Dutheil Larsson Lyon Moussa Sadleir Sidor Varricchio Wilson and Wilson (1999)",
             "species": "type$191"
         },
@@ -5157,7 +5156,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$192",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Nagao (1936)",
             "species": "type$192"
         },
@@ -5184,7 +5183,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$193",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauroidea Abelisauria",
             "namedBy": "Bonaparte and Powell (1980)",
             "species": "type$193"
         },
@@ -5211,7 +5210,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$194",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Marsh (1889)",
             "species": "type$194"
         },
@@ -5238,7 +5237,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$195",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Caenagnathidae",
             "namedBy": "Barsbold Osmólska Watabe Currie and Tsogtbaatar (2000)",
             "species": "type$195"
         },
@@ -5265,7 +5264,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$196",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Kirkland and Wolfe (2001)",
             "species": "type$196"
         },
@@ -5292,7 +5291,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$197",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
             "namedBy": "de Klerk Forster Sampson Chinsamy and Ross (2000)",
             "species": "type$197"
         },
@@ -5319,7 +5318,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$198",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Young (1939)",
             "species": "type$198"
         },
@@ -5346,7 +5345,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$199",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
             "namedBy": "Borsuk-Bialynicka  (1977)",
             "species": "type$199"
         },
@@ -5373,7 +5372,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$200",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
             "namedBy": "Osbourne (1933)",
             "species": "type$200"
         },
@@ -5400,7 +5399,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$201",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Marsh (1890)",
             "species": "type$201"
         },
@@ -5427,7 +5426,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$202",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Horner and Weishampel (1988)",
             "species": "type$202"
         },
@@ -5454,7 +5453,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$203",
-            "taxonomyDetails": "Dinosauria Ornithischia",
+            "details": "Dinosauria Ornithischia",
             "namedBy": "Varricchio Marin and Katsura (2007)",
             "species": "type$203"
         },
@@ -5481,7 +5480,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$204",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Marsh (1877)",
             "species": "type$204"
         },
@@ -5508,7 +5507,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$205",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Taquet (1976)",
             "species": "type$205"
         },
@@ -5535,7 +5534,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$206",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
             "namedBy": "Osborn (1924)",
             "species": "type$206"
         },
@@ -5562,7 +5561,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$207",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
             "namedBy": "Brown and Schlaikjer (1943)",
             "species": "type$207"
         },
@@ -5589,7 +5588,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$208",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "Sternberg (1950)",
             "species": "type$208"
         },
@@ -5616,7 +5615,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$209",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Lambe (1919)",
             "species": "type$209"
         },
@@ -5642,7 +5641,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$210",
-            "taxonomyDetails": "Dinosauria Saurischia",
+            "details": "Dinosauria Saurischia",
             "namedBy": "Galton Yates and Kermack 2007 (2003)",
             "species": "type$210"
         },
@@ -5669,7 +5668,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$211",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia",
             "namedBy": "Smith Lamanna Lacovara Dodson Smith Poole Giegengack and Attia (2001)",
             "species": "type$211"
         },
@@ -5696,7 +5695,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$212",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Parks (1922)",
             "species": "type$212"
         },
@@ -5723,7 +5722,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$213",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Sternberg (1937)",
             "species": "type$213"
         },
@@ -5750,7 +5749,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$214",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Cetiosauridae",
             "namedBy": "Bonaparte (1979)",
             "species": "type$214"
         },
@@ -5777,7 +5776,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$215",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria",
             "namedBy": "Pérez-Moreno Sanz Buscalioni Moratalla Ortega and Rasskin-Gutman (1994)",
             "species": "type$215"
         },
@@ -5804,7 +5803,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$216",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes",
             "namedBy": "Mantell (1850)",
             "species": "type$216"
         },
@@ -5831,7 +5830,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$217",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Osborn (1923)",
             "species": "type$217"
         },
@@ -5858,7 +5857,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$218",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Eustreptospondylinae",
             "namedBy": "Bonaparte (1979)",
             "species": "type$218"
         },
@@ -5885,7 +5884,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$219",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Gilmore (1933)",
             "species": "type$219"
         },
@@ -5914,7 +5913,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$219",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria Plateosauridae",
             "namedBy": "Meyer (1837)",
             "species": "type$219"
         },
@@ -5941,7 +5940,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$220",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
             "namedBy": "Talbot (1911)",
             "species": "type$220"
         },
@@ -5968,7 +5967,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$221",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
             "namedBy": "Eudes-Deslongchamps (1838)",
             "species": "type$221"
         },
@@ -5995,7 +5994,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$223",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria",
             "namedBy": "Hulke (1881)",
             "species": "type$223"
         },
@@ -6022,7 +6021,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$224",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
             "namedBy": "Maryańska and Osmólska (1974)",
             "species": "type$224"
         },
@@ -6049,7 +6048,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$225",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Rozhdestvensky (1966)",
             "species": "type$225"
         },
@@ -6076,7 +6075,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$226",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria",
             "namedBy": "Woodward (1910)",
             "species": "type$226"
         },
@@ -6103,7 +6102,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$227",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea",
             "namedBy": "Fraas (1913)",
             "species": "type$227"
         },
@@ -6130,7 +6129,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$228",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Brown (1916)",
             "species": "type$228"
         },
@@ -6157,7 +6156,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$229",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora",
             "namedBy": "Ji and Ji (1997)",
             "species": "type$229"
         },
@@ -6184,7 +6183,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$230",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
             "namedBy": "Granger and Gregory (1923)",
             "species": "type$230"
         },
@@ -6211,7 +6210,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$231",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea",
             "namedBy": "Head (1998)",
             "species": "type$231"
         },
@@ -6238,7 +6237,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$232",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Psittacosauridae",
             "namedBy": "Osborn (1923)",
             "species": "type$232"
         },
@@ -6265,7 +6264,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$233",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Nemegtosauridae",
             "namedBy": "Kurzanov and Bannikov (1983)",
             "species": "type$233"
         },
@@ -6292,7 +6291,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$234",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
             "namedBy": "Lavocat (1954)",
             "species": "type$234"
         },
@@ -6319,7 +6318,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$235",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
             "namedBy": "Matherton (1869)",
             "species": "type$235"
         },
@@ -6346,7 +6345,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$236",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
             "namedBy": "Longman (1926)",
             "species": "type$236"
         },
@@ -6373,7 +6372,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$237",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
             "namedBy": "Barsbold (1986)",
             "species": "type$237"
         },
@@ -6400,7 +6399,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$238",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
             "namedBy": "Bonaparte (1969)",
             "species": "type$238"
         },
@@ -6427,7 +6426,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$239",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
             "namedBy": "Sereno Wilson and Conrad (2004)",
             "species": "type$239"
         },
@@ -6454,7 +6453,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$240",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Maryañska (1977)",
             "species": "type$240"
         },
@@ -6481,7 +6480,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$241",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
             "namedBy": "Bonaparte and Powell (1980)",
             "species": "type$241"
         },
@@ -6507,7 +6506,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$242",
-            "taxonomyDetails": "Dinosauria",
+            "details": "Dinosauria",
             "namedBy": "Huene (1910)",
             "species": "type$242"
         },
@@ -6534,7 +6533,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$243",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
             "namedBy": "Andrews (1921)",
             "species": "type$243"
         },
@@ -6562,7 +6561,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$244",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Brown (1912)",
             "species": "type$244"
         },
@@ -6589,7 +6588,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$245",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Ostrom (1970)",
             "species": "type$245"
         },
@@ -6616,7 +6615,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$246",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
             "namedBy": "Chure (1996)",
             "species": "type$246"
         },
@@ -6643,7 +6642,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$247",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Osborn (1924)",
             "species": "type$247"
         },
@@ -6670,7 +6669,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$248",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
             "namedBy": "Owen (1868)",
             "species": "type$248"
         },
@@ -6697,7 +6696,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$249",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora",
             "namedBy": "Colbert (1981)",
             "species": "type$249"
         },
@@ -6724,7 +6723,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$250",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Brett-Surman (1979)",
             "species": "type$250"
         },
@@ -6751,7 +6750,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$251",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
             "namedBy": "Camp (1936)",
             "species": "type$251"
         },
@@ -6778,7 +6777,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$252",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Perle (1979)",
             "species": "type$252"
         },
@@ -6804,7 +6803,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$253",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Tumanova (1983)",
             "species": "type$253"
         },
@@ -6831,7 +6830,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$254",
-            "taxonomyDetails": "Dinosauria Saurischia",
+            "details": "Dinosauria Saurischia",
             "namedBy": "Turner Hwang and Norell (2007)",
             "species": "type$254"
         },
@@ -6858,7 +6857,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$255",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Hu (1973)",
             "species": "type$255"
         },
@@ -6885,7 +6884,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$256",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Dong Zhou and Zhang (1983)",
             "species": "type$256"
         },
@@ -6912,7 +6911,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$257",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
             "namedBy": "Chiappe Norell and Clark (1998)",
             "species": "type$257"
         },
@@ -6939,7 +6938,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$258",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Eaton (1960)",
             "species": "type$258"
         },
@@ -6966,7 +6965,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$259",
-            "taxonomyDetails": "Dinosauria Saurischia",
+            "details": "Dinosauria Saurischia",
             "namedBy": "Ji Ji Lü and Yuan (2007)",
             "species": "type$259"
         },
@@ -6993,7 +6992,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$260",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Xu Wang and Wu (1999)",
             "species": "type$260"
         },
@@ -7020,7 +7019,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$261",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
             "namedBy": "Ji and Ji (1996)",
             "species": "type$261"
         },
@@ -7047,7 +7046,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$262",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Xu Norell Wang Makovicky and Wu (2002)",
             "species": "type$262"
         },
@@ -7074,7 +7073,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$263",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
             "namedBy": "Gao (1992)",
             "species": "type$263"
         },
@@ -7101,7 +7100,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$264",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Xu Zhang Tan Zhao and Tan (2006)",
             "species": "type$264"
         },
@@ -7128,7 +7127,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$265",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
             "namedBy": "Stromer (1915)",
             "species": "type$265"
         },
@@ -7155,7 +7154,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$266",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Herrerasauridae",
+            "details": "Dinosauria Saurischia Theropoda Herrerasauridae",
             "namedBy": "Colbert (1970)",
             "species": "type$266"
         },
@@ -7182,7 +7181,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$267",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
             "namedBy": "Lambe (1902)",
             "species": "type$267"
         },
@@ -7209,7 +7208,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$268",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Marsh (1877)",
             "species": "type$268"
         },
@@ -7236,7 +7235,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$269",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
             "namedBy": "Meyer (1857)",
             "species": "type$269"
         },
@@ -7263,7 +7262,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$270",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Osborn (1917)",
             "species": "type$270"
         },
@@ -7290,7 +7289,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$271",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Bunzel (1871)",
             "species": "type$271"
         },
@@ -7317,7 +7316,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$272",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "Lambe (1913)",
             "species": "type$272"
         },
@@ -7344,7 +7343,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$273",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
             "namedBy": "Sereno Beck Dutheil Gado Larsson Lyon Marcot Rauhut Sadleir Sidor Varricchio Wilson and Wilson (1998)",
             "species": "type$273"
         },
@@ -7371,7 +7370,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$274",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
             "namedBy": "Jansen (1985)",
             "species": "type$274"
         },
@@ -7398,7 +7397,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$275",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Maleev (1952)",
             "species": "type$275"
         },
@@ -7424,7 +7423,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$276",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Wiman (1929)",
             "species": "type$276"
         },
@@ -7451,7 +7450,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$277",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
             "namedBy": "Maleev (1955)",
             "species": "type$277"
         },
@@ -7478,7 +7477,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$278",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
             "namedBy": "Maleev (1956)",
             "species": "type$278"
         },
@@ -7505,7 +7504,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$279",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Nopcsa (1900)",
             "species": "type$279"
         },
@@ -7532,7 +7531,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$280",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia",
             "namedBy": "Ostrom (1970)",
             "species": "type$280"
         },
@@ -7559,7 +7558,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$281",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
             "namedBy": "Morris (1843)",
             "species": "type$281"
         },
@@ -7584,7 +7583,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$282",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Maleev (1915)",
             "species": "type$282"
         },
@@ -7611,7 +7610,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$283",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Gilmore (1913)",
             "species": "type$283"
         },
@@ -7638,7 +7637,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$284",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Marsh (1891)",
             "species": "type$284"
         },
@@ -7665,7 +7664,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$285",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
             "namedBy": "Galton and Jensen (1979)",
             "species": "type$285"
         },
@@ -7692,7 +7691,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$286",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Marsh (1889)",
             "species": "type$286"
         },
@@ -7719,7 +7718,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$287",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Leidy (1856)",
             "species": "type$287"
         },
@@ -7745,7 +7744,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$288",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Tumanova (1993)",
             "species": "type$288"
         },
@@ -7772,7 +7771,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$289",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Young (1958)",
             "species": "type$289"
         },
@@ -7799,7 +7798,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$290",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Dong Li Zhou and Zhang (1973)",
             "species": "type$290"
         },
@@ -7826,7 +7825,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$291",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
             "namedBy": "Maryańska and Osmólska (1974)",
             "species": "type$291"
         },
@@ -7853,7 +7852,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$292",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
             "namedBy": "Osborn (1905)",
             "species": "type$292"
         },
@@ -7879,7 +7878,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$293",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
             "namedBy": "Kurzanov (1992)",
             "species": "type$293"
         },
@@ -7906,7 +7905,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$294",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Novas and Puerta (1997)",
             "species": "type$294"
         },
@@ -7933,7 +7932,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$295",
-            "taxonomyDetails": "Dinosauria Saurischia",
+            "details": "Dinosauria Saurischia",
             "namedBy": "Averianov and Sues (2007)",
             "species": "type$295"
         },
@@ -7960,7 +7959,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$296",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Kirkland Gaston and Burge (1993)",
             "species": "type$296"
         },
@@ -7987,7 +7986,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$297",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
             "namedBy": "Galton (1975)",
             "species": "type$297"
         },
@@ -8014,7 +8013,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$298",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Osborn (1924)",
             "species": "type$298"
         },
@@ -8041,7 +8040,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$299",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
             "namedBy": "Raath (1972)",
             "species": "type$299"
         },
@@ -8068,7 +8067,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$300",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "He (1979)",
             "species": "type$300"
         },
@@ -8095,7 +8094,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$301",
-            "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
+            "details": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
             "namedBy": "Dong Chang Li and Zhou (1978)",
             "species": "type$301"
         },
@@ -8122,7 +8121,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$302",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
             "namedBy": "Bai Yang and Wang (1990)",
             "species": "type$302"
         },
@@ -8148,7 +8147,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$303",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
+            "details": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
             "namedBy": "Watanabe (1992)",
             "species": "type$303"
         },
@@ -8175,7 +8174,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$304",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
             "namedBy": "Xu Forster Clark and Mo (2006)",
             "species": "type$304"
         },
@@ -8202,7 +8201,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$305",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
+            "details": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Lü Li Ji Wang Zhang and Dong (2006)",
             "species": "type$305"
         },
@@ -8229,7 +8228,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$306",
-            "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
+            "details": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
             "namedBy": "Young (1942)",
             "species": "type$306"
         },
@@ -8256,7 +8255,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$307",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
             "namedBy": "Nopcsa (1902)",
             "species": "type$307"
         },
@@ -8283,7 +8282,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$308",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Sues (1980)",
             "species": "type$308"
         },
@@ -8309,7 +8308,7 @@
         },
         "taxonomy": {
             "_id": "taxonomy$309",
-            "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
+            "details": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
             "namedBy": "Wolfe and Kirkland (1998)",
             "species": "type$309"
         },
