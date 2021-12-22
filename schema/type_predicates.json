@@ -17,7 +17,7 @@
         "_id": "_predicate",
         "name": "type/length",
         "doc": "The length the dinosaur measured in meters.",
-        "type": "int"
+        "type": "float"
     },
     {
         "_id": "_predicate",
