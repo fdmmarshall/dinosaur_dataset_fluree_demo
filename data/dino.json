@@ -6272,18 +6272,18 @@
         "link": "https://www.nhm.ac.uk/discover/dino-directory/quaesitosaurus.html"
     },
     {
-        "_id": "dinos$233",
+        "_id": "dinos$234",
         "dinosaurName": "Rebbachisaurus",
         "englishTranslation": "[Ait] Rebbach lizard",
         "dinoType": {
-            "_id": "type$233",
+            "_id": "type$234",
             "dinosaurType": "sauropod",
             "species": "garasbae",
             "length": 20.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$233",
+            "_id": "period$234",
             "periodName": "Early Cretaceous",
             "years": "112-99 million years ago",
             "location": [
@@ -6291,26 +6291,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$233",
+            "_id": "taxonomy$234",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Rebbachisauridae",
             "namedBy": "Lavocat (1954)",
-            "species": "type$233"
+            "species": "type$234"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rebbachisaurus.html"
     },
     {
-        "_id": "dinos$234",
+        "_id": "dinos$235",
         "dinosaurName": "Rhabdodon",
         "englishTranslation": "Rod tooth",
         "dinoType": {
-            "_id": "type$234",
+            "_id": "type$235",
             "dinosaurType": "euornithopod",
             "species": "priscus",
             "length": 4.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$234",
+            "_id": "period$235",
             "periodName": "Late Cretaceous",
             "years": "76-70 million years ago",
             "location": [
@@ -6318,26 +6318,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$234",
+            "_id": "taxonomy$235",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
             "namedBy": "Matherton (1869)",
-            "species": "type$234"
+            "species": "type$235"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rhabdodon.html"
     },
     {
-        "_id": "dinos$235",
+        "_id": "dinos$236",
         "dinosaurName": "Rhoetosaurus",
         "englishTranslation": "Rhoetan lizard",
         "dinoType": {
-            "_id": "type$235",
+            "_id": "type$236",
             "dinosaurType": "sauropod",
             "species": "brownei",
             "length": 15.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$235",
+            "_id": "period$236",
             "periodName": "Mid Jurassic",
             "years": "177-169 million years ago",
             "location": [
@@ -6345,26 +6345,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$235",
+            "_id": "taxonomy$236",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda",
             "namedBy": "Longman (1926)",
-            "species": "type$235"
+            "species": "type$236"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rhoetosaurus.html"
     },
     {
-        "_id": "dinos$236",
+        "_id": "dinos$237",
         "dinosaurName": "Rinchenia",
         "englishTranslation": "Rinchen",
         "dinoType": {
-            "_id": "type$236",
+            "_id": "type$237",
             "dinosaurType": "small theropod",
             "species": "mongoliensis",
             "length": 2.5,
             "diet": "omnivorous"
         },
         "period": {
-            "_id": "period$236",
+            "_id": "period$237",
             "periodName": "Late Cretaceous",
             "years": "72-68 million years ago",
             "location": [
@@ -6372,26 +6372,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$236",
+            "_id": "taxonomy$237",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Oviraptorosauria Caenagnathoidea Oviraptoridae Oviraptorinae",
             "namedBy": "Barsbold (1986)",
-            "species": "type$236"
+            "species": "type$237"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rinchenia.html"
     },
     {
-        "_id": "dinos$237",
+        "_id": "dinos$238",
         "dinosaurName": "Riojasaurus",
         "englishTranslation": "[La] Rioja lizard",
         "dinoType": {
-            "_id": "type$237",
+            "_id": "type$238",
             "dinosaurType": "sauropod",
             "species": "incertus",
             "length": 5.15,
             "diet": "herbivorous/omnivorous"
         },
         "period": {
-            "_id": "period$237",
+            "_id": "period$238",
             "periodName": "Late Triassic",
             "years": "221-210 million years ago",
             "location": [
@@ -6399,26 +6399,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$237",
+            "_id": "taxonomy$238",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Anchisauria Melanorosauridae",
             "namedBy": "Bonaparte (1969)",
-            "species": "type$237"
+            "species": "type$238"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html"
     },
     {
-        "_id": "dinos$238",
+        "_id": "dinos$239",
         "dinosaurName": "Rugops",
         "englishTranslation": "Wrinkle face",
         "dinoType": {
-            "_id": "type$238",
+            "_id": "type$239",
             "dinosaurType": "large theropod",
             "species": "primus",
             "length": 7.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$238",
+            "_id": "period$239",
             "periodName": "Late Cretaceous",
             "years": "95 million years ago",
             "location": [
@@ -6426,26 +6426,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$238",
+            "_id": "taxonomy$239",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria Neoceratosauria Abelisauridae",
             "namedBy": "Sereno Wilson and Conrad (2004)",
-            "species": "type$238"
+            "species": "type$239"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/rugops.html"
     },
     {
-        "_id": "dinos$238",
+        "_id": "dinos$240",
         "dinosaurName": "Saichania",
         "englishTranslation": "beautiful",
         "dinoType": {
-            "_id": "type$238",
+            "_id": "type$240",
             "dinosaurType": "armoured dinosaur",
             "species": "chulsanensis",
             "length": 6.6,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$238",
+            "_id": "period$240",
             "periodName": "late Cretaceous",
             "years": "80 million years ago",
             "location": [
@@ -6453,26 +6453,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$238",
+            "_id": "taxonomy$240",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Maryañska (1977)",
-            "species": "type$238"
+            "species": "type$240"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saichania.html"
     },
     {
-        "_id": "dinos$239",
+        "_id": "dinos$241",
         "dinosaurName": "Saltasaurus",
         "englishTranslation": "Salta lizard",
         "dinoType": {
-            "_id": "type$239",
+            "_id": "type$241",
             "dinosaurType": "sauropod",
             "species": "loricatus",
             "length": 12.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$239",
+            "_id": "period$241",
             "periodName": "Late Cretaceous",
             "years": "70-65 million years ago",
             "location": [
@@ -6480,25 +6480,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$239",
+            "_id": "taxonomy$241",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria Lithostrotia Saltasauridae",
             "namedBy": "Bonaparte and Powell (1980)",
-            "species": "type$239"
+            "species": "type$241"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html"
     },
     {
-        "_id": "dinos$240",
+        "_id": "dinos$242",
         "dinosaurName": "Saltopus",
         "englishTranslation": "Hopping foot",
         "dinoType": {
-            "_id": "type$240",
+            "_id": "type$242",
             "dinosaurType": "small theropod",
             "species": "elginensis",
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$240",
+            "_id": "period$242",
             "periodName": "Late Triassic",
             "years": "221-210 million years ago",
             "location": [
@@ -6506,26 +6506,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$240",
+            "_id": "taxonomy$242",
             "taxonomyDetails": "Dinosauria",
             "namedBy": "Huene (1910)",
-            "species": "type$240"
+            "species": "type$242"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saltopus.html"
     },
     {
-        "_id": "dinos$241",
+        "_id": "dinos$243",
         "dinosaurName": "Sarcosaurus",
         "englishTranslation": "Flesh lizard",
         "dinoType": {
-            "_id": "type$241",
+            "_id": "type$243",
             "dinosaurType": "small theropod",
             "species": "woodi",
             "length": 3.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$241",
+            "_id": "period$243",
             "periodName": "Early Triassic",
             "years": "202-195 million years ago",
             "location": [
@@ -6533,26 +6533,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$241",
+            "_id": "taxonomy$243",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Ceratosauria",
             "namedBy": "Andrews (1921)",
-            "species": "type$241"
+            "species": "type$243"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sarcosaurus.html"
     },
     {
-        "_id": "dinos$242",
+        "_id": "dinos$244",
         "dinosaurName": "Saurolophus",
         "englishTranslation": "Ridged lizard",
         "dinoType": {
-            "_id": "type$242",
+            "_id": "type$244",
             "dinosaurType": "euornithopod",
             "species": "osborni",
             "length": 9.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$242",
+            "_id": "period$244",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
             "location": [
@@ -6561,26 +6561,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$242",
+            "_id": "taxonomy$244",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Brown (1912)",
-            "species": "type$242"
+            "species": "type$244"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html"
     },
     {
-        "_id": "dinos$243",
+        "_id": "dinos$245",
         "dinosaurName": "Sauropelta",
         "englishTranslation": "lizard shield",
         "dinoType": {
-            "_id": "type$243",
+            "_id": "type$245",
             "dinosaurType": "armoured dinosaur",
             "species": "edwardsorum",
             "length": 6.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$243",
+            "_id": "period$245",
             "periodName": "Early Cretaceous",
             "years": "121-94 million years ago",
             "location": [
@@ -6588,26 +6588,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$243",
+            "_id": "taxonomy$245",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Ostrom (1970)",
-            "species": "type$243"
+            "species": "type$245"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html"
     },
     {
-        "_id": "dinos$244",
+        "_id": "dinos$246",
         "dinosaurName": "Saurophaganax",
         "englishTranslation": "king of the lizard eaters",
         "dinoType": {
-            "_id": "type$244",
+            "_id": "type$246",
             "dinosaurType": "large theropod",
             "species": "maximus",
             "length": 12.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$244",
+            "_id": "period$246",
             "periodName": "Late Jurassic",
             "years": "154-142 million years ago",
             "location": [
@@ -6615,26 +6615,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$244",
+            "_id": "taxonomy$246",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Allosauridae",
             "namedBy": "Chure (1996)",
-            "species": "type$244"
+            "species": "type$246"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurophaganax.html"
     },
     {
-        "_id": "dinos$245",
+        "_id": "dinos$247",
         "dinosaurName": "Saurornithoides",
         "englishTranslation": "Bird-like lizard",
         "dinoType": {
-            "_id": "type$245",
+            "_id": "type$247",
             "dinosaurType": "small theropod",
             "species": "mongoliensis",
             "length": 3.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$245",
+            "_id": "period$247",
             "periodName": "Late Cretaceous",
             "years": "85-80 million years ago",
             "location": [
@@ -6642,26 +6642,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$245",
+            "_id": "taxonomy$247",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Osborn (1924)",
-            "species": "type$245"
+            "species": "type$247"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/saurornithoides.html"
     },
     {
-        "_id": "dinos$246",
+        "_id": "dinos$248",
         "dinosaurName": "Scelidosaurus",
         "englishTranslation": "Limb lizard",
         "dinoType": {
-            "_id": "type$246",
+            "_id": "type$248",
             "dinosaurType": "armoured dinosaur",
             "species": "harrisonii",
             "length": 4.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$246",
+            "_id": "period$248",
             "periodName": "Early Jurassic",
             "years": "208-194 million years ago",
             "location": [
@@ -6669,26 +6669,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$246",
+            "_id": "taxonomy$248",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Scelidosauridae",
             "namedBy": "Owen (1868)",
-            "species": "type$246"
+            "species": "type$248"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/scelidosaurus.html"
     },
     {
-        "_id": "dinos$247",
+        "_id": "dinos$249",
         "dinosaurName": "Scutellosaurus",
         "englishTranslation": "Small shield lizard",
         "dinoType": {
-            "_id": "type$247",
+            "_id": "type$249",
             "dinosaurType": "armoured dinosaur",
             "species": "lawleri",
             "length": 1.2,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$247",
+            "_id": "period$249",
             "periodName": "Early Jurassic",
             "years": "205-202 million years ago",
             "location": [
@@ -6696,26 +6696,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$247",
+            "_id": "taxonomy$249",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora",
             "namedBy": "Colbert (1981)",
-            "species": "type$247"
+            "species": "type$249"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html"
     },
     {
-        "_id": "dinos$248",
+        "_id": "dinos$250",
         "dinosaurName": "Secernosaurus",
         "englishTranslation": "Separated lizard",
         "dinoType": {
-            "_id": "type$246",
+            "_id": "type$250",
             "dinosaurType": "euornithopod",
             "species": "koerneri",
             "length": 3.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$248",
+            "_id": "period$250",
             "periodName": "Late Cretaceous",
             "years": "71-65 million years ago",
             "location": [
@@ -6723,26 +6723,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$248",
+            "_id": "taxonomy$250",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Brett-Surman (1979)",
-            "species": "type$248"
+            "species": "type$250"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/secernosaurus.html"
     },
     {
-        "_id": "dinos$249",
+        "_id": "dinos$251",
         "dinosaurName": "Segisaurus",
         "englishTranslation": "Segi [Canyon] lizard",
         "dinoType": {
-            "_id": "type$249",
+            "_id": "type$251",
             "dinosaurType": "small theropod",
             "species": "halli",
             "length": 1.5,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$249",
+            "_id": "period$251",
             "periodName": "Mid Jurassic",
             "years": "195-180 million years ago",
             "location": [
@@ -6750,26 +6750,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$249",
+            "_id": "taxonomy$251",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Coelophysoidea Coelophysidae",
             "namedBy": "Camp (1936)",
-            "species": "type$249"
+            "species": "type$251"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/segisaurus.html"
     },
     {
-        "_id": "dinos$250",
+        "_id": "dinos$252",
         "dinosaurName": "Segnosaurus",
         "englishTranslation": "Slow lizard",
         "dinoType": {
-            "_id": "type$250",
+            "_id": "type$252",
             "dinosaurType": "large theropod",
             "species": "galbinensis",
             "length": 4.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$250",
+            "_id": "period$252",
             "periodName": "Late Cretaceous",
             "years": "97-98 million years ago",
             "location": [
@@ -6777,25 +6777,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$250",
+            "_id": "taxonomy$252",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Perle (1979)",
-            "species": "type$250"
+            "species": "type$252"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/segnosaurus.html"
     },
     {
-        "_id": "dinos$251",
+        "_id": "dinos$253",
         "dinosaurName": "Shamosaurus",
         "englishTranslation": "Desert lizard",
         "dinoType": {
-            "_id": "type$251",
+            "_id": "type$253",
             "dinosaurType": "armoured dinosaur",
             "species": "scutatus",
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$251",
+            "_id": "period$253",
             "periodName": "Early Cretaceous",
             "years": "121-99 million years ago",
             "location": [
@@ -6803,26 +6803,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$251",
+            "_id": "taxonomy$253",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Tumanova (1983)",
-            "species": "type$251"
+            "species": "type$253"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shamosaurus.html"
     },
     {
-        "_id": "dinos$252",
+        "_id": "dinos$254",
         "dinosaurName": "Shanag",
         "englishTranslation": "Named after the dancers in the Buddhist Tsam festival",
         "dinoType": {
-            "_id": "type$252",
+            "_id": "type$254",
             "dinosaurType": "small theropod",
             "species": "ashile",
             "length": 0.45,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$252",
+            "_id": "period$254",
             "periodName": "Early Cretaceous",
             "years": "126-142 million years ago",
             "location": [
@@ -6830,26 +6830,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$252",
+            "_id": "taxonomy$254",
             "taxonomyDetails": "Dinosauria Saurischia",
             "namedBy": "Turner Hwang and Norell (2007)",
-            "species": "type$252"
+            "species": "type$254"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shanag.html"
     },
     {
-        "_id": "dinos$253",
+        "_id": "dinos$255",
         "dinosaurName": "Shantungosaurus",
         "englishTranslation": "Shantung (=Shandong) lizard",
         "dinoType": {
-            "_id": "type$253",
+            "_id": "type$255",
             "dinosaurType": "euornithopod",
             "species": "giganteus",
             "length": 15.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$253",
+            "_id": "period$255",
             "periodName": "Late Cretaceous",
             "years": "78-74 million years ago",
             "location": [
@@ -6857,26 +6857,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$253",
+            "_id": "taxonomy$255",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Hadrosaurinae",
             "namedBy": "Hu (1973)",
-            "species": "type$253"
+            "species": "type$255"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shantungosaurus.html"
     },
     {
-        "_id": "dinos$254",
+        "_id": "dinos$256",
         "dinosaurName": "Shunosaurus",
         "englishTranslation": "Shuno lizard",
         "dinoType": {
-            "_id": "type$254",
+            "_id": "type$256",
             "dinosaurType": "sauropod",
             "species": "lii",
             "length": 10.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$254",
+            "_id": "period$256",
             "periodName": "Mid Jurassic",
             "years": "170-160 million years ago",
             "location": [
@@ -6884,26 +6884,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$254",
+            "_id": "taxonomy$256",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Dong Zhou and Zhang (1983)",
-            "species": "type$254"
+            "species": "type$256"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html"
     },
     {
-        "_id": "dinos$255",
+        "_id": "dinos$257",
         "dinosaurName": "Shuvuuia",
         "englishTranslation": "Bird",
         "dinoType": {
-            "_id": "type$255",
+            "_id": "type$257",
             "dinosaurType": "small theropod",
             "species": "deserti",
             "length": 0.6,
             "diet": "omnivorous"
         },
         "period": {
-            "_id": "period$255",
+            "_id": "period$257",
             "periodName": "Late Cretaceous",
             "years": "75-81 million years ago",
             "location": [
@@ -6911,26 +6911,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$255",
+            "_id": "taxonomy$257",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Alvarezsauridae",
             "namedBy": "Chiappe Norell and Clark (1998)",
-            "species": "type$255"
+            "species": "type$257"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/shuvuuia.html"
     },
     {
-        "_id": "dinos$256",
+        "_id": "dinos$258",
         "dinosaurName": "Silvisaurus",
         "englishTranslation": "Forest Lizard",
         "dinoType": {
-            "_id": "type$256",
+            "_id": "type$258",
             "dinosaurType": "armoured dinosaur",
             "species": "condrayi",
             "length": 4.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$256",
+            "_id": "period$258",
             "periodName": "Early Cretaceous",
             "years": "121-112 million years ago",
             "location": [
@@ -6938,26 +6938,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$256",
+            "_id": "taxonomy$258",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Eaton (1960)",
-            "species": "type$256"
+            "species": "type$258"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/silvisaurus.html"
     },
     {
-        "_id": "dinos$257",
+        "_id": "dinos$259",
         "dinosaurName": "Sinocalliopteryx",
         "englishTranslation": "Chinese beautiful feather",
         "dinoType": {
-            "_id": "type$257",
+            "_id": "type$259",
             "dinosaurType": "small theropod",
             "species": "gigas",
             "length": 2.37,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$257",
+            "_id": "period$259",
             "periodName": "Early Cretaceous",
             "years": "125 million years ago",
             "location": [
@@ -6965,26 +6965,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$257",
+            "_id": "taxonomy$259",
             "taxonomyDetails": "Dinosauria Saurischia",
             "namedBy": "Ji Ji Lü and Yuan (2007)",
-            "species": "type$257"
+            "species": "type$259"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinocalliopteryx.html"
     },
     {
-        "_id": "dinos$258",
+        "_id": "dinos$260",
         "dinosaurName": "Sinornithosaurus",
         "englishTranslation": "Chinese bird lizard",
         "dinoType": {
-            "_id": "type$258",
+            "_id": "type$260",
             "dinosaurType": "small theropod",
             "species": "millenii",
             "length": 2.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$258",
+            "_id": "period$260",
             "periodName": "Early Cretaceous",
             "years": "122-120 million years ago",
             "location": [
@@ -6992,26 +6992,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$258",
+            "_id": "taxonomy$260",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Xu Wang and Wu (1999)",
-            "species": "type$258"
+            "species": "type$260"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinornithosaurus.html"
     },
     {
-        "_id": "dinos$259",
+        "_id": "dinos$261",
         "dinosaurName": "Sinosauropteryx",
         "englishTranslation": "Chinese lizard wing",
         "dinoType": {
-            "_id": "type$259",
+            "_id": "type$261",
             "dinosaurType": "small theropod",
             "species": "prima",
             "length": 1.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$259",
+            "_id": "period$261",
             "periodName": "Early Cretaceous",
             "years": "122-120 million years ago",
             "location": [
@@ -7019,26 +7019,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$259",
+            "_id": "taxonomy$261",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Compsognathidae",
             "namedBy": "Ji and Ji (1996)",
-            "species": "type$259"
+            "species": "type$261"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
     },
     {
-        "_id": "dinos$260",
+        "_id": "dinos$262",
         "dinosaurName": "Sinovenator",
         "englishTranslation": "Chinese hunter",
         "dinoType": {
-            "_id": "type$260",
+            "_id": "type$262",
             "dinosaurType": "small theropod",
             "species": "changii",
             "length": 1.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$260",
+            "_id": "period$262",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
             "location": [
@@ -7046,26 +7046,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$260",
+            "_id": "taxonomy$262",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Xu Norell Wang Makovicky and Wu (2002)",
-            "species": "type$260"
+            "species": "type$262"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinovenator.html"
     },
     {
-        "_id": "dinos$261",
+        "_id": "dinos$263",
         "dinosaurName": "Sinraptor",
         "englishTranslation": "Chinese plunderer",
         "dinoType": {
-            "_id": "type$261",
+            "_id": "type$263",
             "dinosaurType": "large theropod",
             "species": "hepingensis",
             "length": 7.6,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$261",
+            "_id": "period$263",
             "periodName": "Mid Jurassic",
             "years": "169-142 million years ago",
             "location": [
@@ -7073,26 +7073,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$261",
+            "_id": "taxonomy$263",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
             "namedBy": "Gao (1992)",
-            "species": "type$261"
+            "species": "type$263"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sinraptor.html"
     },
     {
-        "_id": "dinos$262",
+        "_id": "dinos$264",
         "dinosaurName": "Sonidosaurus",
         "englishTranslation": "Sonid (area in which the type locality is) lizard",
         "dinoType": {
-            "_id": "type$262",
+            "_id": "type$264",
             "dinosaurType": "sauropod",
             "species": "saihangaobiensis",
             "length": 9.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$262",
+            "_id": "period$264",
             "periodName": "Late Cretaceous",
             "years": "89-65 million years ago",
             "location": [
@@ -7100,26 +7100,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$262",
+            "_id": "taxonomy$264",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Macronaria Camarasauromorpha Titanosauriformes Titanosauria",
             "namedBy": "Xu Zhang Tan Zhao and Tan (2006)",
-            "species": "type$262"
+            "species": "type$264"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/sonidosaurus.html"
     },
     {
-        "_id": "dinos$263",
+        "_id": "dinos$265",
         "dinosaurName": "Spinosaurus",
         "englishTranslation": "Thorn lizard",
         "dinoType": {
-            "_id": "type$263",
+            "_id": "type$265",
             "dinosaurType": "large theropod",
             "species": "aegyptiacus",
             "length": 18.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$263",
+            "_id": "period$265",
             "periodName": "Late Cretaceous",
             "years": "95-70 million years ago",
             "location": [
@@ -7127,26 +7127,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$263",
+            "_id": "taxonomy$265",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Spinosaurinae",
             "namedBy": "Stromer (1915)",
-            "species": "type$263"
+            "species": "type$265"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
     },
     {
-        "_id": "dinos$264",
+        "_id": "dinos$266",
         "dinosaurName": "Staurikosaurus",
         "englishTranslation": "Southern Cross lizard",
         "dinoType": {
-            "_id": "type$264",
+            "_id": "type$266",
             "dinosaurType": "large theropod",
             "species": "pricei",
             "length": 2.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$264",
+            "_id": "period$266",
             "periodName": "Late Triassic",
             "years": "227-221 million years ago",
             "location": [
@@ -7154,26 +7154,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$264",
+            "_id": "taxonomy$266",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Herrerasauridae",
             "namedBy": "Colbert (1970)",
-            "species": "type$264"
+            "species": "type$266"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/staurikosaurus.html"
     },
     {
-        "_id": "dinos$265",
+        "_id": "dinos$267",
         "dinosaurName": "Stegoceras",
         "englishTranslation": "Horny roof",
         "dinoType": {
-            "_id": "type$265",
+            "_id": "type$267",
             "dinosaurType": "euornithopod",
             "species": "validum",
             "length": 2.4,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$265",
+            "_id": "period$267",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
             "location": [
@@ -7181,26 +7181,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$265",
+            "_id": "taxonomy$267",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
             "namedBy": "Lambe (1902)",
-            "species": "type$265"
+            "species": "type$267"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html"
     },
     {
-        "_id": "dinos$266",
+        "_id": "dinos$268",
         "dinosaurName": "Stegosaurus",
         "englishTranslation": "Roof lizard",
         "dinoType": {
-            "_id": "type$266",
+            "_id": "type$268",
             "dinosaurType": "armoured dinosaur",
             "species": "armatus",
             "length": 9.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$266",
+            "_id": "period$268",
             "periodName": "Late Jurassic",
             "years": "155-145 million years ago",
             "location": [
@@ -7208,26 +7208,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$266",
+            "_id": "taxonomy$268",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Marsh (1877)",
-            "species": "type$266"
+            "species": "type$268"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
     },
     {
-        "_id": "dinos$267",
+        "_id": "dinos$269",
         "dinosaurName": "Stenopelix",
         "englishTranslation": "Narrow pelvis",
         "dinoType": {
-            "_id": "type$267",
+            "_id": "type$269",
             "dinosaurType": "ceratopsian",
             "species": "valdensis",
             "length": 1.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$267",
+            "_id": "period$269",
             "periodName": "Early Cretaceous",
             "years": "127-121 million years ago",
             "location": [
@@ -7235,26 +7235,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$267",
+            "_id": "taxonomy$269",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria",
             "namedBy": "Meyer (1857)",
-            "species": "type$267"
+            "species": "type$269"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/stenopelix.html"
     },
     {
-        "_id": "dinos$268",
+        "_id": "dinos$270",
         "dinosaurName": "Struthiomimus",
         "englishTranslation": "Ostrich mimic",
         "dinoType": {
-            "_id": "type$268",
+            "_id": "type$270",
             "dinosaurType": "small theropod",
             "species": "altus",
             "length": 4.0,
             "diet": "omnivorous"
         },
         "period": {
-            "_id": "period$268",
+            "_id": "period$270",
             "periodName": "Late Cretaceous",
             "years": "76-74 million years ago",
             "location": [
@@ -7262,26 +7262,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$268",
+            "_id": "taxonomy$270",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Ornithomimosauria Ornithomimidae",
             "namedBy": "Osborn (1917)",
-            "species": "type$268"
+            "species": "type$270"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/struthiomimus.html"
     },
     {
-        "_id": "dinos$269",
+        "_id": "dinos$271",
         "dinosaurName": "Struthiosaurus",
         "englishTranslation": "Ostrich lizard",
         "dinoType": {
-            "_id": "type$269",
+            "_id": "type$271",
             "dinosaurType": "armoured dinosaur",
             "species": "austriacus",
             "length": 2.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$269",
+            "_id": "period$271",
             "periodName": "Late Cretaceous",
             "years": "83-75 million years ago",
             "location": [
@@ -7289,26 +7289,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$269",
+            "_id": "taxonomy$271",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Nodosauridae",
             "namedBy": "Bunzel (1871)",
-            "species": "type$269"
+            "species": "type$271"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/struthiosaurus.html"
     },
     {
-        "_id": "dinos$270",
+        "_id": "dinos$272",
         "dinosaurName": "Styracosaurus",
         "englishTranslation": "Spiked lizard",
         "dinoType": {
-            "_id": "type$270",
+            "_id": "type$272",
             "dinosaurType": "ceratopsian",
             "species": "albertensis",
             "length": 5.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$270",
+            "_id": "period$272",
             "periodName": "Late Cretaceous",
             "years": "76-70 million years ago",
             "location": [
@@ -7316,26 +7316,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$270",
+            "_id": "taxonomy$272",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Centrosaurinae",
             "namedBy": "Lambe (1913)",
-            "species": "type$270"
+            "species": "type$272"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html"
     },
     {
-        "_id": "dinos$271",
+        "_id": "dinos$273",
         "dinosaurName": "Suchomimus",
         "englishTranslation": "Crocodile mimic",
         "dinoType": {
-            "_id": "type$271",
+            "_id": "type$273",
             "dinosaurType": "large theropod",
             "species": "tenerensis",
             "length": 11.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$271",
+            "_id": "period$273",
             "periodName": "Early Cretaceous",
             "years": "121-112 million years ago",
             "location": [
@@ -7343,26 +7343,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$271",
+            "_id": "taxonomy$273",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Spinosauridae Baryonychinae",
             "namedBy": "Sereno Beck Dutheil Gado Larsson Lyon Marcot Rauhut Sadleir Sidor Varricchio Wilson and Wilson (1998)",
-            "species": "type$271"
+            "species": "type$273"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html"
     },
     {
-        "_id": "dinos$272",
+        "_id": "dinos$274",
         "dinosaurName": "Supersaurus",
         "englishTranslation": "Super lizard",
         "dinoType": {
-            "_id": "type$272",
+            "_id": "type$274",
             "dinosaurType": "sauropod",
             "species": "vivianae",
             "length": 35.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$272",
+            "_id": "period$274",
             "periodName": "Early Cretaceous",
             "years": "154-142 million years ago",
             "location": [
@@ -7370,26 +7370,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$272",
+            "_id": "taxonomy$274",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda Neosauropoda Diplodocoidea Diplodocidae",
             "namedBy": "Jansen (1985)",
-            "species": "type$272"
+            "species": "type$274"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/supersaurus.html"
     },
     {
-        "_id": "dinos$273",
+        "_id": "dinos$275",
         "dinosaurName": "Talarurus",
         "englishTranslation": "Wicker tail",
         "dinoType": {
-            "_id": "type$273",
+            "_id": "type$275",
             "dinosaurType": "armoured dinosaur",
             "species": "plicatospineus",
             "length": 6.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$273",
+            "_id": "period$275",
             "periodName": "Late Cretaceous",
             "years": "99-89 million years ago",
             "location": [
@@ -7397,25 +7397,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$273",
+            "_id": "taxonomy$275",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Maleev (1952)",
-            "species": "type$273"
+            "species": "type$275"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/talarurus.html"
     },
     {
-        "_id": "dinos$274",
+        "_id": "dinos$276",
         "dinosaurName": "Tanius",
         "englishTranslation": "[H. C.] Tan",
         "dinoType": {
-            "_id": "type$274",
+            "_id": "type$276",
             "dinosaurType": "euornithopod",
             "species": "sinensis",
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$274",
+            "_id": "period$276",
             "periodName": "Late Cretaceous",
             "years": "89-65 million years ago",
             "location": [
@@ -7423,26 +7423,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$274",
+            "_id": "taxonomy$276",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Wiman (1929)",
-            "species": "type$274"
+            "species": "type$276"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tanius.html"
     },
     {
-        "_id": "dinos$275",
+        "_id": "dinos$277",
         "dinosaurName": "Tarbosaurus",
         "englishTranslation": "Alarming lizard",
         "dinoType": {
-            "_id": "type$275",
+            "_id": "type$277",
             "dinosaurType": "large theropod",
             "species": "bataar",
             "length": 10.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$275",
+            "_id": "period$277",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
             "location": [
@@ -7450,26 +7450,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$275",
+            "_id": "taxonomy$277",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
             "namedBy": "Maleev (1955)",
-            "species": "type$275"
+            "species": "type$277"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html"
     },
     {
-        "_id": "dinos$276",
+        "_id": "dinos$278",
         "dinosaurName": "Tarchia",
         "englishTranslation": "Brainy one",
         "dinoType": {
-            "_id": "type$276",
+            "_id": "type$278",
             "dinosaurType": "armoured dinosaur",
             "species": "gigantea",
             "length": 8.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$276",
+            "_id": "period$278",
             "periodName": "Late Cretaceous",
             "years": "75-68 million years ago",
             "location": [
@@ -7477,26 +7477,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$276",
+            "_id": "taxonomy$278",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosaurinae",
             "namedBy": "Maleev (1956)",
-            "species": "type$276"
+            "species": "type$278"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html"
     },
     {
-        "_id": "dinos$277",
+        "_id": "dinos$279",
         "dinosaurName": "Telmatosaurus",
         "englishTranslation": "Swamp lizard",
         "dinoType": {
-            "_id": "type$277",
+            "_id": "type$279",
             "dinosaurType": "euornithopod",
             "species": "transsylvanicus",
             "length": 5.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$277",
+            "_id": "period$279",
             "periodName": "Late Cretaceous",
             "years": "84-65 million years ago",
             "location": [
@@ -7504,26 +7504,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$277",
+            "_id": "taxonomy$279",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae",
             "namedBy": "Nopcsa (1900)",
-            "species": "type$277"
+            "species": "type$279"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/telmatosaurus.html"
     },
     {
-        "_id": "dinos$278",
+        "_id": "dinos$280",
         "dinosaurName": "Tenontosaurus",
         "englishTranslation": "Sinew lizard",
         "dinoType": {
-            "_id": "type$278",
+            "_id": "type$280",
             "dinosaurType": "euornithopod",
             "species": "tillettorum",
             "length": 7.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$278",
+            "_id": "period$280",
             "periodName": "Early Cretaceous",
             "years": "120-110 million years ago",
             "location": [
@@ -7531,26 +7531,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$278",
+            "_id": "taxonomy$280",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia",
             "namedBy": "Ostrom (1970)",
-            "species": "type$278"
+            "species": "type$280"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html"
     },
     {
-        "_id": "dinos$279",
+        "_id": "dinos$281",
         "dinosaurName": "Thecodontosaurus",
         "englishTranslation": "Socket-toothed lizard",
         "dinoType": {
-            "_id": "type$279",
+            "_id": "type$281",
             "dinosaurType": "sauropod",
             "species": "antiquus",
             "length": 2.5,
             "diet": "omnivorous"
         },
         "period": {
-            "_id": "period$279",
+            "_id": "period$281",
             "periodName": "Late Triassic",
             "years": "227-205 million years ago",
             "location": [
@@ -7558,24 +7558,24 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$279",
+            "_id": "taxonomy$281",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
             "namedBy": "Morris (1843)",
-            "species": "type$279"
+            "species": "type$281"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/thecodontosaurus.html"
     },
     {
-        "_id": "dinos$280",
+        "_id": "dinos$282",
         "dinosaurName": "Therizinosaurus",
         "englishTranslation": "Scythe lizard",
         "dinoType": {
-            "_id": "type$280",
+            "_id": "type$282",
             "dinosaurType": "large theropod",
             "species": "cheloniformis"
         },
         "period": {
-            "_id": "period$280",
+            "_id": "period$282",
             "periodName": "Late Cretaceous",
             "years": "85-70 million years ago",
             "location": [
@@ -7583,26 +7583,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$280",
+            "_id": "taxonomy$282",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Therizinosauroidea Therizinosauridae",
             "namedBy": "Maleev (1915)",
-            "species": "type$280"
+            "species": "type$282"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html"
     },
     {
-        "_id": "dinos$281",
+        "_id": "dinos$283",
         "dinosaurName": "Thescelosaurus",
         "englishTranslation": "Wonderful lizard",
         "dinoType": {
-            "_id": "type$281",
+            "_id": "type$283",
             "dinosaurType": "euornithopod",
             "species": "neglectus",
             "length": 3.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$281",
+            "_id": "period$283",
             "periodName": "Late Cretaceous",
             "years": "76-67 million years ago",
             "location": [
@@ -7610,26 +7610,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$281",
+            "_id": "taxonomy$283",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Gilmore (1913)",
-            "species": "type$281"
+            "species": "type$283"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html"
     },
     {
-        "_id": "dinos$282",
+        "_id": "dinos$284",
         "dinosaurName": "Torosaurus",
         "englishTranslation": "Bull lizard",
         "dinoType": {
-            "_id": "type$282",
+            "_id": "type$284",
             "dinosaurType": "ceratopsian",
             "species": "latus",
             "length": 7.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$282",
+            "_id": "period$284",
             "periodName": "Late Cretaceous",
             "years": "70-65 million years ago",
             "location": [
@@ -7637,26 +7637,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$282",
+            "_id": "taxonomy$284",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Marsh (1891)",
-            "species": "type$282"
+            "species": "type$284"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/torosaurus.html"
     },
     {
-        "_id": "dinos$283",
+        "_id": "dinos$285",
         "dinosaurName": "Torvosaurus",
         "englishTranslation": "Savage lizard",
         "dinoType": {
-            "_id": "type$283",
+            "_id": "type$285",
             "dinosaurType": "large theropod",
             "species": "tanneri",
             "length": 10.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$283",
+            "_id": "period$285",
             "periodName": "Late Jurassic",
             "years": "155-144 million years ago",
             "location": [
@@ -7664,26 +7664,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$283",
+            "_id": "taxonomy$285",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Spinosauroidea Megalosauridae Megalosaurinae",
             "namedBy": "Galton and Jensen (1979)",
-            "species": "type$283"
+            "species": "type$285"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/torvosaurus.html"
     },
     {
-        "_id": "dinos$284",
+        "_id": "dinos$286",
         "dinosaurName": "Triceratops",
         "englishTranslation": "Three-horned face",
         "dinoType": {
-            "_id": "type$284",
+            "_id": "type$286",
             "dinosaurType": "ceratopsian",
             "species": "horridus",
             "length": 9.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$284",
+            "_id": "period$286",
             "periodName": "Late Cretaceous",
             "years": "68-66 million years ago",
             "location": [
@@ -7691,26 +7691,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$284",
+            "_id": "taxonomy$286",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria Ceratopsidae Chasmosaurinae",
             "namedBy": "Marsh (1889)",
-            "species": "type$284"
+            "species": "type$286"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
     },
     {
-        "_id": "dinos$285",
+        "_id": "dinos$287",
         "dinosaurName": "Troodon",
         "englishTranslation": "Wounding tooth",
         "dinoType": {
-            "_id": "type$285",
+            "_id": "type$287",
             "dinosaurType": "small theropod",
             "species": "formosus",
             "length": 2.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$285",
+            "_id": "period$287",
             "periodName": "Late Cretaceous",
             "years": "74-65 million years ago",
             "location": [
@@ -7718,25 +7718,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$285",
+            "_id": "taxonomy$287",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptoria Troodontidae",
             "namedBy": "Leidy (1856)",
-            "species": "type$285"
+            "species": "type$287"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/troodon.html"
     },
     {
-        "_id": "dinos$286",
+        "_id": "dinos$288",
         "dinosaurName": "Tsagantegia",
         "englishTranslation": "Tsagan Teg",
         "dinoType": {
-            "_id": "type$286",
+            "_id": "type$288",
             "dinosaurType": "armoured dinosaur",
             "species": "longicranialis",
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$286",
+            "_id": "period$288",
             "periodName": "Late Cretaceous",
             "years": "99-84 million years ago",
             "location": [
@@ -7744,26 +7744,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$286",
+            "_id": "taxonomy$288",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Ankylosauromorpha Ankylosauria Ankylosauridae",
             "namedBy": "Tumanova (1993)",
-            "species": "type$286"
+            "species": "type$288"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tsagantegia.html"
     },
     {
-        "_id": "dinos$287",
+        "_id": "dinos$289",
         "dinosaurName": "Tsintaosaurus",
         "englishTranslation": "Qingdao lizard",
         "dinoType": {
-            "_id": "type$287",
+            "_id": "type$289",
             "dinosaurType": "euornithopod",
             "species": "spinorhinus",
             "length": 12.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$287",
+            "_id": "period$289",
             "periodName": "Late Cretaceous",
             "years": "84-71 million years ago",
             "location": [
@@ -7771,26 +7771,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$287",
+            "_id": "taxonomy$289",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Ankylopollexia Iguanodontoidea Hadrosauridae Euhadrosauria Lambeosaurinae",
             "namedBy": "Young (1958)",
-            "species": "type$287"
+            "species": "type$289"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html"
     },
     {
-        "_id": "dinos$288",
+        "_id": "dinos$290",
         "dinosaurName": "Tuojiangosaurus",
         "englishTranslation": "Tuo River lizard",
         "dinoType": {
-            "_id": "type$288",
+            "_id": "type$290",
             "dinosaurType": "armoured dinosaur",
             "species": "multispinus",
             "length": 7.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$288",
+            "_id": "period$290",
             "periodName": "Late Jurassic",
             "years": "157-154 million years ago",
             "location": [
@@ -7798,26 +7798,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$288",
+            "_id": "taxonomy$290",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria Stegosauridae Stegosaurinae",
             "namedBy": "Dong Li Zhou and Zhang (1973)",
-            "species": "type$288"
+            "species": "type$290"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html"
     },
     {
-        "_id": "dinos$289",
+        "_id": "dinos$291",
         "dinosaurName": "Tylocephale",
         "englishTranslation": "Swelling head",
         "dinoType": {
-            "_id": "type$289",
+            "_id": "type$291",
             "dinosaurType": "euornithopod",
             "species": "gilmorei",
             "length": 1.4,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$289",
+            "_id": "period$291",
             "periodName": "Late Cretaceous",
             "years": "75-72 million years ago",
             "location": [
@@ -7825,26 +7825,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$289",
+            "_id": "taxonomy$291",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Pachycephalosauria Goyocephala Homalocephaloidea Pachycephalosauridae",
             "namedBy": "Maryańska and Osmólska (1974)",
-            "species": "type$289"
+            "species": "type$291"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tylocephale.html"
     },
     {
-        "_id": "dinos$290",
+        "_id": "dinos$292",
         "dinosaurName": "Tyrannosaurus",
         "englishTranslation": "Tyrant lizard",
         "dinoType": {
-            "_id": "type$290",
+            "_id": "type$292",
             "dinosaurType": "large theropod",
             "species": "rex",
             "length": 12.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$290",
+            "_id": "period$292",
             "periodName": "Late Cretaceous",
             "years": "68-66 million years ago",
             "location": [
@@ -7852,25 +7852,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$290",
+            "_id": "taxonomy$292",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Tyrannosauroidea Tyrannosauridae Tyrannosaurinae",
             "namedBy": "Osborn (1905)",
-            "species": "type$290"
+            "species": "type$292"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
     },
     {
-        "_id": "dinos$290",
+        "_id": "dinos$293",
         "dinosaurName": "Udanoceratops",
         "englishTranslation": "Udan [Sayr] horned face",
         "dinoType": {
-            "_id": "type$290",
+            "_id": "type$293",
             "dinosaurType": "ceratopsian",
             "species": "tschizhovi",
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$290",
+            "_id": "period$293",
             "periodName": "Late Cretaceous",
             "years": "81-75 million years ago",
             "location": [
@@ -7878,26 +7878,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$290",
+            "_id": "taxonomy$293",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia",
             "namedBy": "Kurzanov (1992)",
-            "species": "type$290"
+            "species": "type$293"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/udanoceratops.html"
     },
     {
-        "_id": "dinos$291",
+        "_id": "dinos$294",
         "dinosaurName": "Unenlagia",
         "englishTranslation": "Half bird",
         "dinoType": {
-            "_id": "type$291",
+            "_id": "type$294",
             "dinosaurType": "small theropod",
             "species": "comahuensis",
             "length": 2.4,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$291",
+            "_id": "period$294",
             "periodName": "Late Cretaceous",
             "years": "94-86 million years ago",
             "location": [
@@ -7905,26 +7905,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$291",
+            "_id": "taxonomy$294",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Novas and Puerta (1997)",
-            "species": "type$291"
+            "species": "type$294"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/unenlagia.html"
     },
     {
-        "_id": "dinos$292",
+        "_id": "dinos$295",
         "dinosaurName": "Urbacodon",
         "englishTranslation": "URBAC tooth",
         "dinoType": {
-            "_id": "type$292",
+            "_id": "type$295",
             "dinosaurType": "small theropod",
             "species": "itemirensis",
             "length": 1.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$292",
+            "_id": "period$295",
             "periodName": "Late Cretaceous",
             "years": "95 million years ago",
             "location": [
@@ -7932,26 +7932,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$292",
+            "_id": "taxonomy$295",
             "taxonomyDetails": "Dinosauria Saurischia",
             "namedBy": "Averianov and Sues (2007)",
-            "species": "type$292"
+            "species": "type$295"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/urbacodon.html"
     },
     {
-        "_id": "dinos$293",
+        "_id": "dinos$296",
         "dinosaurName": "Utahraptor",
         "englishTranslation": "Utah plunderer",
         "dinoType": {
-            "_id": "type$293",
+            "_id": "type$296",
             "dinosaurType": "large theropod",
             "species": "ostrommaysorum",
             "length": 6.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$293",
+            "_id": "period$296",
             "periodName": "Early Cretaceous",
             "years": "112-100 million years ago",
             "location": [
@@ -7959,26 +7959,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$293",
+            "_id": "taxonomy$296",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Kirkland Gaston and Burge (1993)",
-            "species": "type$293"
+            "species": "type$296"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html"
     },
     {
-        "_id": "dinos$294",
+        "_id": "dinos$297",
         "dinosaurName": "Valdosaurus",
         "englishTranslation": "Wealden lizard",
         "dinoType": {
-            "_id": "type$294",
+            "_id": "type$297",
             "dinosaurType": "euornithopod",
             "species": "canaliculatus",
             "length": 3.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$294",
+            "_id": "period$297",
             "periodName": "Early Cretaceous",
             "years": "142-121 million years ago",
             "location": [
@@ -7986,26 +7986,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$294",
+            "_id": "taxonomy$297",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Euiguanadontia Dryomorpha Dryosauridae",
             "namedBy": "Galton (1975)",
-            "species": "type$294"
+            "species": "type$297"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/valdosaurus.html"
     },
     {
-        "_id": "dinos$295",
+        "_id": "dinos$298",
         "dinosaurName": "Velociraptor",
         "englishTranslation": "Quick plunderer",
         "dinoType": {
-            "_id": "type$295",
+            "_id": "type$298",
             "dinosaurType": "small theropod",
             "species": "mongoliensis",
             "length": 1.8,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$295",
+            "_id": "period$298",
             "periodName": "Late Cretaceous",
             "years": "74-70 million years ago",
             "location": [
@@ -8013,26 +8013,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$295",
+            "_id": "taxonomy$298",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Coelurosauria Tyrannoraptora Maniraptoriformes Maniraptora Paraves Eumaniraptora Dromaeosauridae",
             "namedBy": "Osborn (1924)",
-            "species": "type$295"
+            "species": "type$298"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
     },
     {
-        "_id": "dinos$296",
+        "_id": "dinos$299",
         "dinosaurName": "Vulcanodon",
         "englishTranslation": "Volcano tooth",
         "dinoType": {
-            "_id": "type$296",
+            "_id": "type$299",
             "dinosaurType": "sauropod",
             "species": "karibaensis",
             "length": 6.5,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$296",
+            "_id": "period$299",
             "periodName": "Early Jurassic",
             "years": "205-202 million years ago",
             "location": [
@@ -8040,26 +8040,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$296",
+            "_id": "taxonomy$299",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Vulcanodontidae",
             "namedBy": "Raath (1972)",
-            "species": "type$296"
+            "species": "type$299"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/vulcanodon.html"
     },
     {
-        "_id": "dinos$297",
+        "_id": "dinos$300",
         "dinosaurName": "Yandusaurus",
         "englishTranslation": "Yandu lizard",
         "dinoType": {
-            "_id": "type$297",
+            "_id": "type$300",
             "dinosaurType": "euornithopod",
             "species": "hongheensis",
             "length": 3.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$297",
+            "_id": "period$300",
             "periodName": "Mid Jurassic",
             "years": "169-159 million years ago",
             "location": [
@@ -8067,26 +8067,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$297",
+            "_id": "taxonomy$300",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "He (1979)",
-            "species": "type$297"
+            "species": "type$300"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yandusaurus.html"
     },
     {
-        "_id": "dinos$298",
+        "_id": "dinos$301",
         "dinosaurName": "Yangchuanosaurus",
         "englishTranslation": "Yandu lizard",
         "dinoType": {
-            "_id": "type$298",
+            "_id": "type$301",
             "dinosaurType": "large theropod",
             "species": "shangyouensis",
             "length": 10.0,
             "diet": "carnivorous"
         },
         "period": {
-            "_id": "period$298",
+            "_id": "period$301",
             "periodName": "Late Jurassic",
             "years": "160-144  million years ago",
             "location": [
@@ -8094,26 +8094,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$298",
+            "_id": "taxonomy$301",
             "taxonomyDetails": "Dinosauria Saurischia Theropoda Neotheropoda Tetanurae Avetheropoda Carnosauria Allosauroidea Sinraptoridae",
             "namedBy": "Dong Chang Li and Zhou (1978)",
-            "species": "type$298"
+            "species": "type$301"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html"
     },
     {
-        "_id": "dinos$299",
+        "_id": "dinos$302",
         "dinosaurName": "Yimenosaurus",
         "englishTranslation": "Yimen lizard",
         "dinoType": {
-            "_id": "type$299",
+            "_id": "type$302",
             "dinosaurType": "sauropod",
             "species": "youngi",
             "length": 9.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$299",
+            "_id": "period$302",
             "periodName": "Early Jurassic",
             "years": "195-190  million years ago",
             "location": [
@@ -8121,25 +8121,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$299",
+            "_id": "taxonomy$302",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda",
             "namedBy": "Bai Yang and Wang (1990)",
-            "species": "type$299"
+            "species": "type$302"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yimenosaurus.html"
     },
     {
-        "_id": "dinos$300",
+        "_id": "dinos$303",
         "dinosaurName": "Yingshanosaurus",
         "englishTranslation": "Mt. Ying lizard",
         "dinoType": {
-            "_id": "type$300",
+            "_id": "type$303",
             "dinosaurType": "armoured dinosaur",
             "species": "jichuanensis",
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$300",
+            "_id": "period$303",
             "periodName": "Late Jurassic",
             "years": "159-142 million years ago",
             "location": [
@@ -8147,26 +8147,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$300",
+            "_id": "taxonomy$303",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Thyreophora Stegosauria",
             "namedBy": "Watanabe (1992)",
-            "species": "type$300"
+            "species": "type$303"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yingshanosaurus.html"
     },
     {
-        "_id": "dinos$301",
+        "_id": "dinos$304",
         "dinosaurName": "Yinlong",
         "englishTranslation": "Hidden dragon",
         "dinoType": {
-            "_id": "type$301",
+            "_id": "type$304",
             "dinosaurType": "ceratopsian",
             "species": "downsi",
             "length": 1.2,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$301",
+            "_id": "period$304",
             "periodName": "Mid Jurassic",
             "years": "159-154  million years ago",
             "location": [
@@ -8174,26 +8174,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$301",
+            "_id": "taxonomy$304",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia",
             "namedBy": "Xu Forster Clark and Mo (2006)",
-            "species": "type$301"
+            "species": "type$304"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yinlong.html"
     },
     {
-        "_id": "dinos$302",
+        "_id": "dinos$305",
         "dinosaurName": "Yuanmousaurus",
         "englishTranslation": "Yuanmou (area where the type locality is) lizard",
         "dinoType": {
-            "_id": "type$302",
+            "_id": "type$305",
             "dinosaurType": "sauropod",
             "species": "jiangyiensis",
             "length": 17.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$302",
+            "_id": "period$305",
             "periodName": "Mid Jurassic",
             "years": "180-159 million years ago",
             "location": [
@@ -8201,26 +8201,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$302",
+            "_id": "taxonomy$305",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Sauropoda Eusauropoda",
             "namedBy": "Lü Li Ji Wang Zhang and Dong (2006)",
-            "species": "type$302"
+            "species": "type$305"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yuanmousaurus.html"
     },
     {
-        "_id": "dinos$303",
+        "_id": "dinos$306",
         "dinosaurName": "Yunnanosaurus",
         "englishTranslation": "Yunnan lizard",
         "dinoType": {
-            "_id": "type$303",
+            "_id": "type$306",
             "dinosaurType": "sauropod",
             "species": "huangi",
             "length": 7.0,
             "diet": "omnivorous"
         },
         "period": {
-            "_id": "period$303",
+            "_id": "period$306",
             "periodName": "Early Jurassic",
             "years": "205-190 million years ago",
             "location": [
@@ -8228,26 +8228,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$303",
+            "_id": "taxonomy$306",
             "taxonomyDetails": "Dinosauria Saurischia Sauropodomorpha Prosauropoda Plateosauria",
             "namedBy": "Young (1942)",
-            "species": "type$303"
+            "species": "type$306"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/yunnanosaurus.html"
     },
     {
-        "_id": "dinos$304",
+        "_id": "dinos$307",
         "dinosaurName": "Zalmoxes",
         "englishTranslation": "Zalmoxes (Dacian deity)",
         "dinoType": {
-            "_id": "type$304",
+            "_id": "type$307",
             "dinosaurType": "euornithopod",
             "species": "robustus",
             "length": 3.0,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$304",
+            "_id": "period$307",
             "periodName": "Late Cretaceous",
             "years": "69  million years ago",
             "location": [
@@ -8255,26 +8255,26 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$304",
+            "_id": "taxonomy$307",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda Iguanadontia Rhabdodontidae",
             "namedBy": "Nopcsa (1902)",
-            "species": "type$304"
+            "species": "type$307"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zalmoxes.html"
     },
     {
-        "_id": "dinos$305",
+        "_id": "dinos$308",
         "dinosaurName": "Zephyrosaurus",
         "englishTranslation": "West wind lizard",
         "dinoType": {
-            "_id": "type$305",
+            "_id": "type$308",
             "dinosaurType": "euornithopod",
             "species": "schaffi",
             "length": 1.8,
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$305",
+            "_id": "period$308",
             "periodName": "Early Cretaceous",
             "years": "120-110 million years ago",
             "location": [
@@ -8282,25 +8282,25 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$305",
+            "_id": "taxonomy$308",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Ornithopoda Euornithopoda",
             "namedBy": "Sues (1980)",
-            "species": "type$305"
+            "species": "type$308"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zephyrosaurus.html"
     },
     {
-        "_id": "dinos$306",
+        "_id": "dinos$309",
         "dinosaurName": "Zuniceratops",
         "englishTranslation": "Zuni-horned face",
         "dinoType": {
-            "_id": "type$306",
+            "_id": "type$309",
             "dinosaurType": "ceratopsian",
             "species": "christopheri",
             "diet": "herbivorous"
         },
         "period": {
-            "_id": "period$306",
+            "_id": "period$309",
             "periodName": "Late Cretaceous",
             "years": "94-89  million years ago",
             "location": [
@@ -8308,10 +8308,10 @@
             ]
         },
         "taxonomy": {
-            "_id": "taxonomy$306",
+            "_id": "taxonomy$309",
             "taxonomyDetails": "Dinosauria Ornithischia Genasauria Cerapoda Marginocephalia Ceratopsia Neoceratopsia Coronosauria",
             "namedBy": "Wolfe and Kirkland (1998)",
-            "species": "type$306"
+            "species": "type$309"
         },
         "link": "https://www.nhm.ac.uk/discover/dino-directory/zuniceratops.html"
     }
